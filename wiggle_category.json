@@ -1,0 +1,162 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+            "name": "Hot Picks",
+            "remixCount": 2982058,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "a0aefd6f-5bf0-4177-859f-19d7326f3099",
+            "name": "Christmas ",
+            "remixCount": 50335,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "c8887c3b-508c-4a11-bed4-a534dd51853f",
+            "name": "Dance Buddy",
+            "remixCount": 261799,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "29661304-1f44-43a3-8937-1afb0982b653",
+            "name": "Meme",
+            "remixCount": 2686631,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+            "name": "Most Popular",
+            "remixCount": 18587666,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "5f50be96-f80e-4bd2-9ce5-566eb1bd768a",
+            "name": "Motion Impossible",
+            "remixCount": 165432,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "a2b1452e-9fdd-4245-9bd7-4e574f3c26f4",
+            "name": "Birthday",
+            "remixCount": 3396,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+            "name": "Soccer",
+            "remixCount": 4897295,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+            "name": "Sports",
+            "remixCount": 7800127,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+            "name": "Singing \u0026 Dancing",
+            "remixCount": 31231542,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+            "name": "Movie \u0026 TV",
+            "remixCount": 1095775,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+            "name": "Trending",
+            "remixCount": 5284595,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+            "name": "NBA",
+            "remixCount": 1459457,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "c058ef92-4bd2-499e-9785-c805ccae8498",
+            "name": "Baseball",
+            "remixCount": 92783,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+            "name": "NFL",
+            "remixCount": 144163,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "789096c2-89aa-47bf-9476-2f054043c7ef",
+            "name": "Fashion",
+            "remixCount": 411280,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "220fd947-5486-48ba-b08c-ca492266f225",
+            "name": "Anime",
+            "remixCount": 290620,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+            "name": "Comedy",
+            "remixCount": 9548394,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+            "name": "Games",
+            "remixCount": 738569,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+            "name": "Basic Moves",
+            "remixCount": 281200,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "25daf002-b4b2-44d4-9835-780f2a81d1cd",
+            "name": "Expression",
+            "remixCount": 107779,
+            "single": null,
+            "multiple": null
+        },
+        {
+            "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+            "name": "Discover",
+            "remixCount": 40045626,
+            "single": null,
+            "multiple": null
+        }
+    ]
+}
