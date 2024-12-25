@@ -1,0 +1,3580 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "626b8107-5288-444f-b344-0e8f15701cc7",
+            "command": "$if_an_alligator_grabs_you",
+            "webCommand": "If An Alligator Grabs You",
+            "description": "simulation scenario",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "If An Alligator Grabs You"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "zackdfilms92",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7edbf1ef-e43d-4226-b6ee-d3ef4b9ce230.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/47ed7467-6e6c-4f61-93b5-44e7865ce371",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/132e24b2-b077-425d-9e0d-fe701a34ef86.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/754fb7b0-cc12-4a0a-a19e-8194eb461ce5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/47ed7467-6e6c-4f61-93b5-44e7865ce371",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734917017775-69dcefb7-46b6-4b9b-b642-9a305ccc1648.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/9d504bd3-c124-4b9a-bfd7-6d8852e56bd8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/0f002b1b-a15e-4e3a-affc-484e8484e83d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/734c4d41-2c4c-4967-a6eb-6d7f6171f369.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e42a3693-c949-4e61-bfc5-58510abc0698.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5e4e456e-1689-4ded-b472-4ff85869dcfb.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734918451578-7b31ca81-b14d-49ca-93a3-001505135a2f.jpg",
+            "videoDuration": 24.76,
+            "gifURL": "https://cdn.viggle.ai/template/1734917018923-350fd4e6-51c1-48cf-b8db-2eb368711ee4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734917018182-1b492cac-a104-473e-b945-448429325caf.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: zackdfilms92",
+            "referenceImageURL": "https://cdn.viggle.ai/template/aacbdcb5-599d-4252-8cc2-67a1163395bd.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/aacbdcb5-599d-4252-8cc2-67a1163395bd.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "83da22b3-ec34-498b-bcfc-0c87969121ed",
+                    "groupUuid": "83da22b3-ec34-498b-bcfc-0c87969121ed",
+                    "url": "https://cdn.viggle.ai/template/db1f978f-88d7-49c2-a2f2-951bec8b54fd",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/aacbdcb5-599d-4252-8cc2-67a1163395bd.jpg",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "83da22b3-ec34-498b-bcfc-0c87969121ed"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=qcihHB-BzKteJGVBUYT_111wBY8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "38143e07-2c92-42d6-9efa-3cb7bf431677",
+            "command": "$farewell_my_love_mailin_#麦琳_#麦麦_#熏鸡",
+            "webCommand": "Farewell My Love Mailin #麦琳 #麦麦 #熏鸡",
+            "description": "麦琳买熏鸡",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Farewell My Love Mailin"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a2f640d7-e1f9-48d3-a373-8bc496420ed6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3edd7ee3-f4b1-40a5-a515-3c70167ea167",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1cfa8046-cd28-4119-a3dc-50cb492c27cf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e3d922b7-632d-4cce-b167-da003b63a869.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3edd7ee3-f4b1-40a5-a515-3c70167ea167",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732530140865-97a0f8b4-f5e3-4c6e-8516-faafc581ce83.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d66d802e-fd06-4a3b-9f4d-43dabcb5f793.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c2f69e51-ff57-4073-924d-3e0ea33a48e0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/50140eef-3a5a-48bb-a387-652d2383ad83.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e9484e44-6e74-4d31-8fbf-85817a891798.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f5d512c0-0b16-49fd-9ea5-d92c6a4d7ac7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732785317150-2bf312b0-949d-4856-b769-94f2b466ce2d.jpg",
+            "videoDuration": 7.68,
+            "gifURL": "https://cdn.viggle.ai/template/1732530141828-d1f3d070-f03d-4611-a7de-f587e21383ac.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732530141165-936f5949-084c-41c8-b148-5fb55a0ed93b.webp",
+            "rleBoundingData": null,
+            "source": "Douyin",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3e5d1a1c-10f7-4bf3-bff7-d49083348989.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3e5d1a1c-10f7-4bf3-bff7-d49083348989.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "36fbc5f2-7357-4576-96d5-2db49b7ffb47",
+                    "groupUuid": "36fbc5f2-7357-4576-96d5-2db49b7ffb47",
+                    "url": "https://cdn.viggle.ai/template/3e5d1a1c-10f7-4bf3-bff7-d49083348989.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Monica",
+                    "startFrame": 0,
+                    "trackId": "36fbc5f2-7357-4576-96d5-2db49b7ffb47"
+                }
+            ],
+            "width": 1468,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "97a0b239-9492-4683-a918-4889a863a786",
+                "nickname": "Viggle AI",
+                "avatar": "https://cdn.viggle.ai/avatar/dd17e4a4-e4ff-4568-8849-27378af7c87b.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=0phk6OMUwSqL5FlrAH615l0vGzc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+                    "name": "Movie \u0026 TV",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9528a602-7e13-4ff6-902d-e941543d7659",
+            "command": "$the_dancing_plague",
+            "webCommand": "The Dancing Plague",
+            "description": "zackdfilms92",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "The Dancing Plague"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "zackdfilms92",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e38fe8c2-4691-4ac0-819b-9f652605ed4c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c039af14-b2d2-4ffb-a6a8-e1df668e051c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/17915b35-1959-4aa8-988b-8bb4a6db5143.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/6881d607-f762-4908-b7f3-e3eeb4feb086.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c039af14-b2d2-4ffb-a6a8-e1df668e051c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734640478981-668da707-cba3-40db-93cc-9848c23add8d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/57b8f715-8a6e-4ffc-a4ea-e5398430fb0d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/26ff8ce8-ef6c-42fc-8f40-e47f5001eb01.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/79764bfd-fa2d-4b91-b9d0-28df91011b0c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c83ce223-1c63-4b6a-bf1f-ef4d22f16900.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4cf05e67-f09c-4ce4-9693-8462e18952f6.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734720014965-a2ca27c7-9882-47c2-8118-a527bd916a59.jpg",
+            "videoDuration": 43.08,
+            "gifURL": "https://cdn.viggle.ai/template/1734640480298-04d1a49f-174d-4074-81d3-ce25757589f4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734640479369-9af9f510-e451-4d77-805f-b07899579465.webp",
+            "rleBoundingData": null,
+            "source": "zackdfilms92",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ce8f6478-3ad5-41f0-9d0e-a25a4a567916.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ce8f6478-3ad5-41f0-9d0e-a25a4a567916.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "1ab38e97-254c-471f-a2e0-509c588b228b",
+                    "groupUuid": "1ab38e97-254c-471f-a2e0-509c588b228b",
+                    "url": "https://cdn.viggle.ai/template/ce8f6478-3ad5-41f0-9d0e-a25a4a567916.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "1ab38e97-254c-471f-a2e0-509c588b228b"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=qcihHB-BzKteJGVBUYT_111wBY8="
+            },
+            "tags": [
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9d221eef-3da7-4629-b228-4e970d2d5367",
+            "command": "$suspect’s_memory",
+            "webCommand": "Suspect’s Memory",
+            "description": "Hahaha my grandma did not understand",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Suspect’s Memory Grandma"
+                }
+            ],
+            "multiType": 1,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "lexibrookerivera",
+            "processedMiniURL": "https://cdn.viggle.ai/template/97fcf36b-43f0-4984-b779-c1b283faf5f0.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1759005b-1e96-4ec2-a3d3-1adba4667753",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4303ecd9-f39a-49bd-8f26-7721aa4a17d9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/794ed867-8852-4d63-90cc-cb6b476148dd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1759005b-1e96-4ec2-a3d3-1adba4667753",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732182743440-79ae98d8-d398-46ae-a651-7fe2b5904c85.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/35f605be-bb92-4272-97ef-49e4951c0eea.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/93b5c15f-cc65-4790-b5ae-6aac320bb6cc.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7cf0f649-304c-489a-8836-6b6ba24d7e65.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7595fd2d-1546-4ac8-8eee-7a8e67e33afb.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/0987845b-3371-476c-8cf7-8e9ada3fcd5b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732605224361-c6e6e038-83c0-43d6-96a2-6718ebe8d2e1.jpg",
+            "videoDuration": 20.88,
+            "gifURL": "https://cdn.viggle.ai/template/1732182744308-932dc5af-0ff9-4734-aeaa-0dfa8d01280e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732182743791-ce4b5860-ffff-4f06-b2cc-62e8068a6016.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: lexibrookerivera",
+            "referenceImageURL": "",
+            "referenceImageSdURL": "",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a2a37934-a1d0-4c32-be0e-4f0ad0794f87",
+                    "groupUuid": "a2a37934-a1d0-4c32-be0e-4f0ad0794f87",
+                    "url": "https://cdn.viggle.ai/template/a7f91d4f-c551-4505-9369-9e73582154e1",
+                    "uploadedUrl": "",
+                    "name": "Jane",
+                    "startFrame": 0,
+                    "trackId": "a2a37934-a1d0-4c32-be0e-4f0ad0794f87"
+                },
+                {
+                    "uuid": "df38cc02-44d0-4ee9-bb62-4367a23adec0",
+                    "groupUuid": "df38cc02-44d0-4ee9-bb62-4367a23adec0",
+                    "url": "https://cdn.viggle.ai/template/bf87b543-582d-4ea5-b332-84f264ab684c",
+                    "uploadedUrl": "",
+                    "name": "Fiona",
+                    "startFrame": 0,
+                    "trackId": "df38cc02-44d0-4ee9-bb62-4367a23adec0"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=JWL7CgRwreKQTNhR9bwG7dC3SLY="
+            },
+            "tags": [
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "fe320662-c361-4177-bb81-74b6ae964acd",
+                    "name": "Multi-Person",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "2f48089e-3b4d-466b-8e1f-0d0663c9d6f9",
+            "command": "$you_are_gay",
+            "webCommand": "You Are Gay",
+            "description": "Sexual Identity: PSA's of the Future",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "You Are Gay"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "The Second City",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a0c4d59c-1e4d-449b-ba62-66250705d17f.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/dc6f8342-8f80-4b24-bb76-54f2524e61d9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/850dd48f-adde-45ae-8efd-4b5ee6818331.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4fea0c86-e29b-428d-af69-23adb4feed64.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/dc6f8342-8f80-4b24-bb76-54f2524e61d9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734083919432-7abae88b-4620-4814-a149-10ac98e10f15.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/11d13033-0e4c-4f6d-84f7-29ab3f378958.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/64ae481b-c9e7-4d92-95f7-e4a645e3b623.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ff14acdb-f473-469d-9209-86037469f524.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b5a31fd0-bb8e-466d-8baa-5b0a657bd87a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/64ae481b-c9e7-4d92-95f7-e4a645e3b623.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734090624508-82406d6f-7f93-4159-99d7-6de948b30b51.jpg",
+            "videoDuration": 32.32,
+            "gifURL": "https://cdn.viggle.ai/template/1734083920308-dcdb4f74-dc17-4fb7-9f3e-d91891b01910.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734083919766-5713b6f0-f05b-4a17-95ce-0fca70d5c553.webp",
+            "rleBoundingData": null,
+            "source": "TikTok:The Second City",
+            "referenceImageURL": "https://cdn.viggle.ai/template/59b89331-5567-466a-a406-090a46a43a9f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/59b89331-5567-466a-a406-090a46a43a9f.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "0e34991e-b3d6-41c3-8740-3b1a59ef42b7",
+                    "groupUuid": "0e34991e-b3d6-41c3-8740-3b1a59ef42b7",
+                    "url": "https://cdn.viggle.ai/template/59b89331-5567-466a-a406-090a46a43a9f.png",
+                    "uploadedUrl": "",
+                    "name": "Jack",
+                    "startFrame": 0,
+                    "trackId": "0e34991e-b3d6-41c3-8740-3b1a59ef42b7"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=15hEhZ7IG6RVF2qYAauov4HxEhU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e88c5f81-717f-48a6-8362-cc2743790aaa",
+            "command": "$cuteness_overload",
+            "webCommand": "Cuteness Overload",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Cuteness Overload"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Tara Seaman",
+            "processedMiniURL": "https://cdn.viggle.ai/template/03ec72b5-1eef-4f06-b487-5cd0871e8c8d.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8ee28c08-1745-4b7a-a950-8932d6a55728",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9cd458e0-743f-485a-ba93-62f8493073c0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/de58f69c-1211-4dd5-a732-f2cae4d5f80e.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8ee28c08-1745-4b7a-a950-8932d6a55728",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731454475116-01956a05-dec2-4f8d-8f5e-75a6e8a814f3.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b9973487-d3c9-4c67-be4b-dc0202f372fb.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2040374d-c668-4998-af12-d4bb94d121db.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f656f096-e563-47b6-b175-4a11763d4a02.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/cce8fc20-fc2f-4b9b-b420-967bcb346761.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c7ab4c2d-9b5a-4278-9f37-df4e1993ea8b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731581830739-69ad844b-67ae-4fd9-be80-ee3bd9d3fe7a.jpg",
+            "videoDuration": 29.56,
+            "gifURL": "https://cdn.viggle.ai/template/1731454476322-d76254a4-5edf-43a8-a066-786369c66706.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731454475555-70b42d0b-8fee-4d7f-9265-1db6ffe464b6.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: Tara Seaman",
+            "referenceImageURL": "https://cdn.viggle.ai/template/589bf5a9-1d8e-4d79-9e6d-4e72201b1076.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/589bf5a9-1d8e-4d79-9e6d-4e72201b1076.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "bc2a0479-7443-427e-94c5-32a48a124f0a",
+                    "groupUuid": "bc2a0479-7443-427e-94c5-32a48a124f0a",
+                    "url": "https://cdn.viggle.ai/template/589bf5a9-1d8e-4d79-9e6d-4e72201b1076.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "bc2a0479-7443-427e-94c5-32a48a124f0a"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "c4677b45-cf84-4bba-bc33-1568247de668",
+                "nickname": "loveisreal_azu2007",
+                "avatar": "https://cdn.viggle.ai/template/fdb22562-db8b-484c-9696-01339106bdd1.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=ran3WnBbtarUZLBe_nVulk1nUi0="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1237ae14-695a-48f7-b7fd-e28b137d9cad",
+            "command": "$oscar_will_smith_smacks_chris_rock",
+            "webCommand": "Oscar Will Smith Smacks Chris Rock",
+            "description": "Watch the uncensored moment Will Smith smacks Chris Rock on stage at the Oscars, drops F-bomb",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Oscar Will Smith Smacks Chris Rock "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Guardian News",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a6881c38-1e3e-4d81-90c4-f3e29483affb.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c1a20f6b-8727-4b2e-b53a-61ad7233e124",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2516ce47-b891-40e6-9a17-f517b19e3be7.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0c8670a9-2514-4143-a883-d742cd645fc2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c1a20f6b-8727-4b2e-b53a-61ad7233e124",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730259082394-a74a715c-5406-4734-b8a4-86f0fd35f9b1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c2073554-59c2-46b3-bf63-9cb9a09178bd.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/485a7103-15ec-41c2-b8cd-3feb4b0a41e5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/eee37230-c4e3-41a1-a493-5ea22a66a47e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a0bcf35c-4319-44ac-9ce5-472b05826c08.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/485a7103-15ec-41c2-b8cd-3feb4b0a41e5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731923828323-ad3cc365-531b-497e-afd0-22505727e02c.jpg",
+            "videoDuration": 22.92,
+            "gifURL": "https://cdn.viggle.ai/template/1730709726289-71e7fb0c-688b-48bd-9042-951d1cd02141.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709725322-0f8b31b9-a4c3-4e61-92cb-398061729a78.webp",
+            "rleBoundingData": null,
+            "source": "Youtube： Guardian News",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1629edf7-dff9-4c2d-85e1-26a0a8f5c1c4.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1629edf7-dff9-4c2d-85e1-26a0a8f5c1c4.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "eee81009-91ad-4b32-b226-fe463b524cea",
+                    "groupUuid": "eee81009-91ad-4b32-b226-fe463b524cea",
+                    "url": "https://cdn.viggle.ai/template/1629edf7-dff9-4c2d-85e1-26a0a8f5c1c4.jpg",
+                    "uploadedUrl": "",
+                    "name": "William",
+                    "startFrame": 0,
+                    "trackId": "eee81009-91ad-4b32-b226-fe463b524cea"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "f0bbc74a-9a17-4dd4-a877-6a00222c4f1b",
+                "nickname": "ace.wave09",
+                "avatar": "https://cdn.viggle.ai/template/22c30625-48c0-4cc3-8594-7b334c48685f.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=DkK--b0yV5m9a6iiEqAH2bnmmhk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6501bbca-bc02-4ff0-8879-3a6c5bed749a",
+            "command": "$carry_the_brick_meme",
+            "webCommand": "Carry The Brick Meme",
+            "description": "@Артем Карокозян",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Carry The Brick Meme "
+                },
+                {
+                    "type": 1,
+                    "value": "#meme"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "davidcastain",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b5611f5b-269b-4c5e-9e58-199c8e6d7443.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/73465717-a913-422b-acf0-11d2c8800eba",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bda0a6c9-b835-4968-88ec-cc0ddd7d94a1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d8a2f553-b95b-4790-b3fb-841d11cfce79.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/73465717-a913-422b-acf0-11d2c8800eba",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731411551633-77972893-0d10-438d-9c97-8ee1f693de8c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/cc58105e-440e-4bab-9908-cc79a7c2078f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/250d0cde-4b17-4bf7-b193-419e6eb1d186.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/da362a9e-9583-4f2e-ab51-aab35a674ee7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d606149b-f9ff-4ac0-badc-97b30fffc61e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/026a4a1b-38a1-4be7-95cd-03bcd58fcd98.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731582145010-d89f43bf-4ae7-4625-92d6-c4304f516c75.jpg",
+            "videoDuration": 14.12,
+            "gifURL": "https://cdn.viggle.ai/template/1731411552628-15784b6d-6e57-4434-9d7e-66dfe8caaf19.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731411551969-d24cbaf3-c198-4086-89b2-d5592b285bd4.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: davidcastain",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6441b137-f1d2-423c-b464-397be8b5a36f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6441b137-f1d2-423c-b464-397be8b5a36f.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "cb413fc7-fe31-424e-9814-54b913df91cd",
+                    "groupUuid": "cb413fc7-fe31-424e-9814-54b913df91cd",
+                    "url": "https://cdn.viggle.ai/template/6441b137-f1d2-423c-b464-397be8b5a36f.png",
+                    "uploadedUrl": "",
+                    "name": "Frank",
+                    "startFrame": 0,
+                    "trackId": "cb413fc7-fe31-424e-9814-54b913df91cd"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "af91e6d8-26ba-4c1b-8867-78db6f3dc582",
+                "nickname": "yama000",
+                "avatar": "https://cdn.viggle.ai/template/5a99678b-2cf3-4414-bbc6-37301db952e2.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=Ktj29oW7ru1kQvgmpz0H2TMbVRQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "27164120-9903-4688-af7c-98e5e5e00583",
+            "command": "$ishowspeed_ladies_watch_this",
+            "webCommand": "Ishowspeed Ladies Watch This",
+            "description": "iShowSpeed \"ladies watch this\" 😂",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ladies Watch This Ishowspeed"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Speedy Boykins",
+            "processedMiniURL": "https://cdn.viggle.ai/template/240ba148-f637-43d7-a76d-c9df456382f5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9a81b504-ce0f-48c9-84e5-e38e93cc18af",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/056bf06b-5298-4964-a06b-6347173daa97.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ca8a02ff-ccb8-4cec-98a6-66a0222d293b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9a81b504-ce0f-48c9-84e5-e38e93cc18af",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730187773361-1567f9b5-c73e-4d78-9126-5174e14f73bd.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f2f6db8a-78d1-498f-b1c9-d77ec26991a1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4da47a92-b27d-4f12-9a36-16d7e1a4f89c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/54f82b38-c7c6-40cd-bc83-6b990e49aae6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6a8410a9-dd8e-46eb-8a30-fd208be539a8.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4da47a92-b27d-4f12-9a36-16d7e1a4f89c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730187867188-d7a89679-2504-450f-b183-a5442fecf163.jpg",
+            "videoDuration": 13.64,
+            "gifURL": "https://cdn.viggle.ai/template/1730709690822-621b188b-52fe-4e38-99ff-668c56239f02.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709689790-3c1b1889-b28c-4154-8194-049ddfc99853.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Speedy Boykins",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0b992546-f234-4504-838a-771236127cb9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/0b992546-f234-4504-838a-771236127cb9.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "89b33a7e-f255-4b0c-8a6c-d356951668a5",
+                    "groupUuid": "89b33a7e-f255-4b0c-8a6c-d356951668a5",
+                    "url": "https://cdn.viggle.ai/template/0b992546-f234-4504-838a-771236127cb9.png",
+                    "uploadedUrl": "",
+                    "name": "Spencer",
+                    "startFrame": 0,
+                    "trackId": "89b33a7e-f255-4b0c-8a6c-d356951668a5"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "af91e6d8-26ba-4c1b-8867-78db6f3dc582",
+                "nickname": "yama000",
+                "avatar": "https://cdn.viggle.ai/template/5a99678b-2cf3-4414-bbc6-37301db952e2.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=Ktj29oW7ru1kQvgmpz0H2TMbVRQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "25c5c36c-9d28-40a5-b70b-5e43d1d0d8a8",
+            "command": "$clingy_kid",
+            "webCommand": "Clingy Kid",
+            "description": "When your sneaky link son gets too attached",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Clingy Kid"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Zayh",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c5c5cfbc-c3b5-421e-9c3b-e26efe1fb261.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c0451140-d5f8-4e93-b743-b141ad77346e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c18c40a9-4520-45f8-8852-566915051751.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/bf176133-cdec-44d0-b320-b34936a21f2e.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c0451140-d5f8-4e93-b743-b141ad77346e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731361628753-9832853d-2863-432e-944b-42ebe68a1234.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/958f8064-66e5-4eed-a321-9abafe73f154.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/317cf2e7-5b34-43b8-93fc-ed1dfb07d0ca.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2461cf63-7fd6-4f6b-9ff2-453bb2ce8303.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8f0836a2-20dd-4a45-bbec-02509bb92ea3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8e234f19-669e-4f73-bf92-967656e0dc28.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731582186858-5ee1739b-bf1d-4d73-ac1a-77d108301328.jpg",
+            "videoDuration": 8.08,
+            "gifURL": "https://cdn.viggle.ai/template/1731361629643-80327669-4f60-45a7-b51d-dca75ce86449.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731361629056-8a09aaf1-508b-4edc-bddb-830b26075321.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: Zayh",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7c529253-be55-409d-b533-6c0e1bc28705.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7c529253-be55-409d-b533-6c0e1bc28705.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "98ef68c0-1997-44a1-bf45-d1facaeb6e79",
+                    "groupUuid": "98ef68c0-1997-44a1-bf45-d1facaeb6e79",
+                    "url": "https://cdn.viggle.ai/template/7c529253-be55-409d-b533-6c0e1bc28705.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "98ef68c0-1997-44a1-bf45-d1facaeb6e79"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "91da4fa3-cd18-4644-a0cf-b3192dd1d247",
+                "nickname": "Zyro",
+                "avatar": "https://cdn.viggle.ai/template/6dadbb67-d6c4-4f4f-bbb6-e4f632f29282.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=IpneEN6hV3xDQBPZffBsHFc0X4g="
+            },
+            "tags": [
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bf98b49b-e291-4b2c-a5c2-75a0d97bc3c4",
+            "command": "$security_cheer_dance",
+            "webCommand": "Security Cheer Dance",
+            "description": "American football ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Security Cheer Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "espn",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4740d5cc-6605-4aec-8575-562bc6b9bfa7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/25553bcd-6528-41ce-a6af-516a9780ea0d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8786c70b-ae0b-4698-915d-c890f1011c00.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/fb5e723d-d152-435f-ba42-c287261a323d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/25553bcd-6528-41ce-a6af-516a9780ea0d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728095552520-06029edc-892b-4693-ac9f-f1e42f251552.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/83a4701f-436b-422d-b75e-cead5d072379.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/80c51c4c-4ef1-48aa-8c15-05f9bd76f481.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/20b75ceb-6d2d-49e9-ad86-6121559c339e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/cc5fb4b2-c88d-46b4-9f73-dd1534658fb6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/21f47d1d-f41f-4435-add1-f949edce8b87.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730879957663-f282d57a-35a2-46e8-ac35-8d004d477cba.jpg",
+            "videoDuration": 17.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730709257047-fddac570-5795-4911-b0ab-8985e2be5ee2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709256075-ab940c44-c73d-4d6d-a186-1d4bb6bc5a50.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: espn",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d2c3f8bc-4b2d-4f14-b241-8cfc20075173.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d2c3f8bc-4b2d-4f14-b241-8cfc20075173.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ab494401-df81-40f1-a837-c506a090f658",
+                    "groupUuid": "ab494401-df81-40f1-a837-c506a090f658",
+                    "url": "https://cdn.viggle.ai/template/d2c3f8bc-4b2d-4f14-b241-8cfc20075173.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "ab494401-df81-40f1-a837-c506a090f658"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "f775e1d8-4194-4d33-a6d1-94df3addc746",
+                "nickname": "Irrr_joymass",
+                "avatar": "https://cdn.viggle.ai/template/5e95d60a-a543-41dc-9bc2-42e51d5406f6.jpeg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=HA3B7r8Y5brAAKfTVG1GAk-Vy9s="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "fcbfd44e-496a-4099-9457-b44a6dcf9cd4",
+            "command": "$apple_levitation_magic",
+            "webCommand": "Apple Levitation Magic",
+            "description": "Maybe the real magic was the friends we made along the way ❤️🥲",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Apple Levitation Magic"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "ZachKing",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fd480dab-5366-484b-bc4b-551fa6404bc6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/14c13bd6-14a1-46af-b8f5-b0624c881f4a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/173508ba-8a78-4f6b-a17c-fba4e2f79bc9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/47a1aa0d-6cf6-47b3-b0ea-10cadd457c10.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/14c13bd6-14a1-46af-b8f5-b0624c881f4a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730179129555-a2a1282a-115f-4b12-a285-debfd631b4a7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a7b05e97-d0a2-49d7-b221-933b1927c77a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/32d72fa3-4f37-4093-a00f-f663c8ff64b1.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0abd8dec-9a9c-4fc7-96e5-d3f5ba236dea.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9f16fa26-71d3-4fae-b591-233e13066d15.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/32d72fa3-4f37-4093-a00f-f663c8ff64b1.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730179749281-1592b33c-1b35-40d4-ab9c-36cc396e12cd.jpg",
+            "videoDuration": 7.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709684141-a83c74c8-584a-449e-a76e-fafb2855ac73.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709683008-e501700a-d549-4200-ad9a-5f9289ba4066.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: ZachKing",
+            "referenceImageURL": "https://cdn.viggle.ai/template/13f6beff-2f41-4622-8afa-f1103e5134d8.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/13f6beff-2f41-4622-8afa-f1103e5134d8.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a1bd243d-b36e-45bf-8ad8-202863118267",
+                    "groupUuid": "a1bd243d-b36e-45bf-8ad8-202863118267",
+                    "url": "https://cdn.viggle.ai/template/13f6beff-2f41-4622-8afa-f1103e5134d8.png",
+                    "uploadedUrl": "",
+                    "name": "Bob",
+                    "startFrame": 0,
+                    "trackId": "a1bd243d-b36e-45bf-8ad8-202863118267"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "e780a293-5776-4c9c-926b-867729700a58",
+                "nickname": "ironhawk.1",
+                "avatar": "https://cdn.viggle.ai/template/bd69d06d-3eb7-4347-b155-af90f839f30f.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=3hkkSuv-MLECMiYDjB1NqBpHQVA="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3bfbb7e2-b824-4116-885b-8e94a0aba8f9",
+            "command": "$one_two_cha_cha_cha",
+            "webCommand": "One Two Cha Cha Cha",
+            "description": "Kid Cute",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "One Two Cha Cha Cha"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Senore Ricardo",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e3450bfd-b49b-481e-a155-23a4ff3e5fb9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8ce82433-1d01-4bae-b7be-17a8dc78aff5",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/cb8fad7a-6d80-493c-bdb1-e0b7951da854.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1a0d812a-57d7-4e24-a9a0-c0cfe53ab42c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8ce82433-1d01-4bae-b7be-17a8dc78aff5",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727734885322-355c81cd-f8a5-4ca0-8692-4f4760cf5d61.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0d336d1b-85cd-4871-809b-ce83391738ad.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a6e7038d-3fa9-494e-9185-d7ceefe48c88.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/484056e0-f7cc-45a7-acb3-1bc2666171fa.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2eebce95-9cc0-437b-a4c0-1139549c9c53.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bf0403a0-3e0a-4f2c-9aa3-ff6311424d9d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727754496960-2f6fb87b-2d0f-4f7b-8b76-91a318b9ae8b.jpg",
+            "videoDuration": 21.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730709207470-6d49e90e-1023-46d6-9ac0-1e841023dcbd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709206608-2c18c1e4-b392-4ab1-a120-e48b2029453d.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Senore Ricardo",
+            "referenceImageURL": "https://cdn.viggle.ai/template/476a9630-83fd-43d3-8ca5-a16a860bb6fe.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/476a9630-83fd-43d3-8ca5-a16a860bb6fe.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "018d5da7-988a-4e2c-905d-7613e5ff99c9",
+                    "groupUuid": "018d5da7-988a-4e2c-905d-7613e5ff99c9",
+                    "url": "https://cdn.viggle.ai/template/476a9630-83fd-43d3-8ca5-a16a860bb6fe.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "018d5da7-988a-4e2c-905d-7613e5ff99c9"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "22ac7eee-31a6-456d-986f-192b3f591152",
+                "nickname": "Misty",
+                "avatar": "https://cdn.viggle.ai/template/3d27bc28-7049-4dbd-95c6-a0e455a6dd4a.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=zz8AOV3zuiY6z7DxyJoIOGWe08o="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7949df00-6aae-49e3-b018-5d163b1d8fa4",
+            "command": "$ticiano_caetano_ídolos_2009",
+            "webCommand": "Ticiano Caetano Ídolos 2009",
+            "description": "Ticiano Caetano Ídolos 2009",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ticiano Caetano Ídolos 2009"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "luizhcosta",
+            "ttCreatorName": "luizhcosta",
+            "processedMiniURL": "https://cdn.viggle.ai/template/424f4c7e-c15e-4491-8042-8113858c741e.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/10d41dc2-a92d-4fd9-b8d1-34d7b1bb5274",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/04f56b41-1b9a-43df-853f-06387650a587.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/505049aa-560b-4c4f-b017-2d01e5d33089.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/10d41dc2-a92d-4fd9-b8d1-34d7b1bb5274",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732787816725-7b072e95-6308-48a9-8cc0-428f47580837.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d35d698b-8d56-4f6d-a319-6a4adee237ae.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/526651d7-4ad1-4655-a9d7-e29f63c02552.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/39e3a470-1e6d-4f99-a90f-31c021704fd1.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/47e6de21-3fa4-4fdb-b933-c08ef035f060.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d57d7db4-f10b-4a5e-9cea-a7222a8ea642.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732866126696-c2c28e86-58a2-4a72-86d1-56bc38e035cc.jpg",
+            "videoDuration": 36.68,
+            "gifURL": "https://cdn.viggle.ai/template/1732787817837-66e190f3-ea7d-448b-9fc1-f02ed3fcada2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732787817039-954bb750-b5f0-4362-9d10-7c93863f7b19.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: luizhcosta",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a9518c32-069e-4167-8091-f9f8b214526d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a9518c32-069e-4167-8091-f9f8b214526d.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d596f3e1-34ab-497e-ab8f-2a6395befc61",
+                    "groupUuid": "d596f3e1-34ab-497e-ab8f-2a6395befc61",
+                    "url": "https://cdn.viggle.ai/template/a9518c32-069e-4167-8091-f9f8b214526d.png",
+                    "uploadedUrl": "",
+                    "name": "Thomas",
+                    "startFrame": 0,
+                    "trackId": "d596f3e1-34ab-497e-ab8f-2a6395befc61"
+                }
+            ],
+            "width": 480,
+            "height": 360,
+            "isNew": false,
+            "user": {
+                "id": "7b16f686-78ef-4d9e-807b-7787754c89cf",
+                "nickname": "Sunset",
+                "avatar": "https://cdn.viggle.ai/template/3b12972e-a95c-420e-bb13-eac31a5909f4.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=RysQ8BFia1Aqp4FW6XvyWpecd6U="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+                    "name": "Movie \u0026 TV",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bae14e28-50d6-45fa-898a-5da21bce8687",
+            "command": "$there_is_no_excuse_meme",
+            "webCommand": "There Is No Excuse Meme",
+            "description": "Francis?. no hay excusas",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "There Is No Excuse Meme"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "brayan.clon",
+            "ttCreatorName": "brayan.clon",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d0201fee-e38b-4463-964e-5e310a11491c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c396c608-f0b0-4322-8ea0-2076997e0cc0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/46dc7eec-cbab-48ee-aaa4-2a7b04512c65.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7481f46d-7278-4b2a-bd6b-94295b430455.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c396c608-f0b0-4322-8ea0-2076997e0cc0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727578744129-05ea219f-c536-4276-9a31-61e552d24a47.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2cc89057-e91d-4501-8205-cebb7709350b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8597c05a-d210-4a9b-aeaf-4798f879a889.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a052e87f-5eff-42a7-89c2-b64436549bd6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9fdf8fed-ab88-4234-8cf6-c10bb4ca9ba3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8597c05a-d210-4a9b-aeaf-4798f879a889.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727579776048-3a945c20-0d1b-46be-a5fe-fff4b29454f9.jpg",
+            "videoDuration": 24.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730709163913-9752f7f8-40eb-4083-8e28-0c61489a32bb.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709163119-faf12d5a-1a79-4cd4-bd54-821adcb33090.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: brayan.clon",
+            "referenceImageURL": "https://cdn.viggle.ai/template/22e23dca-056f-437a-b877-58ee3980e402.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/22e23dca-056f-437a-b877-58ee3980e402.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "b12f8ca1-112b-48fb-817b-4d03610c1d0a",
+                    "groupUuid": "b12f8ca1-112b-48fb-817b-4d03610c1d0a",
+                    "url": "https://cdn.viggle.ai/template/22e23dca-056f-437a-b877-58ee3980e402.png",
+                    "uploadedUrl": "",
+                    "name": "Henry",
+                    "startFrame": 0,
+                    "trackId": "b12f8ca1-112b-48fb-817b-4d03610c1d0a"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=JWL7CgRwreKQTNhR9bwG7dC3SLY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+                    "name": "Movie \u0026 TV",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "411a4bff-cb3e-42c8-ba92-988751dfd5b3",
+            "command": "$ding_dong_eat_it_up",
+            "webCommand": "Ding Dong Eat It Up",
+            "description": "Ding dong eat up eat it well and mix it up",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ding Dong Eat It Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "football.ryba",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0d10f116-9431-42b8-9587-561215f51bcc.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/76eb5421-5a06-477d-8984-1316222df1a9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f2664a9e-c4b5-45b3-a408-9e99d2bc383d.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c15f50af-7814-4435-83bd-0a016aa76ff8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/76eb5421-5a06-477d-8984-1316222df1a9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729587356079-d4cdd54a-f203-46a5-8558-957455d3d364.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/32e8dfc0-5cb9-4313-8eb1-ed85d15e57b8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/0ae9175e-8789-4f0b-b377-f508d94e67a9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/3c2abe30-beed-4b91-b485-e4efe86f6e00.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3bd3b722-a333-46b2-aafa-5a61ba80a261.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/03095be1-ee7a-4941-a69b-8b98b5461089.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729589420970-3c225ff4-71eb-4a31-bafa-9f13c9c5b7b4.jpg",
+            "videoDuration": 16.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709578742-3f8f96cc-ccbb-4e32-95fd-29e4fad635d7.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709577805-3ba5955e-a745-4231-8e7f-de17c283c5bb.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: football.ryba",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2007f952-cebd-4aca-a07d-c2bcfad31278.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2007f952-cebd-4aca-a07d-c2bcfad31278.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "23c22a9e-9fe4-4c2b-b3a5-7d060b5acd0d",
+                    "groupUuid": "23c22a9e-9fe4-4c2b-b3a5-7d060b5acd0d",
+                    "url": "https://cdn.viggle.ai/template/2007f952-cebd-4aca-a07d-c2bcfad31278.jpg",
+                    "uploadedUrl": "",
+                    "name": "Jacob",
+                    "startFrame": 0,
+                    "trackId": "23c22a9e-9fe4-4c2b-b3a5-7d060b5acd0d"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=NwlOua1qFp7LiUtWnLOGBppoEjo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "699695af-fa97-4106-b68e-0deca8daa4da",
+            "command": "$brainrot_announcement",
+            "webCommand": "Brainrot Announcement",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Brainrot Announcement"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "george.r2810",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b4e987d2-81d5-4d93-a6ea-a8fb58a823ff.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/630e23a7-119e-4042-99d3-beedf82a14d3",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ee08889c-a13c-49b2-849c-3b0ea9a0da65.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3c2d4cea-508b-4825-929e-30cbdc86732b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/630e23a7-119e-4042-99d3-beedf82a14d3",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727707343851-2fcf4060-1abf-45a7-9ea6-8afa65dbd849.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/642f295e-adf8-4206-9671-aa072915a47c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e1dca927-ba82-4271-b8df-e2ec775e28a5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1f4f8ba1-a3b2-49df-9d50-bfb6e07e913e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1f5cccee-d0c1-4c34-b52c-8ac7e693e24e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1d810f7f-b62d-4e2c-88f4-59d60c571f52.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727738655928-fe3dabcf-3fce-4336-b083-71adb4da344d.jpg",
+            "videoDuration": 30.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730709193780-0ec1340e-de8b-4d38-bd9c-4576f18ba08c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709193079-a6112d73-5661-44ce-ba6b-e75967323817.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: george.r2810",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8e486171-767c-47b9-8593-caea3a4444cc.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8e486171-767c-47b9-8593-caea3a4444cc.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "365bff8c-3f80-4099-a8be-fa62923ffacc",
+                    "groupUuid": "365bff8c-3f80-4099-a8be-fa62923ffacc",
+                    "url": "https://cdn.viggle.ai/template/8e486171-767c-47b9-8593-caea3a4444cc.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "365bff8c-3f80-4099-a8be-fa62923ffacc"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "e0ea7b28-b922-470b-9d95-9ddf2ef5b25c",
+                "nickname": "Cotton",
+                "avatar": "https://cdn.viggle.ai/template/caade60d-9933-4475-badb-c8b7399f2fc0.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=K5bEeb9AkRAz4Uj6bokPvCT3vMo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c8f4aa50-b756-4308-8d52-666c84b22bc5",
+            "command": "$bye_bye_bye_with_dinosaur",
+            "webCommand": "Bye Bye Bye with Dinosaur",
+            "description": "dinosaurio ☠",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bye Bye Bye with Dinosaur"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "brayan.clon",
+            "ttCreatorName": "brayan.clon",
+            "processedMiniURL": "https://cdn.viggle.ai/template/200fe5cc-eeb5-4807-9b0a-73505d934989",
+            "processedURL": "https://cdn.viggle.ai/template/200fe5cc-eeb5-4807-9b0a-73505d934989",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/200fe5cc-eeb5-4807-9b0a-73505d934989",
+            "processedLargeURL": "https://cdn.viggle.ai/template/200fe5cc-eeb5-4807-9b0a-73505d934989",
+            "processedHdURL": "https://cdn.viggle.ai/template/200fe5cc-eeb5-4807-9b0a-73505d934989",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726726376809-c03cdb73-6f00-487c-afe4-16fd74c97962.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ac4ae0da-85c9-4d74-a8ea-bdb38bfd3d93.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5c2847d1-1ae7-41e8-877b-b95a1bd526c3.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4bc540cb-57f8-4ee3-b1d1-ca8590024841.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/856d9760-0df4-41af-a80d-dddabeb61180.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/063ffe1b-cfa1-49be-a511-e84e3015cc15.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732789565887-e9a89167-2f2b-4e5f-be80-1e3280bec2e1.jpg",
+            "videoDuration": 17.950385,
+            "gifURL": "https://cdn.viggle.ai/template/1730708978136-77bd7208-577b-4839-b0fa-2cf135370afd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708977440-a75bc212-c74f-4efb-8b73-1432c5ffedf0.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: brayan.clon",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e7a57334-5679-4ee6-905e-29fb15055385.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/61525ee6-1750-46a5-842a-1b28d89fcd1b.jpg",
+            "referenceImageURLs": null,
+            "width": 480,
+            "height": 854,
+            "isNew": false,
+            "user": {
+                "id": "e14c53e8-5095-4d9b-8d61-02087bb8182d",
+                "nickname": "RubyShine",
+                "avatar": "https://cdn.viggle.ai/template/3ba59803-271c-4650-a446-3d4e73249639.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=bLLfyVqru2dlyE1viB_J4aFtoTQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8887c3b-508c-4a11-bed4-a534dd51853f",
+                    "name": "Dance Buddy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bab4b2c2-6a19-4814-846f-9d5d75cbd187",
+            "command": "$ando_caminando_super_hd",
+            "webCommand": "Ando Caminando Super HD",
+            "description": "ando caminando",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ando Caminando Super HD"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "brayan.clon",
+            "ttCreatorName": "brayan.clon",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7b89a46d-6198-48d4-9e93-8c63129ed313",
+            "processedURL": "https://cdn.viggle.ai/template/7b89a46d-6198-48d4-9e93-8c63129ed313",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/7b89a46d-6198-48d4-9e93-8c63129ed313",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7b89a46d-6198-48d4-9e93-8c63129ed313",
+            "processedHdURL": "https://cdn.viggle.ai/template/7b89a46d-6198-48d4-9e93-8c63129ed313",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726724077844-b2004b50-cb6e-4fe8-b7ef-80a4e1cc65c1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/20cf8fec-fbe1-4843-81fb-cf99441c5884.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1bb48c86-e156-429d-85a3-9fb39eb924ba.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8c1536ce-d128-4abf-bdcb-451c65afa9d0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/66119b48-c726-46c0-bcee-8e7a9e355307.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d00439ea-7d74-49a4-ba14-4bb1ab211dfb.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726822382988-21909d23-bb75-4ad6-aa19-6cc4aa1e8661.jpg",
+            "videoDuration": 6.455147,
+            "gifURL": "https://cdn.viggle.ai/template/1730708964712-029464d1-f0e2-4108-a8a9-81bfef5c1473.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708964191-2f61ebce-e853-426d-b056-05f23a9d1417.webp",
+            "rleBoundingData": null,
+            "source": "Suggested bu Discord User: brayan.clon",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3323c717-eb18-40dc-8f9e-b17ceab9d7b4.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d3b04c21-a304-4f1f-8008-2b51409a2208.jpg",
+            "referenceImageURLs": null,
+            "width": 480,
+            "height": 522,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=NwlOua1qFp7LiUtWnLOGBppoEjo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "502cff98-fda8-43a3-a4cb-e00ae7f3ccdc",
+            "command": "$dance_with_jerry_mouse",
+            "webCommand": "Dance With Jerry Mouse",
+            "description": "Anchors Aweigh - Gene Kelly and Jerry Mouse Dancing",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Dance With Jerry Mouse"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Peter Webb",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b74db0b7-1279-477e-a1a5-544720f52e88.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3b8f0a66-2b56-43b3-942a-34559ff2b6df",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/523ed0dd-ecb9-4941-ad03-5ae4232f91d7.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8a29acbd-1ed8-4baa-a7d9-cb628e1f245f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3b8f0a66-2b56-43b3-942a-34559ff2b6df",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731036390332-a7503e39-1f2c-46c9-ad44-b0e37b4d11e9.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/652536b8-637e-47ab-8b35-6c4eeb8838aa.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5eb48136-2fbf-40fe-92d6-5f1fa1654ecd.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8bf4a659-3766-4950-8d71-6f22cb05e31f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6dd6f1d3-96fe-45ce-b13c-a5b87a1b5eb9.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e7b38289-7f17-4082-b5a9-17a34a5ae76a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732789610356-9883489c-3903-4bbb-be43-72a18f4b83e3.jpg",
+            "videoDuration": 39.64,
+            "gifURL": "https://cdn.viggle.ai/template/1731036391345-31e803f0-68e8-480b-aaaf-dca782b7bd6f.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731036390601-85df9c15-81a3-43f2-be1b-52ee6fb5c176.webp",
+            "rleBoundingData": null,
+            "source": "Youtube： Peter Webb",
+            "referenceImageURL": "https://cdn.viggle.ai/template/9ade874d-f31a-44f5-a8d0-adba2b68acd4.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9ade874d-f31a-44f5-a8d0-adba2b68acd4.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "3c3a4d7c-49b7-4a42-9862-d6b66a87c39f",
+                    "groupUuid": "3c3a4d7c-49b7-4a42-9862-d6b66a87c39f",
+                    "url": "https://cdn.viggle.ai/template/9ade874d-f31a-44f5-a8d0-adba2b68acd4.png",
+                    "uploadedUrl": "",
+                    "name": "Joe",
+                    "startFrame": 0,
+                    "trackId": "3c3a4d7c-49b7-4a42-9862-d6b66a87c39f"
+                }
+            ],
+            "width": 1484,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "7b16f686-78ef-4d9e-807b-7787754c89cf",
+                "nickname": "Sunset",
+                "avatar": "https://cdn.viggle.ai/template/3b12972e-a95c-420e-bb13-eac31a5909f4.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=RysQ8BFia1Aqp4FW6XvyWpecd6U="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8887c3b-508c-4a11-bed4-a534dd51853f",
+                    "name": "Dance Buddy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a7b5d6e2-9221-4ef4-af2f-5d7214a856cc",
+            "command": "$when_real_madrid_lose",
+            "webCommand": "When Real Madrid lose",
+            "description": "Cuando el madrid pierde en champions 😡😂😂⚽️⚽️⚽️#viral #comedia #uefachampionsleague #realmadridvsmilan",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "When Real Madrid lose"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "guti.sierra",
+            "processedMiniURL": "https://cdn.viggle.ai/template/64eaf33e-12ac-485c-93d4-d55668709a78.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/67329c4f-ffcf-4002-88be-945ff74d25a6",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c03b8c88-e289-442d-b6da-0b4ca9e4a5a4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b52be86a-a221-4873-a1e7-92d5a8caae41.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/67329c4f-ffcf-4002-88be-945ff74d25a6",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730944254851-5335bc3f-a1e1-4ce5-8f5e-4a6b5ea79964.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ea8bb041-0896-4568-b0da-3f3a0503a8f8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2c9bd900-cd2b-4566-baa0-5689a500f309.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/65ec51a9-bde5-4925-b29c-3df7eed58043.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3345d26b-ac81-42a5-b5cc-db0773fafd5d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f4d94116-cfa0-4b3d-9ff7-59cdda59e73e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730971698471-40fe6368-c519-4b77-8970-412b407e304b.jpg",
+            "videoDuration": 27.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730944255761-b73c4d96-f8e1-47fa-aeca-2a8279e49781.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730944255133-9c3c5e53-7279-45b0-a27a-69d3c0888f76.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: guti.sierra",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "02e95df3-6394-4b64-a2d3-0ffe633b1009",
+                    "groupUuid": "02e95df3-6394-4b64-a2d3-0ffe633b1009",
+                    "url": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+                    "uploadedUrl": "",
+                    "name": "ross",
+                    "startFrame": 0,
+                    "trackId": "02e95df3-6394-4b64-a2d3-0ffe633b1009"
+                }
+            ],
+            "width": 1078,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "17459495-1623-41eb-9318-b846e409c96a",
+                "nickname": "glitchzap.7",
+                "avatar": "https://cdn.viggle.ai/template/5c5dcfb9-7780-43f2-b7d5-ba28e28671ea.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=SYCM03a7MLaGR-y7ltuxawD-bnM="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "44f25f99-b065-4b12-baf6-5c88859d886c",
+            "command": "$oh_my_god_with_different_emotions",
+            "webCommand": "Oh My God With Different Emotions",
+            "description": "Oh My God With Different Emotions 🎭❤️‍🔥 . . . Book your tickets for the show . . . #trending #tiktok #famousram #expressions #viral #meme #drama #acting",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Oh My God With Different Emotions"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "thefamousram",
+            "processedMiniURL": "https://cdn.viggle.ai/template/29957e0a-f227-4d28-bd93-c00137eb8880",
+            "processedURL": "https://cdn.viggle.ai/template/29957e0a-f227-4d28-bd93-c00137eb8880",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/29957e0a-f227-4d28-bd93-c00137eb8880",
+            "processedLargeURL": "https://cdn.viggle.ai/template/29957e0a-f227-4d28-bd93-c00137eb8880",
+            "processedHdURL": "https://cdn.viggle.ai/template/29957e0a-f227-4d28-bd93-c00137eb8880",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726655360628-c7dd530e-cf43-4704-bb78-8f5e5d2c8dbc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d9e2e076-e50a-48a3-b271-7397933d3488.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/415eb2ad-c7ab-48b7-82b3-c72a9b6b8a48.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b1b58a05-a87a-4c6f-851a-d483a6eaab39.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/28d0c5bc-34db-448f-9696-23b3834ed24a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7beea8fa-4d66-4bb8-8c82-8becedd688b5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726658594356-a6d07757-563c-490a-8191-abe7cd3cf525.jpg",
+            "videoDuration": 61.068005,
+            "gifURL": "https://cdn.viggle.ai/template/1730708957757-301155a7-9e69-46e2-a3cf-a21b94fef10f.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708957073-e7233060-a33f-4afe-a3ae-d299885d82da.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: thefamousram",
+            "referenceImageURL": "https://cdn.viggle.ai/template/84ca720c-750f-4faf-904a-33bafd7b380c.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b91878d1-956a-4d41-9db8-ec8378012cef.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "eb4e7d27-696a-4b8d-aa94-fe6e10531a8e",
+                "nickname": "jet.stream88",
+                "avatar": "https://cdn.viggle.ai/template/eff18259-8cd0-42b7-9117-90039ef0baa3.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=sIhmMBPk3ndWYV97J9O8_-VW-Mc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "71621cef-f43b-4a70-a7b1-7b2873af1d8c",
+            "command": "$scooby_dance",
+            "webCommand": "Scooby Dance",
+            "description": "Brainrot",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Scooby Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fb668d22-f3b7-4f3d-811e-f964e1fe4351.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ed4c5290-3306-4bac-a3e6-0a50e5146386",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/3e4f9d47-7da1-4c10-a806-466662a614eb.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/a5cddc95-71f0-4079-8844-8166f6d2d10d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ed4c5290-3306-4bac-a3e6-0a50e5146386",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727735366035-5a61603e-083a-4054-80d3-38fa870b74c1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/17b715be-b587-47c3-b275-b63ea632f7dc.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6436493b-5b10-4659-87e8-164e8952f849.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/9ee164ac-4b52-4f1b-9dbd-fb968bf75ee3.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/72ecbe96-e224-4f9a-8f1d-658a4d4039d8.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/486e7ac8-92ab-4603-a694-f9f72a5792fa.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727739207563-ba3ed9b9-50a1-4821-95a0-d746f18a0cbf.jpg",
+            "videoDuration": 9.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730709210374-80ec687f-959a-4648-8f30-c23de249d290.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709209626-665d410a-112d-4c9d-b2bc-43aaa5daf2af.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/450a9a7d-67fe-4d83-a14b-67bd44448659.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/450a9a7d-67fe-4d83-a14b-67bd44448659.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "44e4385d-2d9a-4882-ad7a-9271e4241586",
+                    "groupUuid": "44e4385d-2d9a-4882-ad7a-9271e4241586",
+                    "url": "https://cdn.viggle.ai/template/450a9a7d-67fe-4d83-a14b-67bd44448659.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "44e4385d-2d9a-4882-ad7a-9271e4241586"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=Wdaky9kwy3FVUK9Q9--xnjee_Mo="
+            },
+            "tags": [
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bd1961be-e249-4936-a460-63c6e7a60c66",
+            "command": "$anne_hathaway_paparazzi_rap",
+            "webCommand": "Anne Hathaway Paparazzi Rap",
+            "description": "Anne Hathaway's Lil' Wayne Style Paparazzi Rap | CONAN on TBS",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Anne Hathaway Paparazzi Rap"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Team Cco",
+            "processedMiniURL": "https://cdn.viggle.ai/template/48fc6634-b773-4d27-8524-056a065305a4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9c8dc597-056f-41d0-b085-867244d6fde9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/cc7ae0b6-3aae-458c-9b8b-973f4c5d2ed2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3b639dba-7e69-4b5c-b5d9-5c29089e7ef2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9c8dc597-056f-41d0-b085-867244d6fde9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728729380614-eb2e4688-e5c1-4a3f-a216-a6c9f4dc0feb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d81becd4-583c-45f9-a2f7-dccd72320b95.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/bef2900f-b8f5-48ab-b48c-3644cd9272fa.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f835f3c9-7530-48f0-a8cc-073e88b9f337.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6dfa6b10-3cb4-4612-8bc1-e10de0470c75.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bef2900f-b8f5-48ab-b48c-3644cd9272fa.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728739147931-ce8980df-d490-4aa8-955a-e89d8991a3ea.jpg",
+            "videoDuration": 30.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730709458853-7bd1184b-fa92-4626-a337-9b50bc3c0086.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709458106-3a67f36e-6260-499b-a44c-db2f4ebc1029.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Team Cco",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6e985cb4-a545-432d-af36-a8f1006e02e0.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6e985cb4-a545-432d-af36-a8f1006e02e0.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "550a2a1f-cfdd-4947-b06d-5b83113a22f9",
+                    "groupUuid": "550a2a1f-cfdd-4947-b06d-5b83113a22f9",
+                    "url": "https://cdn.viggle.ai/template/6e985cb4-a545-432d-af36-a8f1006e02e0.jpg",
+                    "uploadedUrl": "",
+                    "name": "Mia",
+                    "startFrame": 0,
+                    "trackId": "550a2a1f-cfdd-4947-b06d-5b83113a22f9"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "f775e1d8-4194-4d33-a6d1-94df3addc746",
+                "nickname": "Irrr_joymass",
+                "avatar": "https://cdn.viggle.ai/template/5e95d60a-a543-41dc-9bc2-42e51d5406f6.jpeg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=HA3B7r8Y5brAAKfTVG1GAk-Vy9s="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "ef4134b1-b93e-4f71-b726-c005f051522b",
+            "command": "$iphone_128",
+            "webCommand": "Iphone 128",
+            "description": "Scrolling on phone",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Iphone 128"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bcd6de6b-9758-4e3e-ab59-19f86f137084",
+            "processedURL": "https://cdn.viggle.ai/template/bcd6de6b-9758-4e3e-ab59-19f86f137084",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bcd6de6b-9758-4e3e-ab59-19f86f137084",
+            "processedLargeURL": "https://cdn.viggle.ai/template/bcd6de6b-9758-4e3e-ab59-19f86f137084",
+            "processedHdURL": "https://cdn.viggle.ai/template/bcd6de6b-9758-4e3e-ab59-19f86f137084",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727278240927-9209c053-589f-4e97-9cf5-c0e0f0d04140.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/367c4961-8371-4b89-9db4-89071e405579.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/556e505c-69bd-4618-889f-b8394fb48d16.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/386338ef-0c70-4351-8293-72c8571c6bc7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/902a5161-9772-4f3b-8715-f30e43a302a5.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/3bd12176-eb34-44df-a29a-444b8ac28619.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731668554364-8fde94a6-9489-4cd8-b5be-602cb1336711.jpg",
+            "videoDuration": 10.449002,
+            "gifURL": "https://cdn.viggle.ai/template/1730709114375-db9b5166-98f8-44ec-a819-cab7e672b7a6.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709113439-d5799a5d-3fcb-4588-8d83-70d4b1b6e506.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6fc2ca0e-54a8-41ba-b268-cc6f8ccd7f77.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c164e92e-bb1d-454a-a1f5-19ede42b2a5f.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "89d1c223-70ef-4eeb-925b-f25e78d2e6c3",
+                "nickname": "yayachrislee",
+                "avatar": "https://cdn.viggle.ai/template/d2eb6584-16d3-43ab-8ac4-434c56ce4bfb.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=j8IhDbWd3KMuwHKH1FTgEfNY3Lg="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "84d8beff-f831-4136-a563-bbded7478148",
+            "command": "$gantian_dong_hot_pants",
+            "webCommand": "Gantian Dong Hot Pants",
+            "description": "Gantian Dong Hot Pants",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Gantian Dong Hot Pants"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "thatindonesiandude",
+            "processedMiniURL": "https://cdn.viggle.ai/template/5cab54b4-f65c-4137-a2ee-f80d86691ef9",
+            "processedURL": "https://cdn.viggle.ai/template/5cab54b4-f65c-4137-a2ee-f80d86691ef9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/5cab54b4-f65c-4137-a2ee-f80d86691ef9",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5cab54b4-f65c-4137-a2ee-f80d86691ef9",
+            "processedHdURL": "https://cdn.viggle.ai/template/5cab54b4-f65c-4137-a2ee-f80d86691ef9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726135343867-291c072b-a661-432c-a9e4-ec677e5d274b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/851c10e4-fce1-47a8-817e-7b12fd0a38a3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1fcad81e-05b0-4bc6-80cb-4ef9c2ae4374.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/229f646f-c4f8-416f-bbac-441d4b20ae14.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/34f41c30-b1ac-4c21-9bb8-dadfa6db511c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e8bf0e10-f714-4e26-b2d8-9fc885fd1a55.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726210070407-44f63242-5f2d-49b4-b3ee-6c8f10487f60.jpg",
+            "videoDuration": 17.8178,
+            "gifURL": "https://cdn.viggle.ai/template/1730708871640-d9ac631b-0e2d-4ca5-969d-91780d7492ff.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708870946-9317a063-3191-4055-8e24-26563178171b.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: thatindonesiandude",
+            "referenceImageURL": "https://cdn.viggle.ai/template/aafcb1fc-5c14-4dad-a362-2f754bf040ad.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/f02dc81b-0395-4fe4-af10-365c1e80e0a0.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 550,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=bdMeuyOBSzPgfKKur09sjOQdahA="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+                    "name": "Movie \u0026 TV",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a3e52789-7e5a-4465-9f08-130fdfc02314",
+            "command": "$florida_storm",
+            "webCommand": "Florida Storm",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Florida Storm"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8b97568f-5428-4346-b340-39461759b1d4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e16e8dde-8bb6-49b0-badf-498adbf4dc70",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4392f078-e28e-4787-91c5-9f2b1a2618c6.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c132616f-7997-4e2c-95df-2878d7e05bfa.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e16e8dde-8bb6-49b0-badf-498adbf4dc70",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728940568682-ce683b2e-3953-4399-803f-24d544b4260e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e3462885-3b68-4cac-b73a-ae5158acc334.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ab7a8c3c-dfae-471e-84f7-0a49b8d9b86c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8cb812e8-4287-4d89-b2f5-63a201102252.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/96f03ba8-d938-47a7-bad5-9b30515cc1b0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4463af7f-388a-4c3a-932a-924b58cf3228.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731668938153-6ea747ce-b4cc-4ae6-a7d8-4fa1e69e1976.jpg",
+            "videoDuration": 9.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709489322-729f73dc-bc9d-48fc-9f99-c01f55769f91.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709488138-0d0e734c-d05e-4925-b0ec-693f4b438798.webp",
+            "rleBoundingData": null,
+            "source": "tt",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a5285643-2896-4f0b-8692-23958b1c7155.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a5285643-2896-4f0b-8692-23958b1c7155.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "400cef6d-0f27-45b8-ada4-d1019a0f37b7",
+                    "groupUuid": "400cef6d-0f27-45b8-ada4-d1019a0f37b7",
+                    "url": "https://cdn.viggle.ai/template/a5285643-2896-4f0b-8692-23958b1c7155.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "400cef6d-0f27-45b8-ada4-d1019a0f37b7"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "66020415-7010-4e9d-909e-39588d3466a7",
+                "nickname": "IvyBreeze",
+                "avatar": "https://cdn.viggle.ai/template/892aa76d-c064-439d-916a-21b63b0642f4.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=5S9O43Ok0cLufGIQq3HZIthyIIQ="
+            },
+            "tags": [
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "43b33b1f-f6d0-46a4-85e8-afacda265fda",
+            "command": "$clown_fight",
+            "webCommand": "Clown Fight",
+            "description": "clown fight",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Clown Fight"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "danieldesk",
+            "ttCreatorName": "danieldesk",
+            "processedMiniURL": "https://cdn.viggle.ai/template/13dadcf1-c6ee-4f3b-beb4-36f162c0f867",
+            "processedURL": "https://cdn.viggle.ai/template/13dadcf1-c6ee-4f3b-beb4-36f162c0f867",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/13dadcf1-c6ee-4f3b-beb4-36f162c0f867",
+            "processedLargeURL": "https://cdn.viggle.ai/template/13dadcf1-c6ee-4f3b-beb4-36f162c0f867",
+            "processedHdURL": "https://cdn.viggle.ai/template/13dadcf1-c6ee-4f3b-beb4-36f162c0f867",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726730057436-23500fd9-55a1-4cf4-92b4-3622dcd5a281.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/01ddce77-c988-4a84-991e-afa8c87f0c0a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c9bfbd8b-b3fa-43de-a8eb-a800e6bf8764.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a56f5092-42b8-46d8-bced-c215a84055a4.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/0b5c165f-d7d6-4568-a790-269d2c14c098.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bba7efce-2d47-443a-9f6a-ad9b1dbb04df.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726822310782-2d2e8b76-ca12-4447-8e05-130dccb5efcc.jpg",
+            "videoDuration": 8.683991,
+            "gifURL": "https://cdn.viggle.ai/template/1730708990057-644d0395-3861-40f8-b003-cf42dec5656b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708989170-30bbba6a-fc72-4fb2-831e-cb3d94501e31.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: danieldesk",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b24dad44-e9bc-4140-9acc-7d8a14b57911.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b24dad44-e9bc-4140-9acc-7d8a14b57911.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "87583ee7-6c6b-4c0e-a4e7-d91cfcf8d988",
+                    "groupUuid": "87583ee7-6c6b-4c0e-a4e7-d91cfcf8d988",
+                    "url": "https://cdn.viggle.ai/template/b24dad44-e9bc-4140-9acc-7d8a14b57911.png",
+                    "uploadedUrl": "",
+                    "name": "George",
+                    "startFrame": 0,
+                    "trackId": 1
+                }
+            ],
+            "width": 1280,
+            "height": 960,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=ds5vX1hHhZYY5_jpF3TN0QzsNWM="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "51d6a254-a778-451e-9d69-e6f990a58db2",
+            "command": "$i_just_lost_my_dawg",
+            "webCommand": "I Just Lost My Dawg",
+            "description": "Roddy Ricch - Ricch Forever 2 #singing #roddyricch #fyp #foryou #foryoupage #cover #singersongwriter #upcomingartist #viral #singer #uk #london #artist #vocals #voice #acapella #coversong #hiphop #rap #ijustlostmydawg @Don Blanco",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "I Just Lost My Dawg"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "xenophanesonic",
+            "ttCreatorName": "trinitystreet",
+            "processedMiniURL": "https://cdn.viggle.ai/template/82e1f994-0911-436e-8932-f3ce0042c18b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/de5b1bc2-62e2-4e22-81e2-4cfc9cd65a3d.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a432fe0c-b57b-42ef-903c-eeec8a73e296.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c85e45e1-fffe-48f5-9626-56253d35cf33.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/de5b1bc2-62e2-4e22-81e2-4cfc9cd65a3d.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725558063522-55596801-f64f-43c2-b26e-758bef02f865.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d7d252cc-23c2-49a5-bd6e-439049274787.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b80df729-fa4a-4206-91de-733d669bc545.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6f06b82f-8e8b-4746-b07c-c7b8004f24e8.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c672e64f-0acd-4892-81d5-26c7802fd319.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b80df729-fa4a-4206-91de-733d669bc545.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725558062412-6c2a8fac-0cb2-457d-97aa-0f266daead87.jpg",
+            "videoDuration": 12.7,
+            "gifURL": "https://cdn.viggle.ai/template/1730708727718-b81f21ca-5b41-4f86-8ab0-c50a8a7194eb.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708727059-135d13d5-b9f5-48d2-8567-36f29f9a0188.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: trinitystreet",
+            "referenceImageURL": "https://cdn.viggle.ai/template/287ffc48-a36f-4a81-aed0-761e250b2793.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/58e0683d-02e6-4c52-8f26-a944f2b279c6.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "498cca3f-b45c-4aa3-8634-648b3bc7d881",
+                "nickname": "yepxxxzh",
+                "avatar": "https://cdn.viggle.ai/template/964eabc7-4ca1-47eb-bd96-9b43f09cea28.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=rUtuG4fxXP37XFbgo7uon4QI5nQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "81af03ca-df5a-4167-b011-984182579325",
+            "command": "$humanoid_figure_02",
+            "webCommand": "Humanoid Figure 02",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Humanoid Figure 02"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Figure",
+            "processedMiniURL": "https://cdn.viggle.ai/template/de2e56d0-7c9d-4b3e-b798-505505ae11aa.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/83719068-a7f4-42bf-ad83-33c035506789.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/db4ec840-757f-4976-8195-67224afd5263.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/420301ee-7c0e-47d7-83fd-cef22262bef7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/83719068-a7f4-42bf-ad83-33c035506789.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725557353575-8d4856b8-4e66-4760-8773-b0249832b78a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/86687675-41c0-4988-a7f4-114e6096fb31.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/fff0b1a0-bace-4490-9dd6-bc24358df9a9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d54d11c9-ff8d-4dda-b4c9-52671ab25c2f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/33009375-f73b-4639-b4db-96babd9b302a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/fff0b1a0-bace-4490-9dd6-bc24358df9a9.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725557352421-b86f55be-cda6-4f5b-a4fa-c10ad976d8ac.jpg",
+            "videoDuration": 24.762,
+            "gifURL": "https://cdn.viggle.ai/template/1730708323795-42e30067-e21c-467c-9013-22bea793702a.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708322809-85c355a7-5a2e-4362-9805-8c96d19859b5.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: Figure",
+            "referenceImageURL": "https://cdn.viggle.ai/template/98f6a3d5-bc7f-4502-8af3-b5a7b497576f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3f872b34-2bfb-4b21-bab8-e61fc3816602.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "f23c1c2f-3105-4b35-99e1-0d987f59d434",
+                "nickname": "kevpww.1",
+                "avatar": "https://cdn.viggle.ai/template/e65ce7d2-d91e-47e4-b741-63045a665955.PNG?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=rCSaIWgxHARnN-sgrFbVyfMKvB8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9897612f-999f-4768-bd28-81ff723e248a",
+            "command": "$ishowspeed_br_dance",
+            "webCommand": "IShowSpeed Br Dance",
+            "description": "ishowspeed tiktok dancing to Crispey song",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "IShowSpeed Br Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "IShowSpeed",
+            "processedMiniURL": "https://cdn.viggle.ai/template/18937623-4bb2-46ec-ab8b-c9bf2e2c3086",
+            "processedURL": "https://cdn.viggle.ai/template/18937623-4bb2-46ec-ab8b-c9bf2e2c3086",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/18937623-4bb2-46ec-ab8b-c9bf2e2c3086",
+            "processedLargeURL": "https://cdn.viggle.ai/template/18937623-4bb2-46ec-ab8b-c9bf2e2c3086",
+            "processedHdURL": "https://cdn.viggle.ai/template/18937623-4bb2-46ec-ab8b-c9bf2e2c3086",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725992773426-5c0677fc-0715-4e8a-976d-6de46a4e66b7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/9f9e365c-3768-4e7d-997d-6a814757d920.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/419fa77f-76da-4d04-94b5-4260e928cfba.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f22e3856-27a6-4a77-b114-c133c3bc0f66.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/5a5ddd78-98e2-452f-abe2-7bc61d1f2886.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d0f2a47a-7c8d-44af-b80e-275a8d1101bf.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725993352456-539888a6-13e0-482c-ac3e-a77c3652a850.jpg",
+            "videoDuration": 15,
+            "gifURL": "https://cdn.viggle.ai/template/1730708844878-7566dd03-af52-4891-8344-605636f6dab5.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708844031-fd481253-5f6f-4571-bf0b-a13dac07ae88.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: ishowspeed",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e0fe3106-97ab-4edc-b0e6-938555f03af0.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/eb3b7820-5838-42cd-9020-5267886558f4.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e0a1cacb-e473-4688-bea1-7450cdff735f",
+            "command": "$gen_z_video_editing",
+            "webCommand": "Gen Z video editing",
+            "description": "Asked our Gen-Z intern to edit a video for us and this is what we got",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Gen Z video editing"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "islandecc",
+            "processedMiniURL": "https://cdn.viggle.ai/template/63085649-d871-4fa4-98fa-aa991db6163b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8d46b1de-54ca-4f82-b949-e3ba7ebde983.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2e5284c3-7bb2-4e69-8837-f1a498ab5c9c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e54dd034-89ad-48ea-987e-1869142801cb.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8d46b1de-54ca-4f82-b949-e3ba7ebde983.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725557322122-b39a781d-4e87-49d3-af79-e535a59650ac.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1793b223-e47f-4f41-8193-51e70f054f5b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4cf1c5b2-3ac7-4439-9f3a-bbe5374a9435.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ca7159cf-5202-44be-88ef-9bb807980592.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/46e8f220-a4ef-4b60-94db-58d8a7a25bbe.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4cf1c5b2-3ac7-4439-9f3a-bbe5374a9435.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725557320864-f209ccbc-0317-4e89-8073-c7dc464d0183.jpg",
+            "videoDuration": 10.283583,
+            "gifURL": "https://cdn.viggle.ai/template/1730708305365-7c87a5de-01ed-4c56-af39-768d4c3fc631.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708304429-291749c2-9ba9-443d-8582-222697a62484.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: islandecc",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ae4c41cb-b44d-4a51-be0d-a1e3cd5bb752.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/47fd51b6-032f-4e55-9264-2cb8f59e6f98.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "f775e1d8-4194-4d33-a6d1-94df3addc746",
+                "nickname": "Irrr_joymass",
+                "avatar": "https://cdn.viggle.ai/template/5e95d60a-a543-41dc-9bc2-42e51d5406f6.jpeg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=HA3B7r8Y5brAAKfTVG1GAk-Vy9s="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "2c3ad290-c6b9-4045-abbd-a44f7c09af64",
+            "command": "$ma_baoguo_kungfu_meme",
+            "webCommand": "Ma Baoguo Kungfu Meme",
+            "description": "马保国闪电五连鞭",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ma Baoguo Kungfu Meme"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "凤鸣长剑",
+            "processedMiniURL": "https://cdn.viggle.ai/template/477bd33b-b00f-43ae-b258-88aa2d8aa3d6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ffb4c022-1830-4300-a967-15c4c5e30d74.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/10594ce1-c12e-44e6-8a7a-f0d632d30ab1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/09f4dd3c-f475-4fe5-beec-352171f7b27a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ffb4c022-1830-4300-a967-15c4c5e30d74.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725557316247-f3f01f10-11cc-4b19-94d1-105cac66b42c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1ef08e51-9720-4e5c-ae6f-d200f0fac196.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e5d020bf-2fd7-459b-8875-8d0ce9e77cf9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/3e8b2155-fba7-443d-8f9d-453f41a1935d.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/bed34a26-d84b-4c8f-a5bd-864715664631.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e5d020bf-2fd7-459b-8875-8d0ce9e77cf9.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725557315199-8bb1a8b6-a22a-4319-a556-d898f7c4b36a.jpg",
+            "videoDuration": 17.901995,
+            "gifURL": "https://cdn.viggle.ai/template/1730708302173-1f68695c-3f33-4976-83d3-472730220490.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708301179-50d07272-d140-4fda-8e6e-8cff17319c65.webp",
+            "rleBoundingData": null,
+            "source": "Bilibili: 凤鸣长剑",
+            "referenceImageURL": "https://cdn.viggle.ai/template/341936d9-a37a-44ac-a182-c7fc51ac023d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bb5ac2a9-2f35-4382-8155-c3440f52f0fb.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 960,
+            "isNew": false,
+            "user": {
+                "id": "f775e1d8-4194-4d33-a6d1-94df3addc746",
+                "nickname": "Irrr_joymass",
+                "avatar": "https://cdn.viggle.ai/template/5e95d60a-a543-41dc-9bc2-42e51d5406f6.jpeg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=HA3B7r8Y5brAAKfTVG1GAk-Vy9s="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "72cee210-7ca8-40c4-9c3f-43ce646b259a",
+            "command": "$rula_up_and_down",
+            "webCommand": "Rula Up And Down",
+            "description": "shirt link in bio #fypツ #viral",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Rula Up And Down"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "TikTok: rulaempire",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7c249a53-7b62-469a-bef8-d3b4ea88bd1a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5f499597-2e89-40c8-aa3a-bf1b3f8a95a5.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/17183645-1c41-418d-8db9-0843a93ce1c2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/69838536-16ef-43f4-8578-3df1c3d8e196.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5f499597-2e89-40c8-aa3a-bf1b3f8a95a5.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556996488-22ac0508-aeab-44b3-bc6c-1dfd93223c54.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/43b874e9-7c6a-4cf8-a2b4-75a54098153e.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/f91c4e4c-02e5-4689-80f7-2cfc285994b8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a77024dc-03fb-453b-b1d4-185a474ada3c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/988296c8-e24d-4aa2-ba9f-071cf655bd63.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f91c4e4c-02e5-4689-80f7-2cfc285994b8.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556995157-e6868d34-97b7-44f1-8c9e-8b94667b42bc.jpg",
+            "videoDuration": 9.82,
+            "gifURL": "https://cdn.viggle.ai/template/1730708140342-6d679032-8f2a-43ba-8115-c2938ade152d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708139347-7e6a0904-540d-4d9f-9fca-801151b558a3.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: rulaempire",
+            "referenceImageURL": "https://cdn.viggle.ai/template/fd01befe-df92-4edb-a44e-f9458814b36a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/417f8578-38d3-4aff-9370-20eef9b664ea.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "c692a75c-f611-4e15-a140-4e4caee6076d",
+                "nickname": "fun.jadeee",
+                "avatar": "https://cdn.viggle.ai/template/9bf6357b-c6d3-4e00-9cbb-46e6b679a912.jpg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=KfiY1AYkz6YvTRCpbitcZaAqwu0="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "86132404-b419-4b6c-89da-364baacf8d5c",
+            "command": "$mocny_gaz",
+            "webCommand": "Mocny gaz",
+            "description": "Mocny gaz",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Mocny gaz"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ef3851d5-3c79-451f-8f54-ff55bc5d44cc.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ecbc595d-8c6b-4218-9ad3-c6cc242cd84b.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6a2bde84-ea1e-426b-a4e1-082a76de38bf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/76e8851c-7276-426e-a74d-5e59f5ea1a47.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ecbc595d-8c6b-4218-9ad3-c6cc242cd84b.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556756968-7c746a9a-3661-447f-82d5-577c673bff16.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b608d353-6013-488d-8843-517133fbc21d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e5b72b4f-436c-4f04-a9c5-c26c368891e1.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/60f2f8ae-85bb-412c-88ea-65c036274d99.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3418c4e7-1180-452e-b69b-f41a93e0d034.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e5b72b4f-436c-4f04-a9c5-c26c368891e1.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556756103-c9fc1d4e-5448-4035-b668-c097009f99aa.jpg",
+            "videoDuration": 4.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730708010837-5118658d-036d-4e93-a6de-264ddb082748.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708010191-24c2d23e-5b91-467f-9d7e-f396f4cdccfa.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: mratnek",
+            "referenceImageURL": "https://cdn.viggle.ai/template/11e918d9-391a-4a46-beb1-d044c047b189.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/dd10dfec-8f53-46b4-927c-347107a5f275.jpg",
+            "referenceImageURLs": null,
+            "width": 480,
+            "height": 672,
+            "isNew": false,
+            "user": {
+                "id": "8059afbe-91ab-4f15-8dec-5fe56f568d9c",
+                "nickname": "cheery_quip",
+                "avatar": "https://cdn.viggle.ai/template/6159bacc-017e-425b-a369-ef3b3b67bb95.jpeg?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=8nRmoHTRaXgMV-sdAE1NiSc1Rv8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "19a33695-9b09-4d8d-9ea6-50160c8b1023",
+            "command": "$kayoteofilo_machuquei_machuquei",
+            "webCommand": "Kayoteofilo Machuquei Machuquei",
+            "description": "Kayoteofilo Machuquei Machuquei",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Kayoteofilo Machuquei Machuquei"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/06310b7c-0f9a-427b-ac71-3c711fe941e8.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5a2b4a8a-dbbd-47ce-a8d9-4d009e9146c2.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6a13b677-9807-4917-87a2-f52f5b517586.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/dda1277c-a8ad-4e92-97c4-55f44c831554.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5a2b4a8a-dbbd-47ce-a8d9-4d009e9146c2.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556514092-80c757b6-aaaa-4935-9614-4c0042d1d3cb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/27303269-cd2d-4904-b495-216cdf8eabde.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6c133937-ab56-4584-93b6-d21846eeb90c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/fa0e085c-74a0-4a6d-9c6b-a7453987a4f6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d4bf4dd7-dee1-4c59-bd14-670427af5823.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/6c133937-ab56-4584-93b6-d21846eeb90c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556512838-8f1faa56-c38e-480c-8067-c49803a7c732.jpg",
+            "videoDuration": 15.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730707890283-9ca496fa-9ec5-4fe5-a5dc-87fbd198efd4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707889636-78fb3d6c-ca52-48ac-969c-375b33d9042a.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: kayoteofilo1",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7c746edf-0276-4984-9ff1-db352599a7f1.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/fad1a3cb-3d68-453d-8039-2df47f15b835.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=JWL7CgRwreKQTNhR9bwG7dC3SLY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "39aac58f-d077-48c7-b498-3fd8d59fe04b",
+            "command": "$club_pinguim_dance",
+            "webCommand": "Club Pinguim dance",
+            "description": "Club pinguim dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Club Pinguim dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/472e6529-a6dc-4e51-be9a-b29608429474.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3446cee3-24e1-48eb-9a74-51664448ceca.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d9238be9-70f3-410c-9dff-a46dbcf691c3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3cffcd7d-fea7-41c4-b3d5-a14a1689d013.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3446cee3-24e1-48eb-9a74-51664448ceca.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555904323-cf8e665e-722f-4f50-bcc2-dfeaf7c23f05.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1c0c07ff-3ad8-4d02-a1f0-e184a2591375.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/cb81adaa-56d1-4dea-a735-c383deb60d95.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5cc75d98-5b6c-4b73-a0a9-651d6888feb2.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c9a8b419-ef22-4990-9ab1-fe9562337a44.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cb81adaa-56d1-4dea-a735-c383deb60d95.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555903099-d4be04f2-0f4a-45c4-9e77-6bc36926a8ce.jpg",
+            "videoDuration": 24.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730707572099-9a4ed861-83a6-4268-a176-ee226b7d5cad.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707571134-950e832b-ad7b-41dc-9d29-a6d28bd3bfa9.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by tonny_v7",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7b93dccb-4907-43b5-a9b9-fb68780237fd.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d40613f0-f465-4c38-bef3-5143e7ace2a3.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=I-_W40ybpJeXEn8cRqEzW7EjZWU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8887c3b-508c-4a11-bed4-a534dd51853f",
+                    "name": "Dance Buddy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4055ab57-743a-4842-934f-7d4c2fe5e58b",
+            "command": "$gyatt_for_gyatt",
+            "webCommand": "Gyatt for gyatt",
+            "description": "Gyatt for gyatt",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Gyatt for gyatt"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2a6b8221-62c3-4300-ba69-f54b066a8ac9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f808d69a-8c82-4710-b235-ede0d86cc717.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1dc9d4bc-03a6-4fce-9d90-cbba3aadd0f2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f89c1fc6-89e1-4b10-8142-93c9d961123c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f808d69a-8c82-4710-b235-ede0d86cc717.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555867596-f153d539-01aa-4fab-94c4-23fa923aefc2.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1eaf8652-643b-4a58-a731-c06ea34cf57b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/48754978-c432-4742-b638-e1f49a251a63.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7ddfd3f5-3c65-4bad-b378-07b1621c75b0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b342bfd9-1b9c-4ac8-9271-ab4f9f5fbbcd.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/48754978-c432-4742-b638-e1f49a251a63.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555866567-222fe1f1-515c-4c7b-8805-d40dad8d7113.jpg",
+            "videoDuration": 14.140975,
+            "gifURL": "https://cdn.viggle.ai/template/1730707549433-b9457e8d-91ff-4f05-b32f-ad16d068f10c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707548504-269b8b77-885b-44b6-8ad5-dcc5083245a2.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: the_editpoopykid69",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8bfba071-7f54-4a04-8804-d42fe81d7af8.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/422a4ab1-eb13-4a4b-bf54-262221ece43b.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=I-_W40ybpJeXEn8cRqEzW7EjZWU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "81165886-70b8-413d-92d1-80691559f7bd",
+            "command": "$pagodao_baiano_dance",
+            "webCommand": "Pagodao baiano dance",
+            "description": "Pagodao baiano dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Pagodao baiano dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2ace9dc8-a609-4aef-a40c-6a46993c1de1.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1678713f-7f99-4caf-8113-e2439074b792.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/af993805-cd4a-45ed-bc56-34f0e0b1483a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c7abaf5a-301f-4b1b-a962-587667250208.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1678713f-7f99-4caf-8113-e2439074b792.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555842592-f81c91bb-a2cb-4940-9538-e42c775f1f63.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d388b601-ec53-462c-be5a-8c1f2b6f4356.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/f56b510d-f5f3-415f-ad9f-9467b4522114.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e38eaf26-f403-482e-9204-41d4e4e86832.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/37bc7c00-b34c-42a5-b991-082a0e5880b4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f56b510d-f5f3-415f-ad9f-9467b4522114.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555841598-aacc04dc-5bc1-4a1b-87f5-4c1193a1fee3.jpg",
+            "videoDuration": 39.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730707532595-9a1578e4-78b4-4cfc-9f24-4b7f33948a97.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707531864-853d123d-3bfe-4bc2-b6aa-4d0e9b907163.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by matheusflashudo",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5412af1b-9f69-4f7f-9346-414aa5f5c045.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/66b591fa-dc36-4d98-8bf9-d79f0156656e.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=I-_W40ybpJeXEn8cRqEzW7EjZWU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1af4691e-7e18-4e6f-bcc2-287892bdee08",
+            "command": "$homelander_emo",
+            "webCommand": "Homelander emo",
+            "description": "Homelander emo",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Homelander emo"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/74979ebb-9b66-4c73-8603-0dd3adb732ca.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/cc3c6fc6-2cbd-4e6b-b033-efd0139bed36.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a9bd6054-af3f-4407-b059-da6597365a67.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8f976df5-b862-46a1-bef0-50b2cc1b83f4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/cc3c6fc6-2cbd-4e6b-b033-efd0139bed36.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555834841-f64a74cb-f756-4acf-be53-9834ee89e2fb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/075e8918-7fcb-467a-8b43-578673250318.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d2987962-e00e-4664-8ca9-47903a52ccbf.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/53140d87-4dd3-431f-8f2f-e2b254bf09bc.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/75edae2c-eaf7-42f0-bb56-d78f4e4c0d7e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d2987962-e00e-4664-8ca9-47903a52ccbf.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555833746-430fb413-4fe5-4777-9345-b4c149b8683c.jpg",
+            "videoDuration": 7.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730707527290-d89b9ae0-6310-4f59-aa3c-6127d7250e01.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707526335-d91a4b0d-533c-49f2-a49a-6ad934a15d17.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by waithaka",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6e4a1ab2-163a-43f9-91cc-c7f50fd7098b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7b975caa-3505-476e-bee9-97b0b32b620e.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 544,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=I-_W40ybpJeXEn8cRqEzW7EjZWU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "073d71d6-5326-4ff3-813e-6d4652ba8336",
+                    "name": "Movie \u0026 TV",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "76c74893-0f50-422c-99fa-42ff4d9626aa",
+            "command": "$elon_musk_dance",
+            "webCommand": "Elon Musk dance",
+            "description": "Elon Musk's dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Elon Musk dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6f0a153b-60e8-4233-9270-a19bda251770.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b0a82dd8-36eb-4dae-bf75-6bdb983431df.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/be7739da-ec7e-43f0-a4c1-beeeb68002e8.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c9804b05-f586-4bd7-9e59-ff32259878a3.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b0a82dd8-36eb-4dae-bf75-6bdb983431df.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555750050-0820b5a3-96aa-42c7-84e6-28295a1fdf1e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d06341b2-5034-44ed-8519-5ea223b217b0.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d022efee-1883-4671-a478-5a5594a498bd.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4a71e1da-1dc7-4913-a4a5-ced1437f59c5.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8c8db34a-2a52-4753-88fe-dfb18648c766.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d022efee-1883-4671-a478-5a5594a498bd.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555749009-2ec44e9a-6f5a-4bd7-98b9-c33c7ce8e4aa.jpg",
+            "videoDuration": 12.6,
+            "gifURL": "https://cdn.viggle.ai/template/1730707479861-a34cc6bf-9fac-474e-b7a3-64052201ecc5.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707479198-67a6e567-cf1b-4cba-aeb5-d692a8827bd3.webp",
+            "rleBoundingData": null,
+            "source": "X: @teslaownersSV",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f3a82011-3f3d-436a-9c38-01740a87958b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/fa33d340-4835-4367-bc9c-3b1061182968.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "91da4fa3-cd18-4644-a0cf-b3192dd1d247",
+                "nickname": "Zyro",
+                "avatar": "https://cdn.viggle.ai/template/6dadbb67-d6c4-4f4f-bbb6-e4f632f29282.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=IpneEN6hV3xDQBPZffBsHFc0X4g="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6455818c-917e-4e63-b960-ebd0ebe6e3bc",
+            "command": "$abrilly_answer_my_question",
+            "webCommand": "Abrilly Answer My Question",
+            "description": "Abrilly Answer My Question dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Abrilly Answer My Question"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/45d58736-05ad-41e5-a1fb-5d6832dab0ae.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1218e43c-cd57-4bfb-9047-5202fed605d4.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0f7c68a6-6014-4c57-8080-29e1b4e65a73.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0f9cc5a6-a811-474f-b6e4-7f2a1484dac5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1218e43c-cd57-4bfb-9047-5202fed605d4.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555697184-522d0555-a793-4f53-8313-7dd96af1474b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1a9b1832-30d6-4450-8758-e8c86419e9ba.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ffcad8be-5de2-4146-909e-e267f264ec70.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0848703e-6a42-4208-9904-a66c9740f125.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9b78e224-07b3-4d77-b4d5-1af4a7d829d2.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ffcad8be-5de2-4146-909e-e267f264ec70.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555695915-baa4e283-aec5-4287-a73e-a748d967c409.jpg",
+            "videoDuration": 9.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730707451061-3ec9acea-95d0-448b-8327-03e1f7f1e6d1.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707450519-4695a87e-b77c-41c0-9e81-bf70b19085ed.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: thisisnotaprilatall",
+            "referenceImageURL": "https://cdn.viggle.ai/template/742d0d4d-48b0-48b5-b64e-1a728c84e109.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e92c4cac-ea02-449a-be85-0061824748dd.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "91da4fa3-cd18-4644-a0cf-b3192dd1d247",
+                "nickname": "Zyro",
+                "avatar": "https://cdn.viggle.ai/template/6dadbb67-d6c4-4f4f-bbb6-e4f632f29282.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=IpneEN6hV3xDQBPZffBsHFc0X4g="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "74b779d1-f5a8-45e6-a245-d3a2b64ee812",
+            "command": "$maya_im_your_mother",
+            "webCommand": "Maya Im Your Mother",
+            "description": "Maya Rudolph I'm Your Mother",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Maya Im Your Mother"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/186ffca5-42cf-486f-ba3c-a4a06f5bdffd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f746b03e-5d6b-474e-8fa0-77543aa91207.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/76c3dea0-d513-4903-a11b-666cb2dc9c40.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/bc098592-192c-4d48-aa01-669e5b04b47b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f746b03e-5d6b-474e-8fa0-77543aa91207.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555535544-83ea934a-c874-4bf3-b9ee-cafd7c86e602.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4abb452f-4d16-4af5-9ce5-d293540a090f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/56dc04ee-fa51-4d56-ab6d-5c3d0ed9af7f.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5c96388d-05d9-4066-8b43-428bace3f3ef.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a2fb577d-6d06-4d06-9b40-52e280cf94bc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/56dc04ee-fa51-4d56-ab6d-5c3d0ed9af7f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555534305-b9fc91e0-b1ca-4554-bbc1-f688d2b877b6.jpg",
+            "videoDuration": 21.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730707372577-b0009169-ca4f-452f-88b4-f288fcfd05a9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707371809-d0e052dc-1a81-4b91-b605-42805d8c052c.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: nbcsnl",
+            "referenceImageURL": "https://cdn.viggle.ai/template/50fa2963-c54c-46ed-a4f3-0924f00f6e5f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/137cc56e-940c-4c2e-bba3-703e98101439.jpg",
+            "referenceImageURLs": null,
+            "width": 360,
+            "height": 640,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=TeUQwisyNroJQ9x7ME0iJoCrV2w="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "724e259b-dedf-4d37-956a-43c5db5ae47e",
+            "command": "$apple_craig_run",
+            "webCommand": "Apple Craig Run",
+            "description": "Apple Craig Federighi runs at WWDC22",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Apple Craig Run"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/050098c9-b069-4b8d-947d-2cbf889b018b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c8b8e03b-0875-480a-a6cb-c1a812db795b.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b596ba11-9e5a-415a-85df-e226afd0fc99.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/96cd957c-988e-40bc-94a6-5c4d0232c4f8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c8b8e03b-0875-480a-a6cb-c1a812db795b.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555530018-ffbdc753-5f19-4b14-a0c6-97ea87dba998.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a7dd42e4-bc8b-4f68-a102-0f990c66c65f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b169767e-e91e-4166-b0fa-9428c96cc55f.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/04d2c7b6-3062-458e-9c99-f88bc88b3b6a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7517baad-0b7a-484e-b85f-5a33f65122bc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b169767e-e91e-4166-b0fa-9428c96cc55f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555528980-ed995250-87e4-492a-b92d-9ebc5bd80db7.jpg",
+            "videoDuration": 17.84,
+            "gifURL": "https://cdn.viggle.ai/template/1730707370169-33bef994-3b09-45ed-a7c3-d0a786f98c5d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707369120-51274407-5606-4f64-81db-cad84c0c3fec.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Apple",
+            "referenceImageURL": "https://cdn.viggle.ai/template/09921fc5-a803-48bc-96d4-76590573b98b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/042747e6-1ac8-4148-b6d5-d11032262ed2.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=TeUQwisyNroJQ9x7ME0iJoCrV2w="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "810469a6-f49a-41e1-af44-e0e83fb571b9",
+            "command": "$band_4_band",
+            "webCommand": "Band 4 band",
+            "description": "Band4band dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Band 4 band"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b60b8220-9122-4bbf-92bc-81231b2a060c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/050fa616-fcb3-416d-8371-4c9065bc477c.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/30112bcf-2e41-430c-b4ea-cad742a74815.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b1749194-0ba5-42b1-8262-1b8650498ba4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/050fa616-fcb3-416d-8371-4c9065bc477c.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555500758-efce4643-1665-46fd-8531-f7e87a12b1e5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/cea35692-3eb4-425a-ad0a-5544f11be4f1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c207aa54-79f0-40c9-9a5f-dc1446dd3235.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6d657f0d-4866-444c-8410-92bd6d082d98.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/582d28fd-ad31-47a2-847f-a898290b5dcb.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c207aa54-79f0-40c9-9a5f-dc1446dd3235.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555499244-bdf3e575-8090-4659-bdd0-93879db7ca46.jpg",
+            "videoDuration": 14.349955,
+            "gifURL": "https://cdn.viggle.ai/template/1730707354730-a24199ed-0c55-40d5-b027-3d2eea895352.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707353576-c366997d-5632-4485-bdbd-afcdd8e1671b.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: incogwhydee",
+            "referenceImageURL": "https://cdn.viggle.ai/template/02cbc634-74f2-4967-bd9e-bf6d75f3ff08.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/717fe5a3-9a72-45b4-8280-758416c0007d.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=TeUQwisyNroJQ9x7ME0iJoCrV2w="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "2e3dcfe1-9d02-40b1-94c7-48b6889f94a7",
+            "command": "$snoopdogg_surf",
+            "webCommand": "Snoopdogg surf",
+            "description": "Snoopdogg surf ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Snoopdogg surf"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/169ca5bd-9c0e-45ae-9c3a-648b52568612.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b14a7720-8e5f-4131-a9f1-bb6714220567.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/32ec6520-304c-4f36-9c8b-efab5e537157.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b742c9e2-451c-43a3-b2ac-6388ad5674e3.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b14a7720-8e5f-4131-a9f1-bb6714220567.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555380636-6cd722bc-9f65-40f4-a34c-7937862366b1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/51fcff35-87f4-47f0-8e93-de566e3c2104.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8a423222-5134-4302-89d2-ff5a9992ad8d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/266b5967-8a65-4442-991b-b8070e84b7df.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3c13499e-fb83-45f1-9bc8-9ab847b24678.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8a423222-5134-4302-89d2-ff5a9992ad8d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555379471-c9deb750-09ee-48e7-8f07-2b6c771fcd6d.jpg",
+            "videoDuration": 10.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730707289451-be4e5159-1d7f-4909-90ea-f83f6a346607.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707288519-1be1cd62-ca1d-4f7d-90d5-35539c129b9e.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: snoopdogg",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0947e174-317e-4d22-88da-59be8f2452ae.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2648aafe-c7ce-4535-b451-68b57862c000.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "17459495-1623-41eb-9318-b846e409c96a",
+                "nickname": "glitchzap.7",
+                "avatar": "https://cdn.viggle.ai/template/5c5dcfb9-7780-43f2-b7d5-ba28e28671ea.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=SYCM03a7MLaGR-y7ltuxawD-bnM="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8954a284-4f8f-4f87-a9d3-6eda87619c06",
+            "command": "$man_in_finance_",
+            "webCommand": "Man in finance ",
+            "description": "Man in finance ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Man in finance "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8d64914b-e3b6-4973-988b-1afc17b9d652.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4b151e78-0238-4aad-b849-9f226c87e795.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/cd4982e8-8518-41db-afc7-9006739c3af3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e6a9e11d-ca0e-48ad-a1ee-b80ca03fdc78.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4b151e78-0238-4aad-b849-9f226c87e795.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555053122-5fcbc743-1a14-4134-be60-fed7067b5c65.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7ab729bd-e043-4d8c-9800-a81a586abc5f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/bf79121e-0fac-4a51-be76-982cf135b632.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/dffa43f2-40b6-439f-8cd4-3b778422c1a4.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3a5e9a7e-f710-4dff-9dc0-9d1c0349d089.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bf79121e-0fac-4a51-be76-982cf135b632.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555052110-3b40dcb7-f673-4f0f-8058-55621f282a86.jpg",
+            "videoDuration": 29.6,
+            "gifURL": "https://cdn.viggle.ai/template/1730707100562-94a337ec-0cba-4332-903e-a5c1a2692378.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707099961-fc296b8a-b8c0-4151-941f-c2c5ba317416.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: itsadamlyons_",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c4aa4455-8817-4bf4-a08a-4157b0147272.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ea421c28-6f6b-4e27-a2f3-ee3a082d72d2.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "34de90e1-361a-4943-af42-4473320be0a3",
+                "nickname": "maxblaze_fx",
+                "avatar": "https://cdn.viggle.ai/template/eadc74c8-8912-4b44-a35b-6007abe45724.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=pRvTmqQxPX8vna0-XnVklwGwqXA="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0af20a21-e8eb-4a12-a20f-d6d2d94add03",
+            "command": "$jerseyyjoe_katy_perry_dance",
+            "webCommand": "Jerseyyjoe katy perry dance",
+            "description": "Katy Perry was one of my favs growing up 😂🔥🔥 ( DC: ME ) #jerseyyjoe #jersey #trend #viral #fyp",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jerseyyjoe katy perry dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/64241473-4c26-45c3-ba4e-49ca4b4387dc.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/eabe575e-0cff-4542-b887-eb95f7e682b5.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/3c0a89a3-5f80-46fb-8280-6a92d792705b.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/78ddbf42-4c5a-415a-bc80-b78629756a91.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/eabe575e-0cff-4542-b887-eb95f7e682b5.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725554740786-34e3fcce-e5a6-4572-bde6-c785f211ba65.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b933b2f2-1a28-4df0-b822-6d8647edb756.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c7968df0-5754-40ec-b428-ec4ad6c49330.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5a2c2462-c215-46d0-9a3f-7b38d41d2902.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/604e9a51-01df-4e8d-b32d-2d5bb3f6dea0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c7968df0-5754-40ec-b428-ec4ad6c49330.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725554739776-9e265186-952e-4144-be4a-4bb7b9fffaf7.jpg",
+            "videoDuration": 18.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730706929896-1331ebf8-890a-44fd-908f-11d328adf85d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706929204-5f13ac78-cae8-4145-9e3f-266a4b5cac03.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: jerseyyjoe",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a90b765b-5c17-429b-b954-757c1184d480.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/129cbb4a-f5ea-4846-877f-e9ea9da04e0b.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "f0bbc74a-9a17-4dd4-a877-6a00222c4f1b",
+                "nickname": "ace.wave09",
+                "avatar": "https://cdn.viggle.ai/template/22c30625-48c0-4cc3-8594-7b334c48685f.png?Expires=1735188418\u0026KeyName=vigglecloudcdn2\u0026Signature=DkK--b0yV5m9a6iiEqAH2bnmmhk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 112
+}

@@ -1,0 +1,1439 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "4685bb0f-0e5b-48f3-9766-bee1245f52b7",
+            "command": "$joe_burrow_practice",
+            "webCommand": "Joe Burrow Practice",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Joe Burrow Practice"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b605fdf2-7167-4669-a227-09d2726f6f64.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/455fd596-c0fc-47fe-af90-14cf03f44569",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/25c487e4-fd5e-4379-bf66-3ad35ebc6602.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/53d8fac9-b54d-4f68-afef-070019a3261f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/455fd596-c0fc-47fe-af90-14cf03f44569",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729252758259-79e69216-09f7-4ccd-8afb-490a355ec276.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/8219b8e5-7596-4f9b-a741-75233f60564d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/51f1b3ab-bcfa-45c0-aecd-7c0efec3dac1.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1fa416f3-0c07-42cb-a0f5-d5cc58c4324f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d33ebe4b-98bd-4078-9933-6ce2cbcbad04.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/51f1b3ab-bcfa-45c0-aecd-7c0efec3dac1.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729253386146-0a279b97-5537-48f0-a93b-acd021f43d61.jpg",
+            "videoDuration": 9.92,
+            "gifURL": "https://cdn.viggle.ai/template/1730709528643-7207233f-edf3-4de1-9b3e-cf2ea8792e89.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709527917-fe5baf4e-b94d-41cd-9a89-138d80e15e69.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: nflmx",
+            "referenceImageURL": "https://cdn.viggle.ai/template/9d70c290-31d7-407e-a5ec-94d9fdbba05d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9d70c290-31d7-407e-a5ec-94d9fdbba05d.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c675fe21-b667-4b07-bd72-865e426dc8f7",
+                    "groupUuid": "c675fe21-b667-4b07-bd72-865e426dc8f7",
+                    "url": "https://cdn.viggle.ai/template/9d70c290-31d7-407e-a5ec-94d9fdbba05d.png",
+                    "uploadedUrl": "",
+                    "name": "Dan",
+                    "startFrame": 0,
+                    "trackId": "c675fe21-b667-4b07-bd72-865e426dc8f7"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=Yn68d7zzwnS6Kh1a7VfMfSl_Wag="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d7ad6049-4e86-4f22-8f73-738d400f97d9",
+            "command": "$zesty_shuffle_celebration_nfl",
+            "webCommand": "Zesty Shuffle Celebration NFL",
+            "description": "THIS NEW CELEBRATION 🔥",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Zesty Shuffle Celebration NFL"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1608443b-837f-4fd9-aeb0-9af3bdee3a49.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2dab25d5-e3bc-4d85-8a2b-d662c1ee8c64",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a3b7643d-96a7-4899-bd31-d1d5aee937c5.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4e491c0e-7d1c-488c-865c-4eafb39f85d4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2dab25d5-e3bc-4d85-8a2b-d662c1ee8c64",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728638534490-322b357e-9e10-4959-87c4-821162538dda.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ff10ab72-525b-49c7-a297-7e693c9b84b7.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7958bf9b-ca0c-4fce-a070-edd00642fbbe.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f2997a9e-a4e4-413f-8c1e-a9a5ff4bc5b1.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/dc0ba980-2b6e-4d54-902c-5a88fe33bb6f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7958bf9b-ca0c-4fce-a070-edd00642fbbe.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728641250899-af1d4aac-f39e-4b03-9545-09ea61a20457.jpg",
+            "videoDuration": 8.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730709423050-d86dd6dd-3753-479e-9caf-ec94dd2b00fb.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709422131-a7d205d0-a2e7-470b-8735-41c30abc9d81.webp",
+            "rleBoundingData": null,
+            "source": "DingProductions",
+            "referenceImageURL": "https://cdn.viggle.ai/template/448e2788-5fb9-459b-807a-e73b9da46c6c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/448e2788-5fb9-459b-807a-e73b9da46c6c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "41fedc13-9542-4783-91fd-e57285055da1",
+                    "groupUuid": "41fedc13-9542-4783-91fd-e57285055da1",
+                    "url": "https://cdn.viggle.ai/template/448e2788-5fb9-459b-807a-e73b9da46c6c.png",
+                    "uploadedUrl": "",
+                    "name": "Kevin",
+                    "startFrame": 0,
+                    "trackId": "41fedc13-9542-4783-91fd-e57285055da1"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=Yn68d7zzwnS6Kh1a7VfMfSl_Wag="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f51875bc-7b3b-48a2-8d43-3801c562daac",
+            "command": "$us_flag_wave",
+            "webCommand": "US Flag Wave",
+            "description": "NFL",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "US Flag Wave"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bf53355a-3349-4d00-864d-6eb1ffa551e8.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/304de094-a843-4704-b18a-f8cbda188491",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6c981942-091d-4d6f-b993-666cf5328fb8.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c21116c1-03cc-4009-90cb-75ad8cbac2fb.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/304de094-a843-4704-b18a-f8cbda188491",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728940247946-955dfb53-833e-42ea-8fc7-d1ed7ad69f24.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/53885c7a-3036-4387-8547-01d5d71c58ee.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/91909c86-9ffe-4d8e-a837-5363f96c888a.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d851ac4c-e1bf-4df2-962b-8ef4361d6025.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e659bd6a-a325-46c3-b089-44881fbf512c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/296c5b26-0776-4064-982f-1c038fcf7950.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728993937474-90a087b4-4a96-4575-9891-1411875dcf72.jpg",
+            "videoDuration": 13.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709485631-fb906f24-2187-4376-bde9-25b69e0558c7.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709484477-00778f28-9591-4e2b-ada2-09cdddd56927.webp",
+            "rleBoundingData": null,
+            "source": "tt",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0b6d6a1f-d1d3-44e0-9051-2c9806a30de6.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/0b6d6a1f-d1d3-44e0-9051-2c9806a30de6.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "755735d8-a6bb-45bd-b683-353628dd8b9a",
+                    "groupUuid": "755735d8-a6bb-45bd-b683-353628dd8b9a",
+                    "url": "https://cdn.viggle.ai/template/0b6d6a1f-d1d3-44e0-9051-2c9806a30de6.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "755735d8-a6bb-45bd-b683-353628dd8b9a"
+                }
+            ],
+            "width": 1920,
+            "height": 886,
+            "isNew": false,
+            "user": {
+                "id": "e14c53e8-5095-4d9b-8d61-02087bb8182d",
+                "nickname": "RubyShine",
+                "avatar": "https://cdn.viggle.ai/template/3ba59803-271c-4650-a446-3d4e73249639.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=z5CXtm8bd_bLMIZl_s0XIB22_h0="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f121770d-39a3-4612-8fd3-58f4bd9cebec",
+            "command": "$joyce_ice_smooth_operator",
+            "webCommand": "Joyce Ice Smooth Operator",
+            "description": "Joey ice is a SMOOTH OPERATORRRRRR 🧊 #nfl #americanfootball #nfluk #nfllondongames",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Joyce Ice Smooth Operator"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "nflukire",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c3dd1182-1899-43b5-b7c2-4ebeb6523bfa.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/27592201-b9cb-4738-bfb8-892ed0e9a5f0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/29ba5aee-fd2e-4b34-89d3-0bc3173b1ab8.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e5323427-2f29-4352-b3ce-28350c261c37.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/27592201-b9cb-4738-bfb8-892ed0e9a5f0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729252776519-456f7a6d-cc61-4ee1-9bb8-c8f790b94dd7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/5659af72-008b-4f21-8b4b-4de510dc99da.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e1039986-ff7a-4f5f-a0a1-e70a85da68d2.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/78f82fc2-1b3f-48de-b6ac-11f42215801a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4c60fc43-21bf-4a30-b010-9c96303149dc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/57adcb85-fca7-4bee-9bd5-78ea2d415643.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729253515989-02f083a7-d9ea-4b33-a355-86c675f87112.jpg",
+            "videoDuration": 9.32,
+            "gifURL": "https://cdn.viggle.ai/template/1730709531209-234430fe-6ae6-46f0-a05a-26a4212f86de.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709530445-079c3627-2e09-4b2f-bbc8-6e772e36763f.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: nflukire",
+            "referenceImageURL": "https://cdn.viggle.ai/template/06c5d2e4-6ea1-4547-8a65-8e5c9f895715.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/06c5d2e4-6ea1-4547-8a65-8e5c9f895715.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c504f3df-64a5-458d-b571-c327c0e7bc52",
+                    "groupUuid": "c504f3df-64a5-458d-b571-c327c0e7bc52",
+                    "url": "https://cdn.viggle.ai/template/06c5d2e4-6ea1-4547-8a65-8e5c9f895715.jpg",
+                    "uploadedUrl": "",
+                    "name": "Bruce",
+                    "startFrame": 0,
+                    "trackId": "c504f3df-64a5-458d-b571-c327c0e7bc52"
+                }
+            ],
+            "width": 540,
+            "height": 960,
+            "isNew": false,
+            "user": {
+                "id": "f23c1c2f-3105-4b35-99e1-0d987f59d434",
+                "nickname": "kevpww.1",
+                "avatar": "https://cdn.viggle.ai/template/e65ce7d2-d91e-47e4-b741-63045a665955.PNG?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=q09x2EewKHFCu44p0EnWOjl3Nig="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3ce4428b-3fed-457b-9dd0-a6e19148a5d0",
+            "command": "$joe_burrow_is_back",
+            "webCommand": "Joe Burrow Is Back",
+            "description": "HE’S BACK. #fyp #joeburrow #fit",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Joe Burrow Is Back"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "bengals",
+            "processedMiniURL": "https://cdn.viggle.ai/template/91d6b740-5671-4954-a6e9-ddfc42808075.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/667968c8-70a2-40c5-a692-1208c43bfeb3",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/3e545911-f62f-4828-823e-bc159a1dfe90.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/2dac2a14-f0f5-43ba-944e-87b2ed5a146e.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/667968c8-70a2-40c5-a692-1208c43bfeb3",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729252715701-1a9a193b-fdce-4c83-9031-242567cb15e3.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6983dfd5-240f-4f93-b38f-05588b85b9d2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/13874804-5437-47f4-9e8f-b886d12a2446.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/72cb3537-2d45-411e-83b5-aef2db507c6a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4ec390c4-8de2-4ace-a2ab-c2a5866c46ba.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/22ed6f5e-2d8f-4ccb-a694-ea9e2607c2e5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729253536310-6ee9e2ff-2310-457a-9f51-e73cee01c307.jpg",
+            "videoDuration": 8.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709525932-64a906d2-6e1d-47be-aed4-4b0f75af81b4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709525285-d1adbcd7-535d-4934-a939-4eeaacfd4653.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: bengals",
+            "referenceImageURL": "https://cdn.viggle.ai/template/578747b4-72c2-48c7-9cd4-acc166a72b3a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/578747b4-72c2-48c7-9cd4-acc166a72b3a.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "302b710a-2353-41a4-9c0d-5cde07117dc9",
+                    "groupUuid": "302b710a-2353-41a4-9c0d-5cde07117dc9",
+                    "url": "https://cdn.viggle.ai/template/578747b4-72c2-48c7-9cd4-acc166a72b3a.png",
+                    "uploadedUrl": "",
+                    "name": "Nick",
+                    "startFrame": 0,
+                    "trackId": "302b710a-2353-41a4-9c0d-5cde07117dc9"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "498cca3f-b45c-4aa3-8634-648b3bc7d881",
+                "nickname": "yepxxxzh",
+                "avatar": "https://cdn.viggle.ai/template/964eabc7-4ca1-47eb-bd96-9b43f09cea28.jpg?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=RwmYa8UoCiB7KzFV_4cuEe2tPz4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "92301ddd-948e-4dbc-8067-69b4a92ef5aa",
+            "command": "$nfl_template_collection",
+            "webCommand": "NFL Template Collection",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "NFL Template Collection"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Unknown",
+            "processedMiniURL": "https://cdn.viggle.ai/template/641b9f23-60ca-4978-9c78-02d0d8bd8512.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/09191abc-6e17-405d-82d6-b0bdf4163861",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/eda16cf4-f599-44a5-8ec2-47ef426161a3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1b1a17be-d2aa-4427-8744-fb0d8fe15716.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/09191abc-6e17-405d-82d6-b0bdf4163861",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729587394045-29f786d3-15c4-4d6c-8789-aa937bbbf41b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/3fc856a4-bc96-460a-beba-57d8253cddf6.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c9965f06-3ad1-4050-84f6-954b9cf770dd.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f3f708bd-dce3-4719-bbf2-bc9127707aae.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8c4157a0-1811-4362-abca-66f731dc6f47.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ad8f2515-9544-4073-97fd-fbb36610a6db.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729589328680-97caceb3-54db-4384-bac8-ddf4e5087920.jpg",
+            "videoDuration": 29.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709572468-a8a476cb-0547-43bb-92e2-8ed0b6923ab9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709571678-c0c68012-18b8-46d7-8f67-8276dc5daf3f.webp",
+            "rleBoundingData": null,
+            "source": "Unknown",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0341af7f-8380-4fb4-9be1-e26e04591452.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/0341af7f-8380-4fb4-9be1-e26e04591452.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "79b00807-77df-45e6-817f-919f379e31a8",
+                    "groupUuid": "79b00807-77df-45e6-817f-919f379e31a8",
+                    "url": "https://cdn.viggle.ai/template/0341af7f-8380-4fb4-9be1-e26e04591452.jpg",
+                    "uploadedUrl": "",
+                    "name": "Ryan",
+                    "startFrame": 0,
+                    "trackId": "79b00807-77df-45e6-817f-919f379e31a8"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=4xDbmp0_wQKLonplmlvU2cAG38A="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d4840b3e-48b6-4ad2-80d6-c784b2a347e1",
+            "command": "$football_training",
+            "webCommand": "Football Training",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Football Training"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/9f41297a-7516-48e9-bc03-eccca8ce785e.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f5aaf586-fb9e-439e-a121-c22ebe75b4e0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f7fa5690-f9dc-4291-83d1-4667f5791442.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/188656d3-1a6b-428b-b035-2354b042f648.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f5aaf586-fb9e-439e-a121-c22ebe75b4e0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733469174712-5a0f2216-25eb-4b8d-a479-70e067d7c813.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f1f3ef43-ca84-4b76-958b-26705935c5a0.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/db2ae3c8-67b2-4a80-93ba-a2cd753c6a22.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e259ae51-181f-407e-9d86-bc50cc3efa6c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/5565c10c-f330-4b40-a5d9-ef71671348e6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/db2ae3c8-67b2-4a80-93ba-a2cd753c6a22.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733469299422-4703c581-0bdf-478c-a511-a580aba5726e.jpg",
+            "videoDuration": 17.84,
+            "gifURL": "https://cdn.viggle.ai/template/1733469176174-407a5e55-a25d-4e3c-869d-3ef009ba5428.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733469175235-f1df02cf-3221-4ca3-a675-1cf5e443571b.webp",
+            "rleBoundingData": null,
+            "source": "x x",
+            "referenceImageURL": "https://cdn.viggle.ai/template/4a4d8387-e1bf-4c5b-af49-dcfb7c36efc1.webp",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4a4d8387-e1bf-4c5b-af49-dcfb7c36efc1.webp",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9ceee01e-79d5-490a-b02a-3b8403075a79",
+                    "groupUuid": "9ceee01e-79d5-490a-b02a-3b8403075a79",
+                    "url": "https://cdn.viggle.ai/template/4a4d8387-e1bf-4c5b-af49-dcfb7c36efc1.webp",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "9ceee01e-79d5-490a-b02a-3b8403075a79"
+                }
+            ],
+            "width": 576,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "2521f88f-72b2-4538-af55-348b00aac110",
+                "nickname": "Kitty PM",
+                "avatar": "https://cdn.viggle.ai/template/26439cf2-3c2c-40cc-918b-e8b463695b13.jpg?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=TTTWmrOyoBDtUKUX-JoK7q6kRGg="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c3e3398f-d49b-4e94-b8d0-e3077d90b424",
+            "command": "$nfl_coldest_entrance",
+            "webCommand": "NFL Coldest Entrance",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "NFL Coldest Entrance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8f5dde05-38ed-4c4f-a5c1-1740d846eea7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b18fe4c6-de92-4761-83ec-c1a9896a7351",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/db4f6efa-9ef0-40d0-85fa-6b708888b825.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/20740b79-4a6a-4d51-900d-4b929a661003.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b18fe4c6-de92-4761-83ec-c1a9896a7351",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728705208968-883cc0b0-e2dd-48de-8de4-6e25fd8f960b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b3b9c575-d032-47fc-8230-12c89fc0b1f8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/53338fa8-0aed-40ef-a3db-5d85a5f9a930.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/813f86bf-9c3d-4358-b6c5-64bf634f540e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e5d613c0-9961-40a6-bcef-1d5840f8aac6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/53338fa8-0aed-40ef-a3db-5d85a5f9a930.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729455081-272d08eb-fd7f-4777-8a51-719ae2f30e68.jpg",
+            "videoDuration": 11.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730709447719-39745df1-5626-4611-a4fb-2cc4f10da5ee.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709446847-61961727-d389-4eb2-a1ad-6c884d152619.webp",
+            "rleBoundingData": null,
+            "source": "tt",
+            "referenceImageURL": "https://cdn.viggle.ai/template/daecda8d-b9e6-47d2-a23f-4e9394043114.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/daecda8d-b9e6-47d2-a23f-4e9394043114.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "07e556c7-0c41-401d-9cda-2de7674d5f15",
+                    "groupUuid": "07e556c7-0c41-401d-9cda-2de7674d5f15",
+                    "url": "https://cdn.viggle.ai/template/daecda8d-b9e6-47d2-a23f-4e9394043114.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "07e556c7-0c41-401d-9cda-2de7674d5f15"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "dfd7209b-a8ec-4834-b85b-91f83d67ff66",
+                "nickname": "EllaWave",
+                "avatar": "https://cdn.viggle.ai/template/3cdd1f4f-488a-4e34-b122-19a918c9ccc6.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=0qu6je85ddbfoOs0KsQn-EM_P7Y="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "936042cb-bc2b-40bc-92b7-5d4c7ca6497f",
+            "command": "$new_york_jets",
+            "webCommand": "New York Jets",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "New York Jets"
+                }
+            ],
+            "multiType": 1,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "DingProductions",
+            "processedMiniURL": "https://cdn.viggle.ai/template/3f8ccca2-59e3-4535-9eef-fe5bc4c45f3b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/572dc6a3-ad38-443e-9e0c-d102c0e9fb92",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/942e69fc-30a7-4339-86f3-e67c3e403832.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/56ceed07-4c37-44f9-a061-b357f88229d8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/572dc6a3-ad38-443e-9e0c-d102c0e9fb92",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728640537364-4867ae95-984c-4b9f-b09f-fcbf10b52960.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4f5a9c6a-7794-413c-8cf2-e559d98c1474.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8e87296d-3c40-4344-ab0b-c0fa8f9431a4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/3d107d8f-7120-48aa-9f9d-937c3ef1d367.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c50fee27-e490-4c11-ad5a-046a541139e4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8e87296d-3c40-4344-ab0b-c0fa8f9431a4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728640603381-cb5972ee-19b0-4e34-8454-b45ecb9aeb54.jpg",
+            "videoDuration": 10.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709426159-934f947d-82c0-4c7c-aaa5-2a09cac1455b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709425136-de99e776-c0b9-48ba-ad00-8b8f8af6e3b7.webp",
+            "rleBoundingData": null,
+            "source": "X: DingProductions",
+            "referenceImageURL": "",
+            "referenceImageSdURL": "",
+            "referenceImageURLs": [
+                {
+                    "uuid": "fc6b08e1-2c54-4348-bab5-1accaf136f4a",
+                    "groupUuid": "fc6b08e1-2c54-4348-bab5-1accaf136f4a",
+                    "url": "https://cdn.viggle.ai/template/583fb7fc-d5d6-4051-b08a-894d4f201f50",
+                    "uploadedUrl": "",
+                    "name": "Betty",
+                    "startFrame": 0,
+                    "trackId": "fc6b08e1-2c54-4348-bab5-1accaf136f4a"
+                },
+                {
+                    "uuid": "6fc26408-fd33-4e65-9f07-d17e5a8f4550",
+                    "groupUuid": "6fc26408-fd33-4e65-9f07-d17e5a8f4550",
+                    "url": "https://cdn.viggle.ai/template/abf441d3-f6b6-4d07-a5c0-d0b01b4418bf",
+                    "uploadedUrl": "",
+                    "name": "John",
+                    "startFrame": 0,
+                    "trackId": "6fc26408-fd33-4e65-9f07-d17e5a8f4550"
+                }
+            ],
+            "width": 1214,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=QRWRpKTbhV9mAeVBfjTKRVpVkBw="
+            },
+            "tags": [
+                {
+                    "id": "fe320662-c361-4177-bb81-74b6ae964acd",
+                    "name": "Multi-Person",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0164880f-bc83-41e8-a99e-ace61d2a5a0b",
+            "command": "$travis_kelce_on_field",
+            "webCommand": "Travis Kelce On Field",
+            "description": "TK in LA. #traviskelce #chiefs #warmups #nfl",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Travis Kelce On Field"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "49ers",
+            "processedMiniURL": "https://cdn.viggle.ai/template/abcbd16e-7edd-4bbc-8d91-c96884abcbc0.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/36cb7246-3579-489b-9ecc-3b063d975ce4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/caca1355-3e31-48e1-88c6-452638ce80ca.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d71e5ab4-8692-48cd-9395-8f7c2ed47dd2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/36cb7246-3579-489b-9ecc-3b063d975ce4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728637990396-743b61be-3e2d-4d48-928b-eab91511e11e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1e0226c9-680f-4fda-a97d-45ab14a7f4cb.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8a357621-4313-482c-901e-e3dab3e57573.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5a49eb23-495b-4cd3-8503-76363ed5835f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2339e08b-ed7e-4ccc-b45f-74be8f81f966.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d3cf2bc2-4db8-4710-8b5f-5487f694edcb.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729147703-505f580f-bef0-4500-ba56-3027ff6f635a.jpg",
+            "videoDuration": 8.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709419379-7c3e3706-d4bc-44ff-b973-dce59acc6632.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709418046-78b579a5-e290-40b3-a44e-19cadea2c52c.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: 49ers",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b3a20bc1-5ce6-4cf6-ab0f-86cb6ed52399.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b3a20bc1-5ce6-4cf6-ab0f-86cb6ed52399.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e7916b92-2dc8-49dc-9787-f526632c9bf1",
+                    "groupUuid": "e7916b92-2dc8-49dc-9787-f526632c9bf1",
+                    "url": "https://cdn.viggle.ai/template/b3a20bc1-5ce6-4cf6-ab0f-86cb6ed52399.png",
+                    "uploadedUrl": "",
+                    "name": "Alexander",
+                    "startFrame": 0,
+                    "trackId": "e7916b92-2dc8-49dc-9787-f526632c9bf1"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "97ff974a-6568-4664-92a6-39c72414273f",
+                "nickname": "LunaZip",
+                "avatar": "https://cdn.viggle.ai/template/45d0b7ad-ec65-4bff-a484-80409ab56b6c.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=iF5gtdmUjxOPHJB2Hn4JzFDpBLQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f5856b04-6c8b-4e5c-bc90-a7e6dff13b66",
+            "command": "$nick_bosa_check_in",
+            "webCommand": "Nick Bosa Check In",
+            "description": "The 🐻 checking in. #49ers #NFL #SBLVIII #nickbosa",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Nick Bosa Check In"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "49ers",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0c722717-7f85-4e40-9399-8137fb3973ed.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/40d5f480-5295-4d33-8924-7f134952c6f0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f18a074b-e190-4256-ac1f-751bc08af1ad.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/2c58916c-1326-470c-bb53-c8bc5d074775.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/40d5f480-5295-4d33-8924-7f134952c6f0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728637918570-abce0660-b08f-4128-a8ae-a154a8f2b4ab.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4b7631c9-4d21-4a63-9133-50217ef4a485.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/edbedd88-f45b-4873-b664-184d0841fb63.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5547e151-5ceb-4b10-82fd-dcc21ee273e7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/eb001a1d-817e-4fda-967a-3efa01d57aa0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/270f55e7-24b3-4d2e-b8fb-5cb826ea2ad6.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729158480-37e3720e-b8b5-4343-a4b7-be3f17782d87.jpg",
+            "videoDuration": 17.64,
+            "gifURL": "https://cdn.viggle.ai/template/1730709415381-a1941ec1-2d19-490f-b740-071a2cfb6550.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709414434-284a0e45-157d-45ff-825f-5c43774c9327.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: 49ers",
+            "referenceImageURL": "https://cdn.viggle.ai/template/cf029da1-524d-45d4-b549-54b99df8336a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/cf029da1-524d-45d4-b549-54b99df8336a.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a0dc9782-c882-4258-83d0-6401c7c5d853",
+                    "groupUuid": "a0dc9782-c882-4258-83d0-6401c7c5d853",
+                    "url": "https://cdn.viggle.ai/template/cf029da1-524d-45d4-b549-54b99df8336a.png",
+                    "uploadedUrl": "",
+                    "name": "Aaron",
+                    "startFrame": 0,
+                    "trackId": "a0dc9782-c882-4258-83d0-6401c7c5d853"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "f32ccdd1-7b52-4f72-8737-dcc14306f76f",
+                "nickname": "AvaSkye",
+                "avatar": "https://cdn.viggle.ai/template/0491d210-33cb-4260-8493-8201aa8d50fe.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=34f5Z9dHev5yeOK6vSKbUBpchFk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0723cff4-6d93-48e5-9dfa-d9f0ccaf1fb2",
+            "command": "$49ers_walk_by",
+            "webCommand": "49ers Walk By",
+            "description": "mood 😁 #49ers #NFL #NFLGameday",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "49ers Walk By"
+                }
+            ],
+            "multiType": 1,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "49ers",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a2bc82cc-f935-48e9-b150-189481999183.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/edd070fa-3e67-453c-b27c-8d4979ade779",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/581944b5-601b-4fe0-994c-3c8fecfe765f.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/617b68c0-398e-45d8-8433-5a8b1d9647f7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/edd070fa-3e67-453c-b27c-8d4979ade779",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728637837008-978568a7-8c3b-43cb-8c9a-bcc9ea47a7dc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/01718345-9ee3-423f-b489-963127837100.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a1721aba-d55f-42fe-81e5-8c0384263dc5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1851852e-6618-47e8-9d13-95ac0919587c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d8e09cc1-52a7-4669-b52d-9c380533e1bd.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a1721aba-d55f-42fe-81e5-8c0384263dc5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728642855463-9b429b8f-ac80-4241-a0be-510e5ba449e3.jpg",
+            "videoDuration": 9.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709412099-093c1850-009b-47ef-8465-166267410446.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709411237-90d7a77e-9a90-43e0-b89e-1efb97b144b0.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: 49ers",
+            "referenceImageURL": "",
+            "referenceImageSdURL": "",
+            "referenceImageURLs": [
+                {
+                    "uuid": "57b0e139-61a7-434e-ab30-d95920669d16",
+                    "groupUuid": "57b0e139-61a7-434e-ab30-d95920669d16",
+                    "url": "https://cdn.viggle.ai/template/1e7a0635-42e2-4fb2-a261-0f5d72a0179b",
+                    "uploadedUrl": "",
+                    "name": "Peter",
+                    "startFrame": 0,
+                    "trackId": "57b0e139-61a7-434e-ab30-d95920669d16"
+                },
+                {
+                    "uuid": "59bbfb38-77ec-4862-b029-e8b4707e17b2",
+                    "groupUuid": "59bbfb38-77ec-4862-b029-e8b4707e17b2",
+                    "url": "https://cdn.viggle.ai/template/7e14fec5-6fb3-4e75-b105-dd2f6093fd3a",
+                    "uploadedUrl": "",
+                    "name": "Patrick",
+                    "startFrame": 0,
+                    "trackId": "59bbfb38-77ec-4862-b029-e8b4707e17b2"
+                },
+                {
+                    "uuid": "79e7287f-7eff-40c8-991f-b1e9425806f2",
+                    "groupUuid": "79e7287f-7eff-40c8-991f-b1e9425806f2",
+                    "url": "https://cdn.viggle.ai/template/2507f40e-eb86-4751-87c3-a4bd3377885b",
+                    "uploadedUrl": "",
+                    "name": "Adam",
+                    "startFrame": 0,
+                    "trackId": "79e7287f-7eff-40c8-991f-b1e9425806f2"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "2c88a278-bdc2-4010-b935-5de092739476",
+                "nickname": "RoseMist",
+                "avatar": "https://cdn.viggle.ai/template/ba186846-19ca-46b7-ba1b-e3403c2c8e11.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=p8T8kc5Ezv91dTTLWtIdtjTkt4Q="
+            },
+            "tags": [
+                {
+                    "id": "fe320662-c361-4177-bb81-74b6ae964acd",
+                    "name": "Multi-Person",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1e5744c9-804e-4a8b-a3df-ff6d10f366f8",
+            "command": "$nfl_griddy",
+            "webCommand": "NFL Griddy",
+            "description": "NFL Justin Jefferson",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "NFL Griddy"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "berges.prod",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e7111d09-b0e1-4958-bd72-90e8e3579bc4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c23f44da-3680-4b05-836a-00c80b58b10d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/459c158a-f47a-4893-b74f-3dafde5f94bc.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/fb705f37-38a5-4513-bb33-c30cd19a640c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c23f44da-3680-4b05-836a-00c80b58b10d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728018905002-a314e5ca-5e77-423d-8191-270f68260535.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/05657b87-b9be-46b0-abee-6bc8d1e10a25.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/90b05d6b-78ba-4c16-be5c-d214ad963c39.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ddcef987-e8cb-4a82-8511-32333b5bb5f0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/fda31079-03b1-43c9-a4dd-be7149f3cd47.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/90b05d6b-78ba-4c16-be5c-d214ad963c39.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728082679046-8d7004a6-dfc3-4e30-9f2c-8d25313b958a.jpg",
+            "videoDuration": 4.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709251324-5d582c6a-743b-493e-ae32-663d391fc970.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709250639-8042aed7-59d4-4bc6-be94-3fb35ec71266.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: berges.prod",
+            "referenceImageURL": "https://cdn.viggle.ai/template/24db080c-35d1-4292-964f-52fbc607d2fd.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/24db080c-35d1-4292-964f-52fbc607d2fd.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "58a57a24-d4c9-42fb-ab7b-2e21745efe5f",
+                    "groupUuid": "58a57a24-d4c9-42fb-ab7b-2e21745efe5f",
+                    "url": "https://cdn.viggle.ai/template/24db080c-35d1-4292-964f-52fbc607d2fd.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "58a57a24-d4c9-42fb-ab7b-2e21745efe5f"
+                }
+            ],
+            "width": 1080,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=Z_wdWmgnjCgvh8ulmVgklRBRiU4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8b6fe460-d166-4fa9-beee-f6de7b0ada2d",
+            "command": "$brian_dawkins_scream",
+            "webCommand": "Brian Dawkins Scream",
+            "description": "NFL American Football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Brian Dawkins Scream"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "quezwatkinsson",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ec34e998-9f7c-4964-bbd4-2457505e0063.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/03665ba3-ed66-4642-b7ae-d7a622b086b7",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1ee14a91-1183-4c6b-8698-8ca8ded86065.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/a5ac76af-a758-470a-aa09-4fcd660182f8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/03665ba3-ed66-4642-b7ae-d7a622b086b7",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727902580451-340209bc-74be-4e2a-8b71-177ed849cdfb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d6457a8f-03fb-4603-970d-47bfcbeacb11.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/63f55f26-04e0-4457-ae52-49c6838ef1a7.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1c9c106d-d3a9-4d28-82c7-693730e29b25.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/edbdbace-8efb-4050-9d82-06a939bea96a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c2791170-2e5d-47e3-a805-377059b0b003.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729396184-3a2ea1ec-54b5-4527-870a-bd1dcd9a2061.jpg",
+            "videoDuration": 6.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709233710-520495d4-bd5a-4660-9861-4e92650f1d3e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709232978-aa437e7e-10f7-4162-9b91-a969d11b76a3.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: quezwatkinsson",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a952edf7-fc57-463a-8fb4-96fcdeaa8973.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a952edf7-fc57-463a-8fb4-96fcdeaa8973.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "639d56e9-d68a-44c0-8da8-d9c63466fd1d",
+                    "groupUuid": "639d56e9-d68a-44c0-8da8-d9c63466fd1d",
+                    "url": "https://cdn.viggle.ai/template/a952edf7-fc57-463a-8fb4-96fcdeaa8973.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "639d56e9-d68a-44c0-8da8-d9c63466fd1d"
+                }
+            ],
+            "width": 1080,
+            "height": 1350,
+            "isNew": false,
+            "user": {
+                "id": "e780a293-5776-4c9c-926b-867729700a58",
+                "nickname": "ironhawk.1",
+                "avatar": "https://cdn.viggle.ai/template/bd69d06d-3eb7-4347-b155-af90f839f30f.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=dWuMJcTDf63vgWrCSWGu_hZzcrg="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8bee24c6-b6fb-4731-9fa2-fd4ac5ff993f",
+            "command": "$nfl_chiefs_celebration",
+            "webCommand": "NFL Chiefs Celebration",
+            "description": "American Football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "NFL Chiefs Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "nfl",
+            "processedMiniURL": "https://cdn.viggle.ai/template/56ae5193-144a-42b3-87c9-cffaad610329.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/934caaaa-55ba-4079-9259-3a5c247d821b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e783385b-43fe-4cc2-86aa-c3e4b29a53aa.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0b623553-cb2f-42c9-b83f-8d6b2ae5fb8f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/934caaaa-55ba-4079-9259-3a5c247d821b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727840902726-8160f514-f1af-4b60-b29b-413097e37f98.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/505bc6f4-2383-45ba-8284-51aad49deae4.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2ab1bc1f-8d78-4777-a5a7-9c794aa7219b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ba7a9642-20b6-468c-848d-d27ce284a67e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2bdf0180-67b3-4734-b968-11bbb344c3e5.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/71f9c396-5833-4029-ae27-141ec82d3196.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729229962-1f693cba-d122-4545-ae44-f0972c237492.jpg",
+            "videoDuration": 7,
+            "gifURL": "https://cdn.viggle.ai/template/1730709224909-c30b8026-ca96-495e-b1a0-cbd01dc5e0b2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709223876-d107506c-b9b5-4d56-809c-505f3fbbf9df.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: nfl",
+            "referenceImageURL": "https://cdn.viggle.ai/template/509e0b0c-4532-4e7b-b74d-590cfcc2687f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/509e0b0c-4532-4e7b-b74d-590cfcc2687f.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "df672363-90f7-4c83-9325-62d7c0266de1",
+                    "groupUuid": "df672363-90f7-4c83-9325-62d7c0266de1",
+                    "url": "https://cdn.viggle.ai/template/509e0b0c-4532-4e7b-b74d-590cfcc2687f.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "df672363-90f7-4c83-9325-62d7c0266de1"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=21OloIbxlUyJK_rkXfCxfpoFPz4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "ccdd30b8-07fe-4a09-a5ca-6e146c1c3417",
+            "command": "$tom_brady_aura",
+            "webCommand": "Tom Brady Aura",
+            "description": "NFL American Footbal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Tom Brady Aura"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "NFL",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ecd36968-2739-40b0-ac22-ed2dc4614c91.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4670dd3c-a8d4-4b31-97f0-eb1a069d90c5",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a56df0a5-ef73-45a7-88cc-a1361091c9c2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/2c567e85-a7e9-4f20-96d3-d20c615a8d33.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4670dd3c-a8d4-4b31-97f0-eb1a069d90c5",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727721187883-73e7ab04-58fa-46e1-8157-12ced78f31d7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/db753c27-5b18-4885-bc42-dee5f806a7f2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/879eddd2-65b6-439b-92ee-d247daff007b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/95820aa6-e5b1-461b-9cef-cfffce62f1b2.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7a293ec4-e591-4e2f-8642-9aad0a721426.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4a93af91-88a5-45d1-83c5-dfd4565b6806.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729244957-6fc8d531-31dd-4ecb-92f2-4c9a8dcbb51a.jpg",
+            "videoDuration": 8.48,
+            "gifURL": "https://cdn.viggle.ai/template/1730709204489-59b293be-f894-4147-8c7e-04d55a5ef808.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709203526-43d72396-ad63-4beb-864e-5450289bc773.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: NFL",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b4f4e722-f1bc-4c37-8abd-188d605c5de6.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b4f4e722-f1bc-4c37-8abd-188d605c5de6.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "10d89010-8132-443d-ac0c-fc6d367737bd",
+                    "groupUuid": "10d89010-8132-443d-ac0c-fc6d367737bd",
+                    "url": "https://cdn.viggle.ai/template/b4f4e722-f1bc-4c37-8abd-188d605c5de6.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "10d89010-8132-443d-ac0c-fc6d367737bd"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "bbd739e5-032f-431f-b158-fe6ad7c7e839",
+                "nickname": "Glow",
+                "avatar": "https://cdn.viggle.ai/template/5f2bd132-1bc9-4a04-8be8-159bfe959b36.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=pR3SxjMHteK6hBCjPTh3-1sC1As="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7170f99b-08bb-417c-853e-51ef89e4805d",
+            "command": "$chiefs_patrick_mahomes",
+            "webCommand": "Chiefs Patrick Mahomes",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Chiefs Patrick Mahomes"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b9fa596b-e1d6-4ae9-a062-5660c7556c64.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/427efeab-187f-427c-8855-9f6ce174bd79",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2889262a-d525-41e3-b1cd-894b452c1d71.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/066aa8c6-2eaa-48f3-b347-e7a2d3d02d34.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/427efeab-187f-427c-8855-9f6ce174bd79",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727614272338-d6b17bdd-45f9-49e6-942a-6d9325bcdd38.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/46a79234-c815-456f-bc00-3f1942f4ee2c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b811d5aa-7c46-4853-a70f-74e3c9e9f278.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/37f257c5-9ab8-4f2c-8998-e0335e0c9044.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2bec731d-18cf-403f-9b64-cfbea0848d54.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b082a8f2-a96a-4deb-b955-c6c2a1832ad7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728729292483-0af5f228-a261-4598-9451-fa86dc75c698.jpg",
+            "videoDuration": 13.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709184400-c0a830f3-633c-4209-840f-d853d49253bd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709183398-3eff6330-1acf-4d99-8409-0ec7ff42bdf7.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: Chiefs",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5760adff-3af8-4ac1-a859-c7be8848def9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5760adff-3af8-4ac1-a859-c7be8848def9.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "b7a729fa-89a4-44c8-a97c-df872ea64ba7",
+                    "groupUuid": "b7a729fa-89a4-44c8-a97c-df872ea64ba7",
+                    "url": "https://cdn.viggle.ai/template/5760adff-3af8-4ac1-a859-c7be8848def9.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "b7a729fa-89a4-44c8-a97c-df872ea64ba7"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "73a3a587-2a6d-499f-9551-bcfe724f09d8",
+            "command": "$he_is_17_ryan_williams_nfl",
+            "webCommand": "He Is 17 Ryan Williams NFL",
+            "description": "Things Ryan Williams can do at 17: -this  #BuiltDifferent #Bama WHAT A GAME #GeorgiaVsAlabama bama vs Georgia #BamaGameday #Bama\"",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "He Is 17 Ryan Williams NFL"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "teasersixer",
+            "processedMiniURL": "https://cdn.viggle.ai/template/95c463cf-1491-4bdc-83e6-3cf31eed8177",
+            "processedURL": "https://cdn.viggle.ai/template/95c463cf-1491-4bdc-83e6-3cf31eed8177",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/95c463cf-1491-4bdc-83e6-3cf31eed8177",
+            "processedLargeURL": "https://cdn.viggle.ai/template/95c463cf-1491-4bdc-83e6-3cf31eed8177",
+            "processedHdURL": "https://cdn.viggle.ai/template/95c463cf-1491-4bdc-83e6-3cf31eed8177",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727600646724-24eb9983-5882-40db-b886-6b29b499c0f8.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e24e08a4-dc11-44e3-917b-504780e64a10.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/149e74de-e67e-4a9d-90f7-320a4d3e22b5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5f4bc1bf-e659-4110-bd7d-c449ec786a0c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6edf7b7f-07b8-4fa7-a450-39890b1c2ec7.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4f7de82e-6989-4aca-b602-a6aac3a883b2.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729497883179-ea17e7e9-2fe3-45b1-9c63-8232ba9bdac6.jpg",
+            "videoDuration": 9,
+            "gifURL": "https://cdn.viggle.ai/template/1730709175741-964d6a38-d388-426a-892d-b1023d553f1c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709174905-df01044d-b09c-475b-aa0e-1e2ee7766822.webp",
+            "rleBoundingData": null,
+            "source": "X: teasersixer",
+            "referenceImageURL": "https://cdn.viggle.ai/template/aec0e61e-d744-42e3-b1a1-2f6f6292b4f2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/aec0e61e-d744-42e3-b1a1-2f6f6292b4f2.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a5cf7bbd-bba3-4299-b5ab-405ea8a705a4",
+                    "groupUuid": "a5cf7bbd-bba3-4299-b5ab-405ea8a705a4",
+                    "url": "https://cdn.viggle.ai/template/aec0e61e-d744-42e3-b1a1-2f6f6292b4f2.png",
+                    "uploadedUrl": "",
+                    "name": "Williams",
+                    "startFrame": 0,
+                    "trackId": "a5cf7bbd-bba3-4299-b5ab-405ea8a705a4"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "17459495-1623-41eb-9318-b846e409c96a",
+                "nickname": "glitchzap.7",
+                "avatar": "https://cdn.viggle.ai/template/5c5dcfb9-7780-43f2-b7d5-ba28e28671ea.png?Expires=1735188310\u0026KeyName=vigglecloudcdn2\u0026Signature=0msmCtOcsnlKtj2KH0ez0_dJK6k="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "79393a8e-8127-461e-9d6f-ac4d6518bff2",
+                    "name": "NFL",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 18
+}

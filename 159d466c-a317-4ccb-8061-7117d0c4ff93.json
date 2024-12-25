@@ -1,0 +1,3718 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "ccdcc3fe-59ad-4110-88b0-3b3560ef9b58",
+            "command": "$alejandro's_award_winning_goal",
+            "webCommand": "Alejandro's Award Winning Goal",
+            "description": "soccer football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Alejandro's Award Winning Goal"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "fifaworldcup",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b83eb50c-9216-482e-b8d3-cbbbbca57259.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0af8286b-4384-496b-ac38-c3d84b941f6f",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d76d19b6-d2eb-4fd2-afa6-7214a0ec5350.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/828e736c-3644-487c-bcb2-832d65828ab5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/0af8286b-4384-496b-ac38-c3d84b941f6f",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734900241032-c11ddcc8-982f-4c6f-877d-133b8263ca40.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/263fafa3-3089-423f-95ff-674211244bcd.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5a2ad493-6c42-4da2-b8ca-fcb5066b23c8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/cd0b3e7e-7c9e-4a7d-abcd-197ab7fd0128.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d78b1daa-dc09-4fd8-9164-7e8ce209086e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b8c1478a-e905-488d-8d54-dcc778943e70.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734918161875-7540f139-f809-464a-8f03-6e9ff7ac1f64.jpg",
+            "videoDuration": 28.049002,
+            "gifURL": "https://cdn.viggle.ai/template/1734900242188-dc487041-06fe-445a-aaf2-eb8909c0a3d0.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734900241416-9c635701-065b-44e1-a1dc-18d0c4cdb92f.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: fifaworldcup",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c1cb884f-9224-48c3-805b-0eedfe13934d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c1cb884f-9224-48c3-805b-0eedfe13934d.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ab50bf90-c78c-440e-acb0-eef343698d43",
+                    "groupUuid": "ab50bf90-c78c-440e-acb0-eef343698d43",
+                    "url": "https://cdn.viggle.ai/template/263bdd26-866f-4704-94cf-10907d89ae2e",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/c1cb884f-9224-48c3-805b-0eedfe13934d.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "ab50bf90-c78c-440e-acb0-eef343698d43"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=q-ebG1iUFYbPqM7cvhzbfSyEKdw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "edcb30c2-eb1a-4c6e-b283-c5a1e1abb8b3",
+            "command": "$yildiz_wait",
+            "webCommand": "Yildiz Wait",
+            "description": "soccer football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yildiz Wait"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "fifaworldcup",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e6ce814c-b5e8-4460-8447-7b9925d8d739.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0888d342-81b9-4e46-864c-c6ff81a94a9c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/725aa2bd-586c-442e-b49f-640e53d9d5ac.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d4610afd-c382-4a4f-b8d5-76d917aa711f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/0888d342-81b9-4e46-864c-c6ff81a94a9c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734905011930-ac89c158-c824-4590-9b42-9acafc76e137.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/dfe35504-1f57-42fc-b962-ed66150dbe39.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e580f437-9607-48d7-958c-04f50d70dc7c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/284165e7-e819-4680-a01d-79540d03ed24.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/95fb5419-576a-44f1-b521-63188a83bafe.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b51de69e-d8f9-43b7-9410-9c5807deee92.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735096693678-536976b4-f99a-4660-aee1-66bc319a8513.jpg",
+            "videoDuration": 7.52,
+            "gifURL": "https://cdn.viggle.ai/template/1734905013460-5ec11ecb-cffc-4e1d-9b57-1d9ecafc4398.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734905012342-0ea9b8fd-30f5-4aa4-9896-dcd62c6ac010.webp",
+            "rleBoundingData": null,
+            "source": "fifaworldcup",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ff64c527-d3df-4091-9db9-f3abece95e66.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ff64c527-d3df-4091-9db9-f3abece95e66.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d3b0d4c4-f9e4-4749-9246-471d345194e1",
+                    "groupUuid": "d3b0d4c4-f9e4-4749-9246-471d345194e1",
+                    "url": "https://cdn.viggle.ai/template/ae466cbf-85dc-4ab6-9dc7-5b8334cf769f",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/ff64c527-d3df-4091-9db9-f3abece95e66.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "d3b0d4c4-f9e4-4749-9246-471d345194e1"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=q-ebG1iUFYbPqM7cvhzbfSyEKdw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "719b1330-391e-4782-a635-2dc7bbda19e3",
+            "command": "$ronaldo_and_mr_beast",
+            "webCommand": "Ronaldo And Mr Beast",
+            "description": "SIUUUU! Check out the new vid ⚽️⛳️🏈🏃‍♂️",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo And Mr Beast"
+                }
+            ],
+            "multiType": 1,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "mrbeast",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e454bf23-2a14-4b4e-aa37-2ee1d5797861.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/d60bd101-5f51-41a7-add8-bd2ae2389741",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c8805036-fdea-4b9f-adc9-d79f200b5fda.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f843387a-5c40-4d1f-8ff4-b52b9056a8bc.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/d60bd101-5f51-41a7-add8-bd2ae2389741",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733398371224-e41ca984-a1b1-43db-a5c5-3ae90c753a76.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/254909e7-e43e-44bb-a32e-efaa960caed7.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/873361f5-8e26-4f18-a5d0-ded8493bb1e6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6246febc-cfce-4632-85ef-dffefb88295c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/480277af-2341-4465-a3fc-09a97549fdb8.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/6f766426-e593-40a9-a4ce-e208e6e4d7bc.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733403887786-cb07791f-6e09-4cd9-ad3f-0af4c3dba10f.jpg",
+            "videoDuration": 14.36,
+            "gifURL": "https://cdn.viggle.ai/template/1733398372404-0fc87e8b-e90c-4b51-879b-71448d7dd00c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733398371630-e8d006d5-e234-408e-bebd-2113038bd676.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: mrbeast",
+            "referenceImageURL": "",
+            "referenceImageSdURL": "",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e812a58e-718b-42c2-aafa-54c4d6aa3d73",
+                    "groupUuid": "e812a58e-718b-42c2-aafa-54c4d6aa3d73",
+                    "url": "https://cdn.viggle.ai/template/9c2e8d32-53cb-4c4c-82ae-4f1f0b96f9e4",
+                    "uploadedUrl": "",
+                    "name": "Charles",
+                    "startFrame": 0,
+                    "trackId": "e812a58e-718b-42c2-aafa-54c4d6aa3d73"
+                },
+                {
+                    "uuid": "6ac4a54d-1f0a-46dd-9238-ff4251ce9a62",
+                    "groupUuid": "6ac4a54d-1f0a-46dd-9238-ff4251ce9a62",
+                    "url": "https://cdn.viggle.ai/template/4b7e2044-f46b-4808-bb56-31a498e48e63",
+                    "uploadedUrl": "",
+                    "name": "James",
+                    "startFrame": 0,
+                    "trackId": "6ac4a54d-1f0a-46dd-9238-ff4251ce9a62"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VJjR8viAMZ-xiShhJ049FfKdBhQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "fe320662-c361-4177-bb81-74b6ae964acd",
+                    "name": "Multi-Person",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e4f4f07e-d523-4d35-abb6-5c2573a3cf40",
+            "command": "$iconic_cr7",
+            "webCommand": "Iconic CR7",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Iconic CR7"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/affea255-47af-4826-9f25-84885b9a3d79.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/88000f4e-9890-4583-92f1-fb58fc095764",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1dafcda3-c207-4c60-b417-55378a353eb9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/47684d24-57c9-4952-b7cd-300c6dbd94d1.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/88000f4e-9890-4583-92f1-fb58fc095764",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732512319158-ba3c3167-cc53-4c23-af7a-361ab91869ca.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1b5295f7-ef62-46eb-b3ec-c096a09e8c52.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ab5fe7aa-932d-4981-8fa0-11338b3ec255.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d75ca99d-12b1-43f2-9572-c1457401d498.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3e0a8765-dfa8-4675-b002-ceca2e06c68d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ab5fe7aa-932d-4981-8fa0-11338b3ec255.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732529958162-6815c765-161e-4a52-be54-f1bddccef723.jpg",
+            "videoDuration": 9.08,
+            "gifURL": "https://cdn.viggle.ai/template/1732512320009-e646d05a-2157-4294-8eae-c97131d9be7b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732512319439-5b72a14f-7069-480d-92a3-bcfba06256b8.webp",
+            "rleBoundingData": null,
+            "source": "tiktok",
+            "referenceImageURL": "https://cdn.viggle.ai/template/db38501d-e2e4-4b62-a8b4-7dd8d548e594.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/db38501d-e2e4-4b62-a8b4-7dd8d548e594.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d01e1c8a-ab7f-4fe8-b822-44c6be5c5093",
+                    "groupUuid": "d01e1c8a-ab7f-4fe8-b822-44c6be5c5093",
+                    "url": "https://cdn.viggle.ai/template/db38501d-e2e4-4b62-a8b4-7dd8d548e594.png",
+                    "uploadedUrl": "",
+                    "name": "James",
+                    "startFrame": 0,
+                    "trackId": "d01e1c8a-ab7f-4fe8-b822-44c6be5c5093"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "e14c53e8-5095-4d9b-8d61-02087bb8182d",
+                "nickname": "RubyShine",
+                "avatar": "https://cdn.viggle.ai/template/3ba59803-271c-4650-a446-3d4e73249639.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=x1M0foWeVE8K_dOrFxgq_d_RJuU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d3f58e02-e0ce-42ea-b5a9-7f7b790e83ef",
+            "command": "$ronaldo_bicycle_kick_2018",
+            "webCommand": "Ronaldo Bicycle Kick 2018",
+            "description": "Ronaldo Bicycle kick",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo Bicycle Kick 2018"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "frank7810",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4926c831-0000-42af-a392-ff32b11453a2.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/7dfae611-2e6b-42f5-a98e-5299791b889a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/333cc3b9-26a9-439d-b81c-777307727fbf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b7ee2ec1-4f60-482d-99f6-7b3a685163f4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/7dfae611-2e6b-42f5-a98e-5299791b889a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731488982462-9d66eed1-b3d3-4995-9cdf-2e4fa985df24.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/fe9ef7cc-2e31-4d3e-9e6e-d9f5f9bb3dba.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2c19503f-f985-4daa-952d-6d096b897129.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/fe94ac64-e670-44dc-b422-5fbbefb0ad1a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f735c5d5-d218-4001-9299-792c2ec82b0c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/2c19503f-f985-4daa-952d-6d096b897129.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731489792212-008d160f-bee6-43eb-a1ef-5fe81e49865c.jpg",
+            "videoDuration": 8.52,
+            "gifURL": "https://cdn.viggle.ai/template/1731488983241-bb9f98af-3dc1-4648-a237-c5fe6407531d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731488982747-95995d3f-377a-46fb-b2c8-1565c3c15f42.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: frank7810",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6d5a4a15-4344-4139-845b-0d70cc16fc3b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6d5a4a15-4344-4139-845b-0d70cc16fc3b.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "865e7a4c-ae56-4c92-8762-db4fac5e067e",
+                    "groupUuid": "865e7a4c-ae56-4c92-8762-db4fac5e067e",
+                    "url": "https://cdn.viggle.ai/template/6d5a4a15-4344-4139-845b-0d70cc16fc3b.png",
+                    "uploadedUrl": "",
+                    "name": "Mason",
+                    "startFrame": 0,
+                    "trackId": "865e7a4c-ae56-4c92-8762-db4fac5e067e"
+                }
+            ],
+            "width": 1080,
+            "height": 1440,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=HTCjgIs9BWBpYT_LP1XQ8YwL8Vs="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a7b5d6e2-9221-4ef4-af2f-5d7214a856cc",
+            "command": "$when_real_madrid_lose",
+            "webCommand": "When Real Madrid lose",
+            "description": "Cuando el madrid pierde en champions 😡😂😂⚽️⚽️⚽️#viral #comedia #uefachampionsleague #realmadridvsmilan",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "When Real Madrid lose"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "guti.sierra",
+            "processedMiniURL": "https://cdn.viggle.ai/template/64eaf33e-12ac-485c-93d4-d55668709a78.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/67329c4f-ffcf-4002-88be-945ff74d25a6",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c03b8c88-e289-442d-b6da-0b4ca9e4a5a4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b52be86a-a221-4873-a1e7-92d5a8caae41.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/67329c4f-ffcf-4002-88be-945ff74d25a6",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730944254851-5335bc3f-a1e1-4ce5-8f5e-4a6b5ea79964.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ea8bb041-0896-4568-b0da-3f3a0503a8f8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2c9bd900-cd2b-4566-baa0-5689a500f309.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/65ec51a9-bde5-4925-b29c-3df7eed58043.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3345d26b-ac81-42a5-b5cc-db0773fafd5d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f4d94116-cfa0-4b3d-9ff7-59cdda59e73e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730971698471-40fe6368-c519-4b77-8970-412b407e304b.jpg",
+            "videoDuration": 27.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730944255761-b73c4d96-f8e1-47fa-aeca-2a8279e49781.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730944255133-9c3c5e53-7279-45b0-a27a-69d3c0888f76.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: guti.sierra",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "02e95df3-6394-4b64-a2d3-0ffe633b1009",
+                    "groupUuid": "02e95df3-6394-4b64-a2d3-0ffe633b1009",
+                    "url": "https://cdn.viggle.ai/template/8e85e412-53bd-4d2b-a172-9f728958a4c7.png",
+                    "uploadedUrl": "",
+                    "name": "ross",
+                    "startFrame": 0,
+                    "trackId": "02e95df3-6394-4b64-a2d3-0ffe633b1009"
+                }
+            ],
+            "width": 1078,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "17459495-1623-41eb-9318-b846e409c96a",
+                "nickname": "glitchzap.7",
+                "avatar": "https://cdn.viggle.ai/template/5c5dcfb9-7780-43f2-b7d5-ba28e28671ea.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=QjhAVIIkyPG9PiIVjfULCZGSLa8="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a1094cf4-8925-4a3b-b242-93be1c42ace5",
+                    "name": "Comedy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4072edd9-a1fa-479b-a838-5eafda664ca3",
+            "command": "$cr7_ishowspeed_dance",
+            "webCommand": "CR7 IShowspeed Dance",
+            "description": "CR7 IShowspeed Dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "CR7 IShowspeed Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "eduardolegal_44696",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2f5fc72e-36c6-4997-a28d-12ce86c9ecb0",
+            "processedURL": "https://cdn.viggle.ai/template/2f5fc72e-36c6-4997-a28d-12ce86c9ecb0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8cb75d2d-6b72-4ff8-81af-dcf783cdbd86.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/26a4aeeb-d143-4a87-b258-2e6b7c655386.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2f5fc72e-36c6-4997-a28d-12ce86c9ecb0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729660511276-35bc2343-dd3e-4c6a-8483-3e82ca9b16d3.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f7d6986f-c94e-4778-8573-8c29d596b23a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a7df31c6-81ca-4e06-ab87-40caebbd7ad4.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5e0a7a65-2f03-4d82-aa7a-3dffbb1fe8c9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e95e509d-b0e6-436f-a209-a3bf713535a5.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f8aa5cfb-1b9a-4ffa-a83b-38f022ef8734.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732159620252-718bad76-e6f4-4b29-af79-f8a10c7f39df.jpg",
+            "videoDuration": 15.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709614160-382c5fa1-877d-41f7-8d55-44fcb01ff78c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709613567-0dd8bb37-df41-4036-830f-c699d377e491.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: eduardolegal_44696",
+            "referenceImageURL": "https://cdn.viggle.ai/template/69638cea-3ab9-4b9b-8ce2-c1abd90f2184.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/69638cea-3ab9-4b9b-8ce2-c1abd90f2184.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ceb7c235-66be-40c6-bc54-a0aa1804bf20",
+                    "groupUuid": "ceb7c235-66be-40c6-bc54-a0aa1804bf20",
+                    "url": "https://cdn.viggle.ai/template/69638cea-3ab9-4b9b-8ce2-c1abd90f2184.jpg",
+                    "uploadedUrl": "",
+                    "name": "Gary",
+                    "startFrame": 0,
+                    "trackId": "ceb7c235-66be-40c6-bc54-a0aa1804bf20"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "8059afbe-91ab-4f15-8dec-5fe56f568d9c",
+                "nickname": "cheery_quip",
+                "avatar": "https://cdn.viggle.ai/template/6159bacc-017e-425b-a369-ef3b3b67bb95.jpeg?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=EXUCz8BFIZPTmlUaWEoHIUSUe0k="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "06613a14-13e5-48ca-9cce-63c8ecedfffd",
+            "command": "$bellingham_highlight_uefa",
+            "webCommand": "Bellingham Highlight At UEFA",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bellingham Highlight At UEFA"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/34e87e85-d239-4057-9fcf-70bb5f65c0c2",
+            "processedURL": "https://cdn.viggle.ai/template/34e87e85-d239-4057-9fcf-70bb5f65c0c2",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/34e87e85-d239-4057-9fcf-70bb5f65c0c2",
+            "processedLargeURL": "https://cdn.viggle.ai/template/58a89d21-9d6d-41b5-a049-9b343dd42678.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/34e87e85-d239-4057-9fcf-70bb5f65c0c2",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730971991452-e376acb7-c7d0-4b9f-baa2-33ccf716a422.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f68b4987-3aca-4e07-8a24-a3c7e2a4320d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4641ea21-f581-4ab0-81fd-e84a5102f4d8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/902ab4b2-d234-4629-ae73-0d7beac598cd.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6b9da6b0-003d-4936-a1ac-3af7f151de49.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/3de0cd5f-34a9-4e95-9c79-05540248475e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730982562639-d0b7fe0b-f7f1-4e5d-93f5-82fa41d515cf.jpg",
+            "videoDuration": 18.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730971992611-2f05211f-2ed3-4b91-a9bc-3850704cc403.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730971991835-68dc93cd-a2f8-447c-b93d-37df35f5a3d7.webp",
+            "rleBoundingData": null,
+            "source": "tiktok",
+            "referenceImageURL": "https://cdn.viggle.ai/template/14a10b4a-c1ea-466b-8f8e-8a8a23f77d99.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/14a10b4a-c1ea-466b-8f8e-8a8a23f77d99.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a38d82c9-a0cb-4acd-b450-1df8ab8229d3",
+                    "groupUuid": "a38d82c9-a0cb-4acd-b450-1df8ab8229d3",
+                    "url": "https://cdn.viggle.ai/template/14a10b4a-c1ea-466b-8f8e-8a8a23f77d99.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Noah",
+                    "startFrame": 0,
+                    "trackId": "a38d82c9-a0cb-4acd-b450-1df8ab8229d3"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=5uTQKqkNi4GW--7tyid4F_Ib_1A="
+            },
+            "tags": [
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "5719c545-d234-4b7b-ba10-3b1741cfe7e6",
+            "command": "$vinicius_junior_shoot",
+            "webCommand": "Vinicius Junior Shoot",
+            "description": "Real Madrid 1-3 AC Milan -- FULL extended #UCL highlights #championsleague #realmadrid #acmilan",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Real Madrid vs AC Milan UEFA"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "cbssportsgolazo",
+            "processedMiniURL": "https://cdn.viggle.ai/template/caac5826-2f3d-48a6-8e13-54bed2790bab.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f8fb8bbc-2fee-4209-9147-2f8e3012ddda",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/83881628-ac99-4046-8f83-9290d1f98caf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e9b1b5db-7d8b-4fc9-b928-38a0c42c67d8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f8fb8bbc-2fee-4209-9147-2f8e3012ddda",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730886486401-938ae01b-fbb9-404c-a7d7-60e94c03e851.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ef479e46-484d-48b4-9eb6-89e14474a6c0.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/384091e7-baf5-49c9-ad0b-d19bef70331b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6f1f1415-174c-4fb0-9048-014aab30895a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/bfba36df-ec15-49a6-9c31-a5d2a285ce04.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/03bf9fae-51bc-4715-804b-5366b6a8b5ae.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730890364933-b68181b4-8787-4fc7-b4ee-8c99ac0ece62.jpg",
+            "videoDuration": 17.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730886487208-d52c40ba-e287-44f1-ae07-5fe0d048e92d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730886486685-72b4abf0-873d-4901-af58-8ebf7f428f52.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: cbssportsgolazo",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2b5e3bd1-1f31-4bb3-8020-534fc05c32f2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2b5e3bd1-1f31-4bb3-8020-534fc05c32f2.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "8fe797cd-fd7d-417f-aea4-d3f09d249595",
+                    "groupUuid": "8fe797cd-fd7d-417f-aea4-d3f09d249595",
+                    "url": "https://cdn.viggle.ai/template/2b5e3bd1-1f31-4bb3-8020-534fc05c32f2.png",
+                    "uploadedUrl": "",
+                    "name": "William",
+                    "startFrame": 0,
+                    "trackId": "8fe797cd-fd7d-417f-aea4-d3f09d249595"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "22ac7eee-31a6-456d-986f-192b3f591152",
+                "nickname": "Misty",
+                "avatar": "https://cdn.viggle.ai/template/3d27bc28-7049-4dbd-95c6-a0e455a6dd4a.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=KZsf65MusXbbMG--u8CuHyc5VdA="
+            },
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c3b38930-a7fb-4692-8ae4-9fc2d9dec2ca",
+            "command": "$cr7_celebration",
+            "webCommand": "CR7 Celebration",
+            "description": "Cận cảnh Ronaldo ăn mừng. Siuuuuuuuuuuuuuuuuuu",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "CR7 Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "nhavuacr7",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ebb56a13-ad85-4c4f-af34-1977777d1e9a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ea13358c-8770-4d8c-a59b-a69b9e19610c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/197dbcc7-d4ee-4115-b5a5-dde196611ef9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c7b2b127-e246-4cc8-abf0-745b7b853c81.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ea13358c-8770-4d8c-a59b-a69b9e19610c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732528548292-561986f8-7d17-4f6d-9ac4-49c3d687d5c3.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6b4a9037-8b57-4e76-96dc-aa80a56fe696.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a2621a2a-200f-4697-bd12-f4dbd6debee9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2b1e4d19-c58d-4c14-a417-29c3a6d68451.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/189b2942-af8f-48cf-9d1d-bc2550a2034e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8b3cb820-a7e8-4c76-a87c-c11dbfa18b67.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732528894218-0d0e3f5c-51de-42e5-90f4-ca8d7da4166c.jpg",
+            "videoDuration": 10.495011,
+            "gifURL": "https://cdn.viggle.ai/template/1732528549168-35fc8df4-67a6-44bb-9ab5-7fb21387e444.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732528548576-3a862970-68f7-4a59-8df4-1b6cebaeac5c.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: nhavuacr7",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5166b9e1-e9e8-48cc-8f65-8feef98d8e7a.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5166b9e1-e9e8-48cc-8f65-8feef98d8e7a.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "dbad25de-ea55-4f1b-bc9a-6942a3d010db",
+                    "groupUuid": "dbad25de-ea55-4f1b-bc9a-6942a3d010db",
+                    "url": "https://cdn.viggle.ai/template/5166b9e1-e9e8-48cc-8f65-8feef98d8e7a.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Riley",
+                    "startFrame": 0,
+                    "trackId": "dbad25de-ea55-4f1b-bc9a-6942a3d010db"
+                }
+            ],
+            "width": 576,
+            "height": 1026,
+            "isNew": false,
+            "user": {
+                "id": "2c88a278-bdc2-4010-b935-5de092739476",
+                "nickname": "RoseMist",
+                "avatar": "https://cdn.viggle.ai/template/ba186846-19ca-46b7-ba1b-e3403c2c8e11.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=vsyXOl39_TRKnJBCNYEAinkCq_A="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9912cfe9-5286-461b-8f95-12f758597b31",
+            "command": "$ronaldo_great_shot",
+            "webCommand": "Ronaldo Great Shot",
+            "description": "The GOAT always brings that extra power 💥🐐 #Ronaldo #AlNassr #النصر #SportsOnTikTok #رونالدو",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo Great Shot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "alnassr",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6bccdc2e-0a35-4aa4-b482-22d17017af5b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/dd28e38f-81a9-4d80-b79d-cede14ef75a4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0963856f-3f6d-4768-ad93-d8e93d49a38c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9c8b4768-bf21-4c46-97e6-7b7ab2b99afe.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/dd28e38f-81a9-4d80-b79d-cede14ef75a4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732523629467-de4d9e97-9c80-4d72-b0cd-99cda30209ce.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/94084948-d2a1-4248-8ead-81cdca0e731d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7010be46-d823-4e47-8917-6032e2105b3c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7200659f-3426-44aa-ba3a-1152fa6bf74e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a22f0001-ea53-412c-8d85-90448c2a90fa.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7010be46-d823-4e47-8917-6032e2105b3c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732530007337-480af1ee-c4b6-4854-9d11-e4a636a9b3d7.jpg",
+            "videoDuration": 10.76,
+            "gifURL": "https://cdn.viggle.ai/template/1732523630465-ac9e602d-7abd-4952-96fa-bf9c78fc79e8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732523629759-3cc50403-4baa-40fb-9c39-baf696900e18.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: alnassr",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7bc1c22e-34f6-4b49-8551-875f4f4dc9d5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7bc1c22e-34f6-4b49-8551-875f4f4dc9d5.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "57809da6-3d23-493d-b74c-0d69f4c728fa",
+                    "groupUuid": "57809da6-3d23-493d-b74c-0d69f4c728fa",
+                    "url": "https://cdn.viggle.ai/template/7bc1c22e-34f6-4b49-8551-875f4f4dc9d5.png",
+                    "uploadedUrl": "",
+                    "name": "Morgan",
+                    "startFrame": 0,
+                    "trackId": "57809da6-3d23-493d-b74c-0d69f4c728fa"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VJjR8viAMZ-xiShhJ049FfKdBhQ="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7b883073-495d-483d-b0ce-fae0f81c01df",
+            "command": "$cr7_shoot",
+            "webCommand": "CR7 Shoot",
+            "description": "messis one was better lol #ronaldo #football #edit #fyp",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "CR7 Shoot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "novakhd",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6dd8deb8-5bdf-4e95-89ec-6296bec21a76.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/29b62d94-1060-4d7d-8470-6abb60796231",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d2144879-3a58-44b3-a6cf-c7f42f00309d.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e9da3ae4-bd17-448b-9214-a3f54427b7f5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/29b62d94-1060-4d7d-8470-6abb60796231",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732523137029-244b9ed2-80ec-4a61-8ea9-accf6a9a4866.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ee938a69-334f-4388-8403-956fce9681e2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7bc2c76c-a352-4b6b-a8cf-1f80cce7b7c5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/566e97ca-409a-4ef7-8cdb-e1083cce0734.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/88ba129a-400f-464b-b555-16ed2147a0cf.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7bc2c76c-a352-4b6b-a8cf-1f80cce7b7c5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732529137064-29c2b8ae-ed51-4036-820b-dfcbaff28d86.jpg",
+            "videoDuration": 11.4,
+            "gifURL": "https://cdn.viggle.ai/template/1732523137804-61ae4c22-6635-47c6-b3a9-f339824c4834.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732523137291-c2e328c2-556b-4b92-9db0-abf21def5920.webp",
+            "rleBoundingData": null,
+            "source": "tiktok: novakhd",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5b71347f-be89-4b46-9704-c794805ee0da.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5b71347f-be89-4b46-9704-c794805ee0da.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9dba422b-de36-4d02-8ba5-ffca930f79cc",
+                    "groupUuid": "9dba422b-de36-4d02-8ba5-ffca930f79cc",
+                    "url": "https://cdn.viggle.ai/template/5b71347f-be89-4b46-9704-c794805ee0da.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Sam",
+                    "startFrame": 0,
+                    "trackId": "9dba422b-de36-4d02-8ba5-ffca930f79cc"
+                }
+            ],
+            "width": 1080,
+            "height": 1440,
+            "isNew": false,
+            "tags": [
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "fe79ee6d-78c0-450d-a531-428228e140f0",
+            "command": "$robertson_football_pl",
+            "webCommand": "Robertson Football PL",
+            "description": "Robertson just would not stop 💪 #liverpool #premierleague",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Robertson Football PL "
+                },
+                {
+                    "type": 1,
+                    "value": "#liverpool"
+                },
+                {
+                    "type": 0,
+                    "value": " "
+                },
+                {
+                    "type": 1,
+                    "value": "#premierleague"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "premierleague",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0e7336df-5a60-4173-a21a-4ff4490d7bb6",
+            "processedURL": "https://cdn.viggle.ai/template/0e7336df-5a60-4173-a21a-4ff4490d7bb6",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0e7336df-5a60-4173-a21a-4ff4490d7bb6",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0e7336df-5a60-4173-a21a-4ff4490d7bb6",
+            "processedHdURL": "https://cdn.viggle.ai/template/0e7336df-5a60-4173-a21a-4ff4490d7bb6",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731411461563-dd06d55f-5c20-48b4-a83c-66a7ece3f122.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/025228f8-785c-4739-9406-730c1ddb9a86.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/17bc2ef9-1a98-4de6-ad99-3bde604f218d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/132c5eaa-0d46-41ff-9423-7710df028b43.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ca29cd9c-0041-4d16-8ecc-82eecba07952.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/124ad35a-e6a6-4191-b423-b2979236848a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731582100839-b6f1e95f-d243-40cb-9c07-04272fe5eec7.jpg",
+            "videoDuration": 8.92,
+            "gifURL": "https://cdn.viggle.ai/template/1731411462457-9365ffcf-e17e-4627-b724-0f3f9d48f69e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731411461881-737fe3ea-1b30-4112-9fb1-4685687c25c8.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: premierleague",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2690a7e6-da9c-4fc1-8e51-a6b62671dc30.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2690a7e6-da9c-4fc1-8e51-a6b62671dc30.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "bfe6e310-5c7e-4b41-ad2e-ced0d8245d2b",
+                    "groupUuid": "bfe6e310-5c7e-4b41-ad2e-ced0d8245d2b",
+                    "url": "https://cdn.viggle.ai/template/2690a7e6-da9c-4fc1-8e51-a6b62671dc30.png",
+                    "uploadedUrl": "",
+                    "name": "Jerry",
+                    "startFrame": 0,
+                    "trackId": "bfe6e310-5c7e-4b41-ad2e-ced0d8245d2b"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "e780a293-5776-4c9c-926b-867729700a58",
+                "nickname": "ironhawk.1",
+                "avatar": "https://cdn.viggle.ai/template/bd69d06d-3eb7-4347-b155-af90f839f30f.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=Khtudj1CIz427LdhFoGY6nQBFiQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9cfba8da-d353-43ee-9305-bae86733c64e",
+            "command": "$Real Madrid Luka Modric",
+            "webCommand": "Luka Modric Real Madrid",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Luka Modric Real Madrid"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/81740930-7856-4698-b4ab-00565f5afb66.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/67a99372-2f18-4a11-87d8-483dc9080be4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0d25fff8-4ee8-4770-bfb5-3556cdae602f.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0529b64e-2b12-4365-a912-d98f03cebb7e.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/67a99372-2f18-4a11-87d8-483dc9080be4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730972975666-74357423-fe6d-4c65-8e17-16857cfbedbc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/cd33f8fb-3eb4-475f-a7ea-3dcbb1393950.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/f7ca6a4c-8b99-4903-81fa-ea4ce5dd7948.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8266f8e6-556b-457d-bcd7-27ad2338c798.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/fa1b6117-6dfa-425d-9659-2dc06e4e2f78.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/97743619-3b7f-4010-9aad-77522ad7a611.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730982604576-580f14b8-f2c7-44c5-876b-cb2ce470b11f.jpg",
+            "videoDuration": 10.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730972976574-343b0261-e77c-4b44-b357-22e267c00991.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730972975972-33018f05-5820-4495-9eab-749f03bfb4b9.webp",
+            "rleBoundingData": null,
+            "source": "tiktok",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c93f7c08-7215-40ad-abbc-4dcfcb296928.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c93f7c08-7215-40ad-abbc-4dcfcb296928.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "4f63d191-9d8d-441a-8035-91ada2cdfa2f",
+                    "groupUuid": "4f63d191-9d8d-441a-8035-91ada2cdfa2f",
+                    "url": "https://cdn.viggle.ai/template/c93f7c08-7215-40ad-abbc-4dcfcb296928.png",
+                    "uploadedUrl": "",
+                    "name": "Tim",
+                    "startFrame": 0,
+                    "trackId": "4f63d191-9d8d-441a-8035-91ada2cdfa2f"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "e14c53e8-5095-4d9b-8d61-02087bb8182d",
+                "nickname": "RubyShine",
+                "avatar": "https://cdn.viggle.ai/template/3ba59803-271c-4650-a446-3d4e73249639.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=x1M0foWeVE8K_dOrFxgq_d_RJuU="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e2723f59-429f-42d0-aae9-1492aa60b412",
+            "command": "$ronaldo_skill",
+            "webCommand": "Ronaldo skill",
+            "description": "Ronaldo skill",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo skill"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/45bc8dee-696a-4208-9f90-8a6d602ca969.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/960dd62d-acd2-4d08-82b7-15cf20389f72",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/01f80679-ea71-4e30-bc95-0f9ab8411119.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d5e62b0b-52be-4309-9d31-e606a81b1863.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/960dd62d-acd2-4d08-82b7-15cf20389f72",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728565029518-38d88437-6cda-4db2-b698-0a54e21d0436.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/50d4c833-96e9-4e6d-9829-ff90b4ac0cc7.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d2c8644b-ba6e-4e30-8201-009bf77adb61.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6faadb28-f764-486a-b499-ccd671abd05b.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/05ea10ae-f54b-44a8-8cce-703b57e7a3c5.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a15e25ee-0a2f-4154-82b5-99fa8f18b841.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732010094853-f1ce9d97-b832-4cd1-a828-ad053f4f7aed.jpg",
+            "videoDuration": 4.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730707535411-96c5d338-bc04-40de-821c-60f12d7f94a0.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707534636-65ea5952-57b4-432e-a5ad-369ea04db16e.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by 3734470176",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c4841616-24ec-46d4-81b2-8292d7bb84d6.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c4841616-24ec-46d4-81b2-8292d7bb84d6.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "09830c0f-f693-4b6a-b923-a2bb50b2e827",
+                    "groupUuid": "09830c0f-f693-4b6a-b923-a2bb50b2e827",
+                    "url": "https://cdn.viggle.ai/template/c4841616-24ec-46d4-81b2-8292d7bb84d6.png",
+                    "uploadedUrl": "",
+                    "name": "Ronaldo",
+                    "startFrame": 0,
+                    "trackId": "09830c0f-f693-4b6a-b923-a2bb50b2e827"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=una3vgG1PaZLQqXfChtq-sh98kk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "00989dd8-70e3-4fd0-b679-d8171999c107",
+            "command": "$mbappe_knee_slide_celebration",
+            "webCommand": "Mbappe knee slide celebration",
+            "description": "Mbappe knee slide celebration",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Mbappe knee slide celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e43b4c9b-401e-4eab-b885-ff32b60c0fab.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/217e384e-a921-482b-9511-896f9dbb6b27.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6e25e183-18dc-4d47-a201-dc8980d329f0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e8a15df7-dc92-4adb-be30-836806e1219f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/217e384e-a921-482b-9511-896f9dbb6b27.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555403952-be6a52b2-6a22-4002-b0f7-350636be7669.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6a794f96-d208-429f-84c8-23dc74b6c321.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b33a564b-9a0a-44f7-b18d-46616e9fe504.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a394364b-b5ef-4721-bd3b-8b7b7bf6d9c2.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9454769d-123f-4acd-bd5d-bdb19f78db73.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b33a564b-9a0a-44f7-b18d-46616e9fe504.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555402602-3b0607a9-3564-45ec-b840-626bc485f871.jpg",
+            "videoDuration": 20.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730707302382-a4b98775-00d2-4476-bb9e-b1e02737388e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707301696-bc46890c-1641-4af6-a609-c3086bfaa219.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: mbappegoals10",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ff7c4b57-af9f-4fdf-8b1d-cece07685d9d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/722a9db2-62f5-4b81-8025-91d88fe322fd.jpg",
+            "referenceImageURLs": null,
+            "width": 1024,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "17459495-1623-41eb-9318-b846e409c96a",
+                "nickname": "glitchzap.7",
+                "avatar": "https://cdn.viggle.ai/template/5c5dcfb9-7780-43f2-b7d5-ba28e28671ea.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=QjhAVIIkyPG9PiIVjfULCZGSLa8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "eae5000b-da51-4465-88fb-b0f751b97abe",
+            "command": "$yamal_fcbarcelona_supercoba",
+            "webCommand": "Yamal FcBarcelona Supercoba",
+            "description": "Good job, Lamine Yamal! 💎 #fcbarcelona #Supercopa #Shorts",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yamal FcBarcelona Supercoba"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4e388782-74b7-4240-ac81-2228ccec2cf4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/da0fa8d2-bf0d-43fb-9a23-819e2cad5799.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b1573080-e9ab-42eb-8d4b-b290380ac77a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/dc4dd018-afe0-4855-81ac-14ccc5e8cfa2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/da0fa8d2-bf0d-43fb-9a23-819e2cad5799.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556648299-6eec6e22-55a6-4745-b16f-7f78ff71e0f7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a34a1e92-94a5-4dfa-b28a-0d6326b7c7a9.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9c6ecdde-bf55-4734-b362-adb6de950180.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/bde89d36-3c8a-4f9a-b9bf-dd048b2b1839.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/26395c10-5b53-4af3-965a-7b0fc497ec57.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9c6ecdde-bf55-4734-b362-adb6de950180.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556647191-500a2f69-4164-42de-992c-650f3a9345c4.jpg",
+            "videoDuration": 4.64,
+            "gifURL": "https://cdn.viggle.ai/template/1730707960996-4d0d2c16-5f39-46de-b625-3a7634683f17.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707960200-30b45095-7210-49d9-92ce-45a9a358d63f.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: FCBarcelona",
+            "referenceImageURL": "https://cdn.viggle.ai/template/954f980b-5df4-4792-998f-9c53b183490d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a14a2080-f202-4350-acc6-08345f0a65fa.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "48332efd-847b-4cd1-8020-01bdf0b12219",
+            "command": "$euro2024_spain_victory_celebration",
+            "webCommand": "Euro2024 Spain Victory Celebration",
+            "description": "Vibes 🇪🇸 #EURO2024 #SpainvsFrance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Spain Victory Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c1de2c9c-e1de-494b-a6a4-35def01b0b50.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ef87648b-c5c8-4447-8b1f-3e9efe2111c7.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bfbb0ffa-5c42-424f-83bc-94a96c70654c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/fe742b82-5d65-423b-9d70-dd4255b8ce70.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ef87648b-c5c8-4447-8b1f-3e9efe2111c7.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556903637-af4689c9-d45b-4d01-8a4b-2d70ab6238a1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6fb7524f-10a0-4b25-8cf7-49b3bd235fc3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/63d74026-866f-4ea5-86e3-29411f10f90f.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5c0ab27e-5bcd-4f6b-ae82-038ee3a889e0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f75b3874-ed6b-42bc-953b-81398187dfb3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/63d74026-866f-4ea5-86e3-29411f10f90f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556902314-7824869f-ac4b-4308-a4f8-6a8140ae8f63.jpg",
+            "videoDuration": 11.561995,
+            "gifURL": "https://cdn.viggle.ai/template/1730708090186-5a5d1cc7-5cad-47aa-8a84-d8f99e1a5ed7.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708089412-e6a9d861-587f-4c6e-8227-2906237f2efa.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b9d90171-7a1a-4e4f-a2b5-5f472a30a40b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/520444a3-71ab-454d-adab-4595b740e5aa.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "6a21c747-d679-428d-96c7-4e6a472f2dea",
+                "nickname": "dh.casef0_",
+                "avatar": "https://cdn.viggle.ai/template/0980e847-3a76-493b-b56d-2eefee46e012.jpeg?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=6kYYp1Ydx0I6xmyzfOEHzK5lAQY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "75181451-ac7b-4a08-bbbc-b29798f36350",
+            "command": "$euro2024_yamal_gold_medal",
+            "webCommand": "Euro2024 Yamal Gold Medal",
+            "description": "Yamal 🤩💫 #EURO2024 #SpainvsEngland #Spain",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Yamal Gold Medal"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/87eaa488-95d6-4fce-bafe-79cd8a74125a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c6b0d8e2-2290-43b5-bfbc-9895ccaae794.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a163e5fe-a7fd-48da-b5cb-06e6334e00ce.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/427cbb46-38fa-4a61-9e44-25e805fce643.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c6b0d8e2-2290-43b5-bfbc-9895ccaae794.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556898990-44c4e03d-eb36-4ae7-b24f-389aed1691dd.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a7b6d443-9e37-4e58-b3ea-1c6d1787c456.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/3030ebb9-63db-400f-a675-8384d8df3476.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/149a1d8c-f700-4355-bb73-4af3491bedcb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1712eca3-0158-40ad-b484-c42f77e82b3f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/3030ebb9-63db-400f-a675-8384d8df3476.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556897987-7cf8cb2a-ea9f-4961-b268-23737c43a342.jpg",
+            "videoDuration": 9.033333,
+            "gifURL": "https://cdn.viggle.ai/template/1730708087518-9f6808a9-7c6c-47bd-8e48-5185cbfb86d5.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708086833-b1039a79-782a-4e08-a8e5-11dba34d8c4d.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/47270200-6b05-41b6-b5fb-a0fdff0926f5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b8a2fc7f-ed84-40a8-991c-89d26e4f4e6c.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "6a21c747-d679-428d-96c7-4e6a472f2dea",
+                "nickname": "dh.casef0_",
+                "avatar": "https://cdn.viggle.ai/template/0980e847-3a76-493b-b56d-2eefee46e012.jpeg?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=6kYYp1Ydx0I6xmyzfOEHzK5lAQY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "2fc6e5e6-cb82-420b-8c71-ed2d07586b12",
+            "command": "$euro2024_spain_rodri_celebration",
+            "webCommand": "Euro2024 Spain Rodri Celebration",
+            "description": "We are the champions… 🎶🏆 #EURO2024 #SpainvsEngland",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Spain Rodri Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6e1b483b-c7c3-4ad1-878e-e681375860cd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f6ce2236-60d3-4023-af41-bf4ee0715bb2.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9f7ae595-ca0a-466e-a4a9-47fcb39fdcbf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3c398023-00c4-49ce-8d45-91f4e6d7b9ae.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f6ce2236-60d3-4023-af41-bf4ee0715bb2.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556894187-9a7b2d9a-e1ec-4464-a05e-99dac820a3de.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2c0a4e4d-7b45-4b77-a4c1-962047699b25.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/70237022-0237-4c7c-a7c4-ebdac8611962.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/64e49860-f207-48e0-830d-61dd1fee6bc7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d88ec2f4-1dbe-4871-958b-80360c447411.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/70237022-0237-4c7c-a7c4-ebdac8611962.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556893217-370aac5d-06bc-476b-89f4-8519248b3daf.jpg",
+            "videoDuration": 7.366667,
+            "gifURL": "https://cdn.viggle.ai/template/1730708084860-3647f4e9-6ee1-490d-855f-d8ed9b9438c7.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708084167-a2a61ee9-3035-4a6d-b06a-c3a9b02e6b9f.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/fa2f47fa-39c7-4d87-9157-7de8fde1b306.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/67bc797f-7626-4c65-869c-3c46d4e68bbf.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "6a21c747-d679-428d-96c7-4e6a472f2dea",
+                "nickname": "dh.casef0_",
+                "avatar": "https://cdn.viggle.ai/template/0980e847-3a76-493b-b56d-2eefee46e012.jpeg?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=6kYYp1Ydx0I6xmyzfOEHzK5lAQY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "12b01c40-16f0-41e7-9723-d95b749f202a",
+            "command": "$yamal_cheer_celebration",
+            "webCommand": "Yamal Cheer Celebration",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yamal Cheer Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7ad1c71e-a28c-4a8f-b517-dd30411c2a14.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/fa41ce41-34dd-4d1a-852d-9f7016d34b7f.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/fd3369ac-408c-40c9-a708-53e4aac5344d.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8b1ecc39-d0e4-4931-ad8a-b15532f92491.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fa41ce41-34dd-4d1a-852d-9f7016d34b7f.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556644285-3662df71-1499-4e0d-b6f4-1f878f6abd29.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b430b5b7-36d9-46bd-9005-e15b613ade32.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/30f79af9-989e-4c0d-b74d-20c47866bc27.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d6585eb9-014a-44e0-9b18-b2cd2dae04ab.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/23069e46-74f2-4e0e-944c-b2de2a2d1d53.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/30f79af9-989e-4c0d-b74d-20c47866bc27.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556643214-00f29346-7c23-43ef-bffa-1392e6156e7b.jpg",
+            "videoDuration": 3.76,
+            "gifURL": "https://cdn.viggle.ai/template/1730707958032-3107d74b-ae4a-4d8a-9aeb-b364bf9f68f0.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707957258-3b1deb5d-4769-4423-9351-363ccf4e9148.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by user",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7a5a0352-70ac-4844-a364-85962e4aeb51.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/50da96f9-909c-464b-b4df-9066d079dde7.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "201e0816-14ce-4ea9-af33-9c767e122244",
+            "command": "$bellingham_splendid_performance",
+            "webCommand": "Bellingham splendid performance",
+            "description": "Bellingham ball 😮‍💨 #EURO2024 #NetherlandsvsEngland",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bellingham splendid performance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/da82d9e2-2664-4d01-b2fe-6f4c0b95271b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3af94a26-9af9-4d4d-ad7f-75ed11146c92.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c82164a9-ab73-4e90-ad89-f7de7480ffdd.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5574c6af-e152-43cb-ac35-e43875289dc0.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/02c71627-5c92-4d66-b69a-ca132119b64d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728616519996-0e7adbd6-ac0f-418a-b714-a4fdb36a7620.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2672eb47-7e6f-4cfa-ae76-df535eb5c6c8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/168ff000-76f1-49c5-9cbc-4c8c3db56ae6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/20fc5722-1e29-4177-84e4-9811f2e406c6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/42689105-faad-4842-8064-33f738aefba3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bf6ae2ad-35e7-45f5-a2b5-91940feab056",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728616519725-5ab1e733-cb8f-48e6-a897-918688b27fb8.jpg",
+            "videoDuration": 9.72,
+            "gifURL": "https://cdn.viggle.ai/template/1730707985860-3e2e52e4-f30d-47e4-901c-c489be4239d8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707985199-8e016154-f52c-4d58-be20-ff10fbb7b28b.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3a619bd8-714d-4d7c-96c0-17f761f63efe.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3a619bd8-714d-4d7c-96c0-17f761f63efe.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ee83c58c-994e-40ca-be07-4dd48ddd0163",
+                    "groupUuid": "ee83c58c-994e-40ca-be07-4dd48ddd0163",
+                    "url": "https://cdn.viggle.ai/template/3a619bd8-714d-4d7c-96c0-17f761f63efe.png",
+                    "uploadedUrl": "",
+                    "name": "Bellingham",
+                    "startFrame": 0,
+                    "trackId": "ee83c58c-994e-40ca-be07-4dd48ddd0163"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "016de96c-8709-4002-9698-e3c05b686197",
+            "command": "$harry_kane_england_victory_celebration",
+            "webCommand": "Harry Kane England victory celebration",
+            "description": "🎶🏴󠁧󠁢󠁥󠁮󠁧󠁿 #EURO2024 #NetherlandsvsEngland",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Harry Kane England victory celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e83ea9dd-e38b-45cb-90c2-951231175866.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/619754fd-bb8c-4a35-8ce6-68a256b0adc2.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/36389a1d-65bb-4bda-a110-86eddae4ff87.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/33e848db-fa25-48e2-8106-c779d286cc25.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/619754fd-bb8c-4a35-8ce6-68a256b0adc2.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556690659-bcecdc3d-3473-43ef-89ed-11d8741db65f.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d54e9dfa-83e7-417d-acbb-c9496a4fd414.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9a89ba07-724b-42b4-9666-46bd3d2df8b7.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1aeeaa30-537e-4189-a51b-5c55d34f5f6a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/13d3e3ab-d2da-4b82-bd3c-12bf015a657c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9a89ba07-724b-42b4-9666-46bd3d2df8b7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556689545-503fe405-d048-4ffd-bfc4-85676cbbad29.jpg",
+            "videoDuration": 5.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730707982982-90abac86-5685-46e2-b944-e6afe2295040.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707982166-9911d3f2-a48a-44d5-bfb2-1b0b695fe6fe.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c43b385b-75d6-4442-a910-7fc6b34d91e2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/88e397d6-2c19-4eaf-a1e9-981bf95f5573.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6bc5505d-793b-4dab-89f3-1985585c18f3",
+            "command": "$yamal_knee_slide_celebration",
+            "webCommand": "Yamal Knee Slide Celebration",
+            "description": "16-years-old y’all 🤯🤣🇪🇸 #Euro2024 #SummerOfStars #Spain #france #Mbappe #nicowilliams #lamineyamal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yamal Knee Slide Celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1dc1fffe-2773-453d-92ec-87672089c947.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e6a39412-8eb4-41d6-ac76-a591b36263ad.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c91cae48-036d-4600-a2fc-481b2ba91b8c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8788640f-019c-47f4-9be4-3604bffd63ba.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e6a39412-8eb4-41d6-ac76-a591b36263ad.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556639205-2508de95-f427-4f5e-8a3d-8efd76227e3f.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/25ae81ca-2a86-46d1-af78-ad97d4540ca3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5b3bd7f0-e83f-4f1e-82a4-cc4e71252c34.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/af013c86-248a-4e62-b7a4-5e4c94c608eb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d744f331-5384-41d2-8f65-c21c7cb7873b.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5b3bd7f0-e83f-4f1e-82a4-cc4e71252c34.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556637591-42b856b5-a06f-4935-a753-5a12feeef520.jpg",
+            "videoDuration": 3.76,
+            "gifURL": "https://cdn.viggle.ai/template/1730707954658-1c1ffd2a-1399-41ae-8808-0ed8d686f829.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707953596-85dbdc4b-33f0-4e04-ac5d-24baf15b49e9.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: foxsoccer",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c017b163-e84e-4c89-87ab-c5bbd5f85abc.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4d86a4bc-a76e-45d3-810d-73294d2bf670.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "b8157f3b-60ce-45e3-8376-0bbc43bc58eb",
+            "command": "$radheya_football_skill_collection",
+            "webCommand": "Radheya football skill collection",
+            "description": "Best skills‼️ #football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Radheya football skill collection"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/eb43ea56-e528-4f67-b630-00169b8fd6a1.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/972ec1ab-25b4-4d9f-ae61-2d08d1778e56.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/24becf37-6876-42a8-b059-1151aeb3883b.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c4b179c3-4e53-440c-ba33-b68feaab07ed.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4cf61abf-254d-468b-acae-2a29956f1a4d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728567918123-2d949a10-542c-4b85-b0a0-f3a97ca9bedb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/70281a01-5187-45c3-aaa3-80adcbe579c5.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2626b7f5-dc2e-464c-8a74-a96753fc9d95.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/cfb1f9fd-f78f-41f8-92d3-0bbf613a549c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8709eb8b-75fd-4ff8-a9a4-e80fa21597d2.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8e10aaf0-f373-47ab-b40e-bf8d8aea9986",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728567917615-fd6f8ffc-ff9a-49ff-9a43-93c19e0e4507.jpg",
+            "videoDuration": 21.92,
+            "gifURL": "https://cdn.viggle.ai/template/1730707948822-b561e188-7d61-46ee-b028-f510645a4b48.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707948010-213172b8-ba47-4c77-8d07-48a9a8bbebba.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: radheyamarca",
+            "referenceImageURL": "https://cdn.viggle.ai/template/24a17063-2143-4d3d-9882-7bf748217056.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/24a17063-2143-4d3d-9882-7bf748217056.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a94bff06-b125-4711-ba00-9e79c112a005",
+                    "groupUuid": "a94bff06-b125-4711-ba00-9e79c112a005",
+                    "url": "https://cdn.viggle.ai/template/24a17063-2143-4d3d-9882-7bf748217056.png",
+                    "uploadedUrl": "",
+                    "name": "Radheya",
+                    "startFrame": 0,
+                    "trackId": "a94bff06-b125-4711-ba00-9e79c112a005"
+                }
+            ],
+            "width": 2160,
+            "height": 3840,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "93c958ec-23c6-4ee6-8082-ae55ae34aea7",
+            "command": "$richard_rios_paqueta_dance",
+            "webCommand": "Richard Rios Paqueta Dance",
+            "description": "Vem quebrando,baila y baila 🕺#richardrios🇨🇴 #richardrios🇨🇴💚 #palmeiras #seleccioncolombia #colombia🇨🇴 #richardrios",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Richard Rios Paqueta Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a17d195e-f073-49b2-8df2-f32cc38cc7d2.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0a22e9a5-ae6f-4431-bd68-56cab410d8fc.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d208f925-beb4-48cb-a273-a3ddff0bbdb4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/93fdecb0-b471-40b1-bb8c-747e712f2503.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/0a22e9a5-ae6f-4431-bd68-56cab410d8fc.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556623264-b1640c34-79ce-459a-9648-9771e37d1a2e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2bfbaacb-7d49-4ba8-b1ce-c26156bf0be3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/dddb8f2e-c5ae-451d-9862-b67cea16f1b0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1e3063f7-7fd3-4245-80bb-94a97e4dea5a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6e4fdfc3-773a-4657-958c-c7f196f4e2cd.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/dddb8f2e-c5ae-451d-9862-b67cea16f1b0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556622040-d181e024-b79c-4dc9-b7ac-fbf40d01dff1.jpg",
+            "videoDuration": 9.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730707945576-e61c9519-7ab1-44b0-980d-573c235bb33d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707944659-5b6df99c-83d0-4e24-9e81-e8b2cef161ed.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: richardriooos",
+            "referenceImageURL": "https://cdn.viggle.ai/template/efe4b2a3-0366-4634-a565-ed2f033e6100.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6efd1c5c-4511-4145-a789-989a410475f9.jpg",
+            "referenceImageURLs": null,
+            "width": 574,
+            "height": 960,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "381d9c60-513b-4770-92f0-779b75165e20",
+            "command": "$thomas_muller_goodbye",
+            "webCommand": "Thomas Muller goodbye",
+            "description": "The last Dance? ❤️ #EURO2024 #SpainvsGermany #Germany",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Thomas Muller goodbye"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2422ecaa-a55f-4668-85b4-275d00480b84.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5818d020-bcdf-4725-a4c4-97f781204b34.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e7c4794b-a574-4dc4-be5b-a246ab03df16.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9f52ba36-c465-4aba-bcf2-c65ad7fc5f32.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5818d020-bcdf-4725-a4c4-97f781204b34.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556616366-e98667d4-1ffc-4f33-b852-e268ef3fe521.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7c5f6db3-1c01-45a9-8a8b-e828756e8724.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/46e1af1d-d94d-4281-8a9d-7fbd911fd0d7.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f8508655-2346-4737-ad04-229942c0b81b.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b0923d9b-b67e-4d9e-b53f-3f35eb7527fe.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/46e1af1d-d94d-4281-8a9d-7fbd911fd0d7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556615039-c8c67707-8e25-4421-8a84-c79fae2068da.jpg",
+            "videoDuration": 6.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730707942322-7c0b386b-36a5-42a6-9f6c-9ca680cb7094.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707941043-aebab556-6278-4801-833e-314206b97fff.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2ee798f6-1c19-4942-a1fd-48a3ae87fcd5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3cc9e29e-d890-4d7e-88a4-3fdb525e6ff9.jpg",
+            "referenceImageURLs": null,
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "55015895-cd44-4e93-b6f5-9f90b804949a",
+            "command": "$kyle_walker_heart_gesture",
+            "webCommand": "Kyle Walker heart gesture",
+            "description": "Kyle Walker vibes 🫶🫶 #EURO2024 #EnglandvsSwitzerland",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Kyle Walker heart gesture"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fd6a2018-354e-4cb1-baac-558c428e9ee3.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8f2ba116-36a5-4452-85e4-05dcc93a017a.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/362574b9-ebd3-4e79-a0eb-65cbd33f3650.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/24c13f09-19fc-4e4b-b8e8-a953762b99cd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8f2ba116-36a5-4452-85e4-05dcc93a017a.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556611445-ad118e49-a701-4e76-ac65-95a16cd54a64.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0a82aef5-383e-474f-ab53-15c11d63b6a4.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d9e4540b-20dd-4366-98e8-68cb330ea6ac.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/181203c5-f5f8-4a91-bc48-13b8a8d19c54.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4524b4f9-74ae-4f57-9b39-73dfb6489eae.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d9e4540b-20dd-4366-98e8-68cb330ea6ac.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556609897-978970b5-e278-4e29-907f-c527da999c57.jpg",
+            "videoDuration": 6.64,
+            "gifURL": "https://cdn.viggle.ai/template/1730707938726-441f9da4-89cb-4b66-b50e-ed4d23b8a6b1.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707937798-eb898dbb-e1ed-4131-bd60-bbeb96a690cb.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c31fe525-c8f6-4002-8b8d-619630b59970.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/12ad8961-0cbe-462f-a944-dfe1a76b2f39.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "aea15394-23c8-4c96-85f1-c228b78b4e03",
+            "command": "$ronaldo_pours_water_on_pepe",
+            "webCommand": "Ronaldo pours water on Pepe",
+            "description": "@fcwonderkid, thoughts? #EURO2020 #Portugal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo pours water on Pepe"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a466afc6-ee55-4b6e-b274-98e98bb19072.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0d20461a-67e0-4c4c-8085-69cf058d72e7.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/409702f8-8808-40dc-bd9e-8f86d114496c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/79699bc8-4cdd-4c7b-99ce-8ead8506f947.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/0d20461a-67e0-4c4c-8085-69cf058d72e7.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556601406-c84cfc69-9c66-41ca-978e-94f16ada6074.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/78e95e0a-4bd0-4ef7-9387-1b98f1b2fbae.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/bf069964-5f93-49a0-9a60-a7ffcf31f4a0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5f60cd60-30e0-4073-9ca4-2f69750c4beb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9d6eed6a-17ee-44eb-b86f-4fdfedbf4100.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bf069964-5f93-49a0-9a60-a7ffcf31f4a0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556599926-e6bc95e7-872b-40c5-bc7c-53a891be2b2f.jpg",
+            "videoDuration": 6.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730707932783-864b2343-f23e-44a3-aa1f-823fdec51420.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707931803-6bd73468-d91f-4102-a8d9-57a5c892fcbf.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e904dd57-24e8-45f6-84b3-b6c62023fe17.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ba03b0d3-cd05-4ebc-b356-3f1acbe7dddc.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "43940e19-e4c7-4d41-b47c-cddef3639f12",
+                "nickname": "frost.pop07",
+                "avatar": "https://cdn.viggle.ai/template/5065bf11-afc6-40c1-aacb-35eeaad1041e.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=VQj3TtzoW6DiB1EdgITS08lsdVw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9d63a981-9f91-4770-b140-e002cd70dcd5",
+            "command": "$ronaldo_penalty_kick",
+            "webCommand": "Ronaldo penalty kick",
+            "description": "Euro202 Ronaldo flashback",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo penalty kick"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bdde03c3-a79b-44d2-842b-f4a8c5ca5102.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/90989b80-f136-4053-b007-07b084c28c5e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e411a60a-4a54-4922-a4c9-e7ba66be032a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9eee939c-87ab-49d2-8dd2-11905dacba26.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/90989b80-f136-4053-b007-07b084c28c5e.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556591952-ea14646d-fbd9-49aa-9b9c-6b7f6a69c31a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/61bf31f6-0c0f-4a0d-a693-e772875251d2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/cd15c7bd-c3a3-44e2-b1a4-0c0e65118e9d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/59ac8536-8ff9-45a2-829c-22517cbc219c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d89b29c8-e2e9-4745-9bc5-0692863ac822.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cd15c7bd-c3a3-44e2-b1a4-0c0e65118e9d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556590748-fc9a7256-6d3e-40b5-99ab-66132675e236.jpg",
+            "videoDuration": 5.1,
+            "gifURL": "https://cdn.viggle.ai/template/1730707927609-0eebb3a0-88ac-4bbf-a69b-3ae50dd52312.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707926137-c5301212-acd6-4647-b2eb-14b676ef2892.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: xveuv",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1c568f3e-d758-4565-b5ca-35e0b4cef0a2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b56c7971-ed58-4fd6-8395-2fa447f475ac.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=-JYg4CwVzvRTGChKikCWlsfYIDc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "def9bb78-1523-4a35-aa6f-a0441e1afb2f",
+            "command": "$euro2024_ronaldo_goodbye_walk",
+            "webCommand": "Euro2024 Ronaldo goodbye walk",
+            "description": "Euro2024 foxsoccer ronaldo clip1",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Ronaldo goodbye walk"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0496c634-7b7a-4d6e-9161-41b9b058a11d.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9646b0e4-28ea-4605-b047-abaa54e976ed.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a96c38da-d34d-48d4-97f9-5f0ca8d903e1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d1c782c5-4f1a-4a60-a6df-5c9420344f2f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9646b0e4-28ea-4605-b047-abaa54e976ed.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556587474-3d5c440e-475e-4048-8b5a-342f62b8cbfc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/93a3814c-0409-49ca-9fbe-fc5e24b6af7b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/397326f0-e056-4933-af11-731cb57858b0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8012e775-e7fc-4fc8-bd09-fc3b875cc188.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/433a011b-f768-45b3-8658-d9ef38704290.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/397326f0-e056-4933-af11-731cb57858b0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556586483-1f191ea5-4cfd-4627-81e5-ba5c29c3a5af.jpg",
+            "videoDuration": 19.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730707924306-8e77be98-9689-422a-8099-e35bee896eaa.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707923523-1ca3a1b0-047a-49c9-be1d-e3e7d1be5811.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: foxsoccer",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b2becee8-9cc8-40bb-bb2b-86b70829d1cb.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2ed5d59e-cadf-4439-9065-5c175f5dcf4b.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=-JYg4CwVzvRTGChKikCWlsfYIDc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "2561ef85-2e06-46b9-a331-cc063629af1a",
+            "command": "$ronaldo_edits",
+            "webCommand": "Ronaldo edits",
+            "description": "#ronaldo #portugal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ronaldo edits"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/875cb32c-73c1-4161-8a09-88c2125d9255.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3ec2fc02-18c3-4eaa-bbcb-f91adbbe674c.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/72620b95-3064-4ec2-9bf2-6c4051f2a258.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/baa971da-5123-4953-a68a-97491d09d839.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3ec2fc02-18c3-4eaa-bbcb-f91adbbe674c.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556317349-9b6b8322-f950-4ed5-aaa4-0514131cfd31.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/854424cb-7a60-4038-862d-96b290d23755.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6de288b4-7147-4236-9ffc-8b8a9996d002.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ee0a75d2-edef-4f80-8134-a14e473747cd.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2c2370bc-5aea-4106-a555-44c579c43d35.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/6de288b4-7147-4236-9ffc-8b8a9996d002.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556316126-42fad96a-48d3-4f57-bc20-66d1acf44cae.jpg",
+            "videoDuration": 12.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730707793690-225ae732-afac-45cc-b1b4-f6536d3fc073.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707792640-0941df5f-0ca9-4661-9e20-35aac04b9668.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: mostafa_abdoo7",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0320aff8-d19e-4451-9e21-a30d1fb93c3d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a83bf92b-6757-40ab-8eec-5e3d55845828.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "20dc4757-0e8b-439f-8b0e-aee32a1c3827",
+            "command": "$thomas_muller_skill",
+            "webCommand": "Thomas Muller skill",
+            "description": "Welcome to #euro2024 @Thomas Müller #dfbteam",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Thomas Muller skill"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/152e2247-c73e-435d-9eb0-4f05d63a469d.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/7a39a393-3263-414d-97ad-c0f5945cac11.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9485986f-04da-4e6e-9c54-e7bf2aaef1b9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/6289c2cd-d923-4ef5-b35e-e0f3eb09c890.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c82ca543-1031-481b-9935-24de717d7bb9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728615368904-b19fe6c7-3532-4caa-96b3-af9c5a4b8fb5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/42b143cf-09c2-428f-b3d7-58ab90d48571.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9126e7b2-58cb-44b6-8c7b-13b3551e8fa8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/099ce42e-0749-47bc-8ae5-eb7cfa540f4a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4268ed25-5db3-45bb-86e9-e61c84f6ce50.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cd5a0c8f-8ceb-4ebe-b8e7-33e66454d858",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728615368628-f2486448-41cd-4f1f-82aa-60247b5d79e8.jpg",
+            "videoDuration": 5.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730707790444-0f67e3a0-ce50-4a63-bc75-5b9047ff1ba2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707789550-2417f731-c4b4-4ab9-b754-2156d2a75390.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: dfb",
+            "referenceImageURL": "https://cdn.viggle.ai/template/50dcd55f-fe28-4e46-8b91-9880a88f7b7f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/50dcd55f-fe28-4e46-8b91-9880a88f7b7f.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c5469453-f94a-4d46-8f26-6d3583ef4f6c",
+                    "groupUuid": "c5469453-f94a-4d46-8f26-6d3583ef4f6c",
+                    "url": "https://cdn.viggle.ai/template/50dcd55f-fe28-4e46-8b91-9880a88f7b7f.png",
+                    "uploadedUrl": "",
+                    "name": "Muller",
+                    "startFrame": 0,
+                    "trackId": "c5469453-f94a-4d46-8f26-6d3583ef4f6c"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f9e586e9-5944-41ba-9764-5163473e6f81",
+            "command": "$cristiano_ronaldo_clip",
+            "webCommand": "Cristiano Ronaldo clip",
+            "description": "Cristiano Ronaldo clip",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Cristiano Ronaldo clip"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/45475e47-8c3e-4278-b3f7-d2c1e425617a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/24d210d6-6662-4444-9a89-29d1096d08f1.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/97500a00-cbe2-48b3-8899-4545e927c2a1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ade50c6b-de3e-4ba3-8644-583c47ac2a32.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fb3078e5-365d-4fa1-8437-f74ebeb6cd95",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728613493279-59774633-eec1-4ad2-9746-aebdc7c0c5eb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/34011cf3-297a-4a87-8cca-08ca474e2a07.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d5552df7-41fa-4b66-8962-e508115704fe.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b53f2cc4-9b06-41e3-9865-7a9266b08600.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/cc04a7ac-17bd-4c45-9877-c7be334792a9.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/45188edf-51c2-479a-85f6-b0f5053c919a",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728613492758-c2247d96-58a7-47d5-8fbf-7d66ec930c7e.jpg",
+            "videoDuration": 11.12,
+            "gifURL": "https://cdn.viggle.ai/template/1730707776946-2540caf9-f8ac-4eb4-84e9-94e6f083c857.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707775994-5b515609-58e6-49e4-be74-d08c4aebc05d.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: _crstiano.editz",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7ce398f6-f459-413a-9a58-77f213f73f30.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7ce398f6-f459-413a-9a58-77f213f73f30.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "500c147f-1fde-44ca-a7b9-ee69040d4261",
+                    "groupUuid": "500c147f-1fde-44ca-a7b9-ee69040d4261",
+                    "url": "https://cdn.viggle.ai/template/7ce398f6-f459-413a-9a58-77f213f73f30.png",
+                    "uploadedUrl": "",
+                    "name": "Ronaldo",
+                    "startFrame": 0,
+                    "trackId": "500c147f-1fde-44ca-a7b9-ee69040d4261"
+                }
+            ],
+            "width": 1080,
+            "height": 1440,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "91689920-c45b-4493-86ec-a85d17a90b35",
+            "command": "$euro2024_niclas_fullkrug_clap",
+            "webCommand": "Euro2024 Niclas Fullkrug clap",
+            "description": "Niclas Füllkrug 👏 #EURO2024 #SwitzerlandvsGermany",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Niclas Fullkrug clap"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/3b9ab49f-dd7d-403d-a2a5-ab097a23b976.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/29a3ca09-b44a-48f0-a0ab-978f3a9c6c33.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c2ef4d69-1c95-4b2f-965f-b1e4efb671ce.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4b64883b-0837-4662-966a-5820b295be3f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/29a3ca09-b44a-48f0-a0ab-978f3a9c6c33.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556281696-fa0c8f69-97d8-47bd-a925-3e44ff423598.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e24d9f21-cd9c-4090-9de5-706cf2dbd539.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/99e7d73b-31c2-49db-b7e8-7dc8234c866d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e6191d6e-e7be-4a20-9fe9-60167506d63e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/97f14b96-bc8b-4b61-8d92-53b118ba0ff2.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/99e7d73b-31c2-49db-b7e8-7dc8234c866d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556280623-189cf1c2-748c-499e-ab6d-e04a842257b1.jpg",
+            "videoDuration": 8.298,
+            "gifURL": "https://cdn.viggle.ai/template/1730707773916-87e0cacc-ef9b-4424-97b1-aea9f73702de.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707772956-49dbeec8-b431-4482-8e5a-1ffabdfc5ba3.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ebbe0d60-b867-43d0-b3ee-9d2b3b3db535.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3e18e062-7967-48fa-9467-13f7ff0e0122.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3edc378e-8fbe-420f-a95f-76ceafc5b2db",
+            "command": "$euro2024_lewandowski_poland_cheer",
+            "webCommand": "Euro2024 Lewandowski Poland cheer",
+            "description": "Lewandowski, legend 👏 #EURO2024 #FrancevsPoland",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Lewandowski Poland cheer"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6ef1fbea-8fd5-4dd8-b578-9222cb17fbe0.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/6f477a5e-5ed9-43da-8db5-41ad5a132a44.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/fee28d9c-333c-4812-8a64-8633935bc4e2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c07c49ba-465d-4991-811a-f2c842086a04.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/6f477a5e-5ed9-43da-8db5-41ad5a132a44.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556276465-a967dfbb-322f-4c19-87aa-c92d8e167c64.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/39e33877-f496-41e0-96ac-d5126cc467bc.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ae86934a-ea72-4ce7-9ebe-f3b0b9f79b16.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1f73e3f5-662a-4af2-b64a-29741815f87f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/aa4f8552-a1d3-426f-89cc-1a2ba2f6832f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ae86934a-ea72-4ce7-9ebe-f3b0b9f79b16.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556275339-3366b429-b508-43fb-b7e4-6f983bfcf87a.jpg",
+            "videoDuration": 7.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730707770679-499f66d8-e36a-4bb3-b9f0-adce13a56cec.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707769824-2e9b4420-934c-4f7e-85d2-c959cc88863d.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d4a27ed6-a77a-4ce5-8591-6d60c0e713b4.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9959ba43-74b1-40cf-8571-fc47f305bdca.jpg",
+            "referenceImageURLs": null,
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "de8acaf3-6df7-4244-9ef9-1237d3afdb16",
+            "command": "$euro2024_joao_felix_reaction",
+            "webCommand": "Euro2024 Joao Felix reaction",
+            "description": "João Félix watching the France goal 👀 #EURO2024 #PortugalvsSlovenia",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Joao Felix reaction"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/5185bdcf-e668-4cad-99d3-8e7bbfd7dd54.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/fe69ab67-7bb0-47ee-b524-20f68676c9f9.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/06d8d336-1bed-45fe-9619-bda7d365ca41.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e25a4282-5713-4297-9195-7f64682f860b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fe69ab67-7bb0-47ee-b524-20f68676c9f9.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556270482-c7854e02-e273-416e-af4d-28fe0c63b771.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/373914f7-fb75-42fa-8c75-7246f115d420.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4cfeddd8-7896-45b0-a6f0-d1b7aeeabb11.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/60606809-ffdc-4d91-8cbc-af82cc8aea95.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d1179005-269d-4736-8899-8350a8fdc595.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4cfeddd8-7896-45b0-a6f0-d1b7aeeabb11.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556268954-601d1a5a-b237-4285-a219-6415028226d2.jpg",
+            "videoDuration": 9.12,
+            "gifURL": "https://cdn.viggle.ai/template/1730707767712-e0af787a-e1d0-471e-b9cb-5ad330c64497.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707766849-b3b69f9e-4aa7-42be-8c1e-b509112a6b2c.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3034269c-18be-46e7-b774-689d0ba219a5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c62f89ee-0e12-4523-8d8f-6e608ef2ec11.jpg",
+            "referenceImageURLs": null,
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8a04f1fd-d7b4-4021-90be-4918c2ec7a6c",
+            "command": "$euro2024_yamal_williams_dance",
+            "webCommand": "Euro2024 Yamal Williams Dance",
+            "description": "Yamal 🤝 Williams Dancing into the last 8 🕺 #EURO2024 #SpainvsGeorgia",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Yamal Williams Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b97c044c-a7c8-446c-9c94-fca59d941840.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b00103a0-001a-40b4-bb9d-2a76543580dd.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/99a1df10-2692-497f-90a0-ff35e7db9c8c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7a261dfc-866a-4c20-8fa3-3c90583539ab.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b00103a0-001a-40b4-bb9d-2a76543580dd.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556265450-2a137de0-ca20-42af-8108-237160085372.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/95812e1e-fc5c-43be-a7d1-55ed5571fcd9.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1599fb28-0838-43de-8713-bb0fb185e4d3.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a9585c74-83d3-4300-85e0-45fff78c1dd8.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b4a45394-a06f-47cf-8b16-0a620e14584a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1599fb28-0838-43de-8713-bb0fb185e4d3.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556264169-2e61195e-8eb6-4add-a675-0b23a3952d59.jpg",
+            "videoDuration": 6.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730707764948-440868f2-bd0a-4c8d-a28e-ccdb3d00998e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707764144-1e73dfcc-be29-4014-a457-88e24e2f020f.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/17159e9a-1398-4611-9c54-d23d61ea446a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1ed2e27c-4389-4a23-a924-e43481521049.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c701d5ca-d0d1-4ed9-8301-1fcd244c0b47",
+            "command": "$euro2024_walk_with_ronaldo",
+            "webCommand": "Euro2024 Ronaldo Cry Legend",
+            "description": "Legends of the game 👏 #EURO2024 #PortugalvsSlovenia",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 Ronaldo Cry Legend"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ed85c1b2-67db-4989-b892-8835cfa5b033.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5138581e-a87f-43c0-b51c-0db57d933aa6.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/80bd402b-4571-4e1b-9369-358c44b29a35.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1966f68d-445a-4656-ba71-383398a84bfb.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5138581e-a87f-43c0-b51c-0db57d933aa6.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725556260740-658cf2e6-8566-4b22-bd28-a6a214d7b028.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1b44a359-b74a-44af-a07c-52a453633a79.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b0267d01-c9c2-4262-b013-dabd6d51efed.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/34aac396-3281-4377-a235-96fd19bdd484.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/59abdc52-86be-4e15-940c-9805abdaeb92.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b0267d01-c9c2-4262-b013-dabd6d51efed.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725556259300-c9176638-53ce-40bb-82eb-1659fcd42fb2.jpg",
+            "videoDuration": 6.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730707761786-c61619f3-538a-48ac-9b0a-c270a859ecf5.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707760815-cbb9f395-5777-4b64-bb14-6a66e2773760.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0868bb35-4d10-4fca-a401-872eaa852b7d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6c25d8cb-5f90-48e2-80fd-63f443b48555.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0c50c4e1-8159-4b8a-ba86-5a3066aece84",
+                "nickname": "Neon",
+                "avatar": "https://cdn.viggle.ai/template/fbe74a89-c4ab-4b5a-89b2-a0c3c21f2e51.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=XcluUX-2WNWkOzFKT_z56llOWJc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "51340cda-3944-4204-aa67-203154eefe9a",
+            "command": "$jude_bellingham_greeting_",
+            "webCommand": "Jude Bellingham greeting ",
+            "description": "Jude Bellingham greeting ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jude Bellingham greeting "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2060f658-8a70-49fd-a98d-d1714983e61f.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8d32f94d-4693-4f73-93c0-9e5063faa04e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b6865cde-eace-427e-ae58-6757f1d1c42e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c256d404-1a91-44b3-b4af-93c741d9293a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8d32f94d-4693-4f73-93c0-9e5063faa04e.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725555992482-7fa23409-ee7e-4a85-a154-a27500e7c9eb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/55627b18-06bd-4dcf-bebc-58d490158460.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2c71d9e8-69f5-40e6-b1d1-e3fbca5c3ac2.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/928db9d5-fe1f-41d1-bb54-74e1801978fe.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1fc8d66c-81fe-4f3f-8618-5f9284c71f8d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/2c71d9e8-69f5-40e6-b1d1-e3fbca5c3ac2.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725555991420-1886f1ea-f4e9-4f8b-9035-19d50ae750ae.jpg",
+            "videoDuration": 8.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730707616798-3f9d7f0b-c47b-49a9-bcf1-7b30f3f34c95.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707616152-74c2d3d1-9871-4a20-ad69-50621b905097.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: championsleague",
+            "referenceImageURL": "https://cdn.viggle.ai/template/fa75ab80-d011-4881-91cc-8d494b24f326.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/096edf2e-4286-4b1d-874e-45e2e7ca0b20.jpg",
+            "referenceImageURLs": null,
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=YXbJd5AFAZpYLM_AbFa9PNJ09nI="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "783acb5f-fa40-470f-a0ea-d89276e0f25e",
+            "command": "$luka_modric_training_",
+            "webCommand": "Luka Modric training ",
+            "description": "Luka Modric training ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Luka Modric training "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6138f968-db69-405c-bba0-6bafb4bb0328.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8d50dac4-2f5b-4608-8107-da5285a64f59.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e3564bee-3c96-40d7-91e1-f0ef1251d2e9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f4649570-92ad-4272-9689-9de892303980.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/64e3119c-d319-4a7a-8c1a-8afb0ce9cd9b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728567614080-8eb59086-fbe8-4c7a-927d-776b9898ad0a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b417980d-68bf-4ac3-9bdf-77b914395c64.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/efd2582c-23ce-48ba-9e21-8fd9eee439d2.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/de9f60e2-467a-4f69-9c12-ebca828f76cb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/681c8028-5c13-4de8-8114-9c5cde238ba6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f92ad296-872b-493d-89d0-dc39861f670a",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728567613789-0b0a0c3b-addc-41b8-aad7-dfc6eb1778c6.jpg",
+            "videoDuration": 6.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730707614466-0dd9efe8-5b71-4322-9b17-f76b69acf182.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707613747-4a17dd14-2e8d-4ad2-aebd-4e47b1ab57c0.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: cheekysport",
+            "referenceImageURL": "https://cdn.viggle.ai/template/fe794a6f-0e8b-4441-a7fb-d31ec721b0bc.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/fe794a6f-0e8b-4441-a7fb-d31ec721b0bc.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "30daaad5-8a88-4478-a7da-1c2d00569416",
+                    "groupUuid": "30daaad5-8a88-4478-a7da-1c2d00569416",
+                    "url": "https://cdn.viggle.ai/template/fe794a6f-0e8b-4441-a7fb-d31ec721b0bc.png",
+                    "uploadedUrl": "",
+                    "name": "Modric",
+                    "startFrame": 0,
+                    "trackId": "30daaad5-8a88-4478-a7da-1c2d00569416"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=YXbJd5AFAZpYLM_AbFa9PNJ09nI="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "74f323c2-3ff0-4c05-abd1-6213bf40a1b3",
+            "command": "$euro2024_france_mbappé_football",
+            "webCommand": "Euro2024 France Mbappé football",
+            "description": "Euro2024 France Mbappé football",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Euro2024 France Mbappé football"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/40d6e85f-bdf9-40b9-a119-2fa8f02b2243.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5e16ae6e-e967-40d5-8022-9221b860cfec.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b6bebf71-5098-4f9b-ac13-d279fcc23fde.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/495edc7e-37ea-40a6-a0df-521204aa83f9.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3de713f1-f925-46a8-89f4-8718806f2183",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728613545148-d00e4b75-0608-46f8-ab75-ea5f995bafc7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2311c6e9-a73c-4aaa-b39a-476c4eff694b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5aad835e-984f-422d-b502-4a94b7c1755c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/dd79e0d3-9d71-44b7-b10c-9c05a40c1f9a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/0c4c5a4a-6e6e-4d8f-afef-5726f748080d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f488700a-b873-4dfa-a339-c85043a630a9",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728613544825-fb86395f-9384-48e2-aa13-34f1c8920b95.jpg",
+            "videoDuration": 9.934036,
+            "gifURL": "https://cdn.viggle.ai/template/1730707586505-73d2b7b4-ea27-4c02-afed-9e43fcbd9526.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707585775-573317b5-9c3c-4f86-92bc-e0b01a049840.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: euro2024",
+            "referenceImageURL": "https://cdn.viggle.ai/template/9583f722-dbaf-4a67-a440-14da4cecf676.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9583f722-dbaf-4a67-a440-14da4cecf676.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "211b2c22-c77a-452f-a295-8de4249b32e6",
+                    "groupUuid": "211b2c22-c77a-452f-a295-8de4249b32e6",
+                    "url": "https://cdn.viggle.ai/template/9583f722-dbaf-4a67-a440-14da4cecf676.png",
+                    "uploadedUrl": "",
+                    "name": "Mbappé",
+                    "startFrame": 0,
+                    "trackId": "211b2c22-c77a-452f-a295-8de4249b32e6"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=YXbJd5AFAZpYLM_AbFa9PNJ09nI="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "de6d66e3-746b-4a5b-918f-9c9960a0c9c9",
+            "command": "$coutinho_celebrating",
+            "webCommand": "Coutinho celebrating",
+            "description": "Coutinho celebrating edits ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Coutinho celebrating"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a330f199-1d86-4d98-a10f-9f0719202701.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5eaa7b5f-89f4-4d75-9113-44080e7c4b6c.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/712e5728-e95d-4b2a-b099-afe5c7a333a7.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/edac236f-980e-46cd-8dde-c0e1659759e0.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5eaa7b5f-89f4-4d75-9113-44080e7c4b6c.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725554700258-e584c7ba-52b9-4f43-9282-f43721817a39.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a26cca8a-ca26-4f12-ba4f-c9f3f1ed8930.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6430059d-21aa-4a59-817d-f42b32977bb2.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/468c755c-7003-4f37-8044-7e95f63304af.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c84cf86f-2f9d-4dc8-8d02-531d4e538aff.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/6430059d-21aa-4a59-817d-f42b32977bb2.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725554699302-f7c7090c-8cb0-4b37-b4fc-3e22cf2261f9.jpg",
+            "videoDuration": 5.72,
+            "gifURL": "https://cdn.viggle.ai/template/1730706905527-740354dd-f626-4959-b791-ba825489af27.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706904409-609a175a-76be-4ff9-80b8-1c1005fde830.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: vascoyxp",
+            "referenceImageURL": "https://cdn.viggle.ai/template/44de20c4-2adb-44c7-84d4-c3ea577a9cbd.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/756d53f4-34ec-4505-9a24-43dc37480631.jpg",
+            "referenceImageURLs": null,
+            "width": 1080,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "f0bbc74a-9a17-4dd4-a877-6a00222c4f1b",
+                "nickname": "ace.wave09",
+                "avatar": "https://cdn.viggle.ai/template/22c30625-48c0-4cc3-8594-7b334c48685f.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=wBfhB9J19oHTrKCy3gV-Ilvxrd4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "955bce53-aa72-42ce-9389-49eb558dbfea",
+            "command": "$jude_bellingham_celebration",
+            "webCommand": "Jude Bellingham celebration",
+            "description": "Jude Bellingham celebration real Madrid",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jude Bellingham celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0beff02e-b928-4b7d-9a3d-d02b133517ef.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/fc7a4c8f-a469-4ecc-975f-4155ba0f0d61.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c36007ea-5483-4fef-a46b-081e05dd4843.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e489d85f-3224-4f88-ab02-cbfdcfe098e8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fc7a4c8f-a469-4ecc-975f-4155ba0f0d61.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553890031-2163497f-bf06-484b-8b79-88b3643367d7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6eca47ba-3339-458f-92fe-c192de2cb189.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e24f5b1f-455c-4718-8f5e-59383590a565.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0d2a5c8e-7eee-4470-9a48-f982dc20d1c9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b7899f99-1253-4f28-999c-a739e6bd5da7.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e24f5b1f-455c-4718-8f5e-59383590a565.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553888895-dd49866c-060a-482f-bff8-eeade8aaf513.jpg",
+            "videoDuration": 4.48,
+            "gifURL": "https://cdn.viggle.ai/template/1730706479086-9ad3efa9-5ace-4c58-8552-814d1ff36cf9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706478394-656a1bdb-ba53-430a-a6ff-5ccc14254f4b.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: 4kFreeClip",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f61e3f4e-8b56-4ac8-b628-e93ed1ac63ca.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/f2a87b45-ad5b-4e4e-b11c-878df78749bc.jpg",
+            "referenceImageURLs": null,
+            "width": 1912,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "dfd7209b-a8ec-4834-b85b-91f83d67ff66",
+                "nickname": "EllaWave",
+                "avatar": "https://cdn.viggle.ai/template/3cdd1f4f-488a-4e34-b122-19a918c9ccc6.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=7xBu8P3xo3mIpbvaWmkQNbB_Geo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "391174bd-aaca-45e5-8511-909eb3f1cdab",
+            "command": "$james_rodriguez_celebration",
+            "webCommand": "James rodriguez celebration",
+            "description": "James rodriguez celebration",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "James rodriguez celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c9d8c6c5-ea89-4b95-9787-344f5e29e0b3.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b01b1fb4-6923-466d-a0b8-181d02176904.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a82c1443-00b1-4c64-9661-fc2d5a8768ff.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/a8e9d3a9-e528-4143-8326-160d0a5c1abb.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b01b1fb4-6923-466d-a0b8-181d02176904.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553884828-3053cd3c-df49-49ea-8d2f-82e9c304eb5d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b3c2e9c7-b9e9-4fa4-8684-cfd243a7cca3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/39dfcf52-2d7a-4aee-80fe-84bce2183a1c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6fb38cdb-1ead-43e7-a26f-0b6a38a7dc7f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/31c2a76f-3ad1-420c-8ada-eaa964cb9162.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/39dfcf52-2d7a-4aee-80fe-84bce2183a1c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553883669-34cd6742-c7a7-42ea-92a8-cea869589133.jpg",
+            "videoDuration": 3.84,
+            "gifURL": "https://cdn.viggle.ai/template/1730706476392-99f25989-2a93-4f03-8595-997f41037c60.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706475469-2355d277-a1fd-47bd-bd0f-139315dfcfa7.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: FIFA",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f170b5aa-d0a3-4041-9f97-fb80a8aaef9d.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/97fef5f3-7e40-4692-86cd-cdd9817ee979.jpg",
+            "referenceImageURLs": null,
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "dfd7209b-a8ec-4834-b85b-91f83d67ff66",
+                "nickname": "EllaWave",
+                "avatar": "https://cdn.viggle.ai/template/3cdd1f4f-488a-4e34-b122-19a918c9ccc6.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=7xBu8P3xo3mIpbvaWmkQNbB_Geo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "39a8b408-5eb4-42c9-8e9e-cdbda91c3786",
+            "command": "$erling_haaland_walk_out",
+            "webCommand": "Erling Haaland walk out",
+            "description": "Erling Haaland walk out",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Erling Haaland walk out"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fd10d9a1-1966-4b03-b3c2-b729ae5edef5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/49ee8aa9-193c-4d7f-a6cf-81575459df91.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/183a4844-1133-4a5b-9826-02587c6012be.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0a577802-7288-45bc-8a41-2336dc3a9ab7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/49ee8aa9-193c-4d7f-a6cf-81575459df91.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553879859-53479c40-44e4-4a5e-94c7-a5c555d13ca1.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/18dcfac4-faf4-4d96-beeb-c120bcd1839b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c116fce6-2674-4bac-a7e6-bc4350454bb5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5d897bed-ed12-4220-883e-f3a577eae59c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/59c2d963-1e5d-4d7b-9f84-32fa591e25b5.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c116fce6-2674-4bac-a7e6-bc4350454bb5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553878574-cdbb7743-c45e-499f-807b-236894db0029.jpg",
+            "videoDuration": 4.2,
+            "gifURL": "https://cdn.viggle.ai/template/1730706473763-44361327-0cb2-40e7-a531-8fd86b941cbe.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706473097-1f767de1-bb77-40c7-9ca7-13942584e500.webp",
+            "rleBoundingData": null,
+            "source": "Br Comps",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0fffed5a-3a27-4489-a6c9-1ba0fd573a84.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/59fdeb65-d383-46fc-b462-dc19527c5c52.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=5uTQKqkNi4GW--7tyid4F_Ib_1A="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "827a442a-4202-4375-8acc-c05d92d76dff",
+            "command": "$erling_haaland_celebration",
+            "webCommand": "Erling Haaland celebration",
+            "description": "Erling Haaland celebration",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Erling Haaland celebration"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/43eb99e5-5ad1-4334-b18b-c7cf0f4f5325.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/22b3dc1a-a9fe-4e82-b300-82e0ce97ce6e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d08bc9c4-5305-46b9-af8b-a7c78b45442b.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/21aa5099-5d40-4f8b-9315-4eaecb19474c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/22b3dc1a-a9fe-4e82-b300-82e0ce97ce6e.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553874381-d81ec983-aea8-4ef4-b6ea-a4d0e3a26c52.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/118822b9-d197-473b-b129-a0bf15269dda.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a95d956c-2f8f-4c5a-a508-2c2d996d2e85.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/431d44c2-9a53-4b3d-901b-078da63da873.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/66bfa1bc-9573-44a9-bead-0d938e25ba1a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a95d956c-2f8f-4c5a-a508-2c2d996d2e85.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553873220-dbca478c-5e18-40fe-83a9-3afd33e3ea26.jpg",
+            "videoDuration": 3.44,
+            "gifURL": "https://cdn.viggle.ai/template/1730706470730-f06bad7a-524c-44a1-9ce2-0e8ba7314c2c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706469893-89a1e4ff-ec91-47b4-a63a-7d9db0b16aea.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: Br Comps ",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e3456d68-4d5b-46ae-8afa-5d1d3a2cbc88.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/41f8c8e8-e246-4b36-9513-fed3b9c886d1.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=5uTQKqkNi4GW--7tyid4F_Ib_1A="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c8e842d1-f65d-4308-b4fb-ca8e63e88331",
+            "command": "$cristiano_ronaldo_shoot",
+            "webCommand": "Cristiano Ronaldo shoot",
+            "description": "Cristiano Ronaldo shoot",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Cristiano Ronaldo shoot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/410907ef-2ffc-48a0-9ee6-033609d832a9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b861aaef-02fe-4581-8a54-72dc92361f84",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/aa1df1fa-4ba3-452a-8b23-6f047708a83b.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f7be8dc8-45ea-4bdc-871b-1a95a5e9db77.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b861aaef-02fe-4581-8a54-72dc92361f84",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728615270536-8a89250e-d04e-4387-80e0-587dd72d0cb6.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4795b538-610e-404e-a27a-be1ba9f6fbc2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/05d21ccf-f708-4e0f-b791-61d9b94b42df.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/526ef8b4-211a-4813-b241-925732ce3964.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7f557bbe-f359-4cff-b220-95d68a87eac4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/de6e5966-72ba-4962-af84-028734c29456.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731671010807-fcf3ec91-cb15-4b66-9c93-388430b83b0a.jpg",
+            "videoDuration": 3.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730706467970-4f1983d8-118b-4bd4-bbe7-761986a42f11.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706467026-624db819-dae2-44bf-8ae5-857881d2f3d6.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: Br Comps",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e47ed7ec-07c4-4f47-a377-00feb49c6417.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e47ed7ec-07c4-4f47-a377-00feb49c6417.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9a333d4e-06ee-4b79-b194-c48a9f37d2a9",
+                    "groupUuid": "9a333d4e-06ee-4b79-b194-c48a9f37d2a9",
+                    "url": "https://cdn.viggle.ai/template/e47ed7ec-07c4-4f47-a377-00feb49c6417.png",
+                    "uploadedUrl": "",
+                    "name": "Ronaldo",
+                    "startFrame": 0,
+                    "trackId": "9a333d4e-06ee-4b79-b194-c48a9f37d2a9"
+                }
+            ],
+            "width": 3416,
+            "height": 2094,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735187947\u0026KeyName=vigglecloudcdn2\u0026Signature=5uTQKqkNi4GW--7tyid4F_Ib_1A="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "159d466c-a317-4ccb-8061-7117d0c4ff93",
+                    "name": "Soccer",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 63
+}

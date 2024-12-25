@@ -1,0 +1,3611 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "2e424a3b-ff9c-4b39-8555-7f5a84ae3644",
+            "command": "$goated_victory_royale",
+            "webCommand": "Goated Victory Royale",
+            "description": "Fortnite game epic",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Goated Victory Royale"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "notrealms",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7ee529f3-5c97-4f6b-8ce4-423e7b3f4bc5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1664e19c-347e-4e7b-8768-7c7324871201",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/5008c6ff-86d3-4088-a45e-fd5f3cc4c4c0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/50dd0e8a-3846-42c2-a999-0e1405a31c28.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1664e19c-347e-4e7b-8768-7c7324871201",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734989893893-9b278370-4eb6-45b7-9e0c-f8aa8c7d9a9d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/5a994fa6-f4d8-4255-b08b-8020dffb4865.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2df0bdfe-7133-47b5-a43a-10c256af9ad0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8404a35c-0840-4d7b-97df-dc9d2c38e5aa.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4947934f-1a2a-4833-a162-48202120c27c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7223838e-a496-48d2-9af6-49dfa9ce9c90.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735089306929-cfd47825-5a5a-4361-bc2f-fceb2be3da15.jpg",
+            "videoDuration": 13.48,
+            "gifURL": "https://cdn.viggle.ai/template/1734989894935-9dc49bb0-c6c1-41f1-93c5-a1a0ebad5fc3.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734989894242-3aa68cc9-fe09-42c9-8408-1a71d9a43dc9.webp",
+            "rleBoundingData": null,
+            "source": "notrealms",
+            "referenceImageURL": "https://cdn.viggle.ai/template/98e1ac2b-3bfd-4ec7-b420-113c2d97a9fb.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/98e1ac2b-3bfd-4ec7-b420-113c2d97a9fb.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e10a937a-2906-4300-bb71-9e57bb25fa1d",
+                    "groupUuid": "e10a937a-2906-4300-bb71-9e57bb25fa1d",
+                    "url": "https://cdn.viggle.ai/template/4ee7e8a6-16b3-4d0c-ac9d-977faa1f429d",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/98e1ac2b-3bfd-4ec7-b420-113c2d97a9fb.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "e10a937a-2906-4300-bb71-9e57bb25fa1d"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": true,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "5f50be96-f80e-4bd2-9ce5-566eb1bd768a",
+                    "name": "Motion Impossible",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "68869ee9-05dd-41e6-b002-2a2e94624843",
+            "command": "$fortnite_ape_mode",
+            "webCommand": "Fortnite Ape Mode",
+            "description": "game DC marvel animal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Ape Mode"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e77083a6-6fc6-4fa2-8ba9-177d27b0e506.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/26bc0f99-7f89-45dd-b16e-5e90f18f8f30",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/98bfaafe-64d1-49cb-934a-b921301dc2a4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c6f3055f-881e-41bd-8486-1c78c19a76ac.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/26bc0f99-7f89-45dd-b16e-5e90f18f8f30",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734554860673-371ba289-1b0f-4ba4-9dec-306cdc957145.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f5bcd9ef-998e-48ce-a72c-26a258c2f69f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7cf78853-9da1-49ad-a40d-9db8658549a0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0059c64a-86a8-495d-847c-8168f9aa71fb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b5d2150d-3001-4b99-9ed9-0d3ac7e6e1a0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/304056d6-b76e-4f47-ac87-d1bb6a9ece07.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734567020722-0a0a427f-9096-4c97-9603-114f92dc38f8.jpg",
+            "videoDuration": 3.76,
+            "gifURL": "https://cdn.viggle.ai/template/1734554862026-8b345b69-1cbb-4c49-885a-f595897b9832.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734554861171-94244b6b-ca80-4bf8-b56f-3b76b862fe78.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/859d5158-1f1e-4916-a6f5-f55c637bbd70.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/859d5158-1f1e-4916-a6f5-f55c637bbd70.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "17c8b2fa-3548-4f4f-b54a-a9ea392936eb",
+                    "groupUuid": "17c8b2fa-3548-4f4f-b54a-a9ea392936eb",
+                    "url": "https://cdn.viggle.ai/template/859d5158-1f1e-4916-a6f5-f55c637bbd70.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "17c8b2fa-3548-4f4f-b54a-a9ea392936eb"
+                }
+            ],
+            "width": 1440,
+            "height": 1526,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1b90fe63-767d-4897-ade4-95a32d93f452",
+            "command": "$gta_showdown",
+            "webCommand": "GTA Showdown",
+            "description": "Shooting violence",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "GTA Showdown"
+                }
+            ],
+            "multiType": 1,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "GTA",
+            "processedMiniURL": "https://cdn.viggle.ai/template/08d7ef59-3443-4c85-b1b0-b17572a042b5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/176c7401-afcc-40d6-a458-1f8782cb155e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/253ba8b7-3bb1-42f8-a77c-997eae5cb97f.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/66345ff7-87d2-4e23-a8ca-2c952ae441c6.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/176c7401-afcc-40d6-a458-1f8782cb155e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734988004220-51b7678b-4f7d-4076-b09f-05452eab5712.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/3e03e147-94c1-48ec-93c5-c648d1d74756.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4f518b44-2571-4d5c-9115-85e3ec6314fe.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0c01891d-fad2-4f63-b3bf-f032f15d164c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8b238ea0-dcad-4b00-8ade-3e20d480f941.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/679a0234-e161-4b51-87e8-61a3d1b751ce.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735089180606-226d4194-67e9-4859-8148-baed43ea8e56.jpg",
+            "videoDuration": 8,
+            "gifURL": "https://cdn.viggle.ai/template/1734988005330-781f7cbf-c800-4d81-b3ad-25a21167ff3b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734988004581-04505ea9-6002-4e83-ab40-45ea09579685.webp",
+            "rleBoundingData": null,
+            "source": "GTA",
+            "referenceImageURL": "",
+            "referenceImageSdURL": "",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d128837d-5ad8-44ea-a616-cc919403e40c",
+                    "groupUuid": "d128837d-5ad8-44ea-a616-cc919403e40c",
+                    "url": "https://cdn.viggle.ai/template/f4d20c2a-ab5e-42e7-a552-85865cf10cb0",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/f50e0775-d501-48c1-a1c8-a454cdec3cf6.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "d128837d-5ad8-44ea-a616-cc919403e40c"
+                },
+                {
+                    "uuid": "00ee18e4-498f-4684-aecc-3b3748910a12",
+                    "groupUuid": "00ee18e4-498f-4684-aecc-3b3748910a12",
+                    "url": "https://cdn.viggle.ai/template/8ee73e53-3717-4bd6-a3d7-cf3b20432e50",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/bf037022-f26a-4414-8312-9f20c14e3f84.png",
+                    "name": "Characters2",
+                    "startFrame": 0,
+                    "trackId": "00ee18e4-498f-4684-aecc-3b3748910a12"
+                }
+            ],
+            "width": 1918,
+            "height": 932,
+            "isNew": true,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "fe320662-c361-4177-bb81-74b6ae964acd",
+                    "name": "Multi-Person",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "fda8309c-b1ef-4922-9445-a1d5d476ccbd",
+            "command": "$fortnite_skibidi",
+            "webCommand": "Fortnite Skibidi",
+            "description": "game brainrot toilet",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Skibidi"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "momostudios",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ac1105ef-3f0f-4410-ac4a-b739468747e7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/cd0a2002-29f9-40c3-905b-bebc957fe621",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/dae35abc-e7aa-4705-bf4e-1433f714c016.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1b1ee069-a001-4da7-bf60-246238381dda.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/cd0a2002-29f9-40c3-905b-bebc957fe621",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734919361489-7de0dd9f-a933-46e6-94a0-44b2f567551b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2819722b-0814-4da8-843b-a0901b45622e.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/55240374-ae0e-46ab-9178-102ab8c02b8b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6f14f6bb-a375-4bdc-8298-6d3efb86fd9f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c55e3901-dc52-4660-a55e-a20b2039a313.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cab96200-38e4-4244-a0d6-ffab9bc0102c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734919643945-886da2eb-efb0-4bd3-8178-74776e06aa9c.jpg",
+            "videoDuration": 15.32,
+            "gifURL": "https://cdn.viggle.ai/template/1734919362750-eb721172-fdcb-47d0-8824-57fdfcd60862.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734919361875-3d70a719-a911-4155-a1bb-70d5267a05ff.webp",
+            "rleBoundingData": null,
+            "source": "momostudios",
+            "referenceImageURL": "https://cdn.viggle.ai/template/cb9f9d95-b89e-4af4-a1af-3dfd6fd70e1c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/cb9f9d95-b89e-4af4-a1af-3dfd6fd70e1c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "89685054-4b12-4689-b71f-23614122d592",
+                    "groupUuid": "89685054-4b12-4689-b71f-23614122d592",
+                    "url": "https://cdn.viggle.ai/template/5bee783b-4a02-4e11-848b-f0764772798e",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/cb9f9d95-b89e-4af4-a1af-3dfd6fd70e1c.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "89685054-4b12-4689-b71f-23614122d592"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "be5937e0-7a42-46f7-8397-fa6381c3a81f",
+            "command": "$fortnite_all_i_want_for_christmas",
+            "webCommand": "Fortnite All I Want For Christmas",
+            "description": "Mariah Carey",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite All I Want For Christmas"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b6e2962f-2836-45cd-8204-e7aa987b6bc8.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/bffae380-d294-4ca5-8c23-07ea5d649105",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/224c2522-d8dd-4d0e-b05c-d22543fd43c1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f984783c-b2f2-47f1-b452-b0ec78e1578b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/bffae380-d294-4ca5-8c23-07ea5d649105",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734825235197-fa2b00e7-5595-4ffe-b44a-7a5da2b0b70b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/81dc0162-b8d3-4529-b94c-7ccdb7e56373.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/f6508c16-8c64-4aa5-8f6e-4e1954397499.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2480fe6e-1562-4f50-87b8-6330400d3b01.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f9b5a7ce-ea47-42d5-8213-2dbf1b84062b.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/653c53de-6322-43b7-a67e-370a81ddd443.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734956704450-48e62383-8741-4a94-9283-ab9a4c0688ce.jpg",
+            "videoDuration": 30.08,
+            "gifURL": "https://cdn.viggle.ai/template/1734825236527-c3d0e60e-5c3a-48fd-a7f0-0133ea7402f9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734825235561-21dbe717-548b-402c-9e3b-663e2efb9112.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a791ac18-75d3-4969-b383-2ddf38159874.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a791ac18-75d3-4969-b383-2ddf38159874.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "41c1f601-ae12-4acc-bd5e-1c823a24d3a1",
+                    "groupUuid": "41c1f601-ae12-4acc-bd5e-1c823a24d3a1",
+                    "url": "https://cdn.viggle.ai/template/5a3042e7-1671-4433-8a43-a47a56bafe5b",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/a791ac18-75d3-4969-b383-2ddf38159874.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "41c1f601-ae12-4acc-bd5e-1c823a24d3a1"
+                }
+            ],
+            "width": 1080,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a0aefd6f-5bf0-4177-859f-19d7326f3099",
+                    "name": "Christmas ",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "df5e2793-6340-4e81-8ec9-c3ba19efd4e5",
+            "command": "$fortnite_fly_away",
+            "webCommand": "Fortnite Fly Away",
+            "description": "game",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Fly Away"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/29f488a8-1430-44a7-b857-ab0d99404f33.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e6fe1997-a142-4590-8896-313c66f0d67f",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a2965668-dac9-41db-831b-fca3637a276e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1b800258-f9fb-4f5b-9a97-12f865881132.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e6fe1997-a142-4590-8896-313c66f0d67f",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734824727002-045e6098-3238-432e-879d-a54c0c099f5a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c718872f-f810-4037-93f9-cd87e2387bde.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1080a103-0784-4a31-9928-5eeda37aa1d3.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/51ed16f4-cb34-41b3-9c50-d7bac5120c10.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7b320f6c-ca19-4ef7-9a90-70db944140ea.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e7fee27d-0d6d-4fcd-a837-11e12dba77d1.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734826352835-e9b151c9-b24e-4247-89f7-23e2fcb2a66d.jpg",
+            "videoDuration": 12.28,
+            "gifURL": "https://cdn.viggle.ai/template/1734824728319-6c32e576-d662-4468-90b2-d3bd196c80a9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734824727463-57d81cca-5fb6-4037-936f-58f4e24cddee.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5f5d216d-7809-413c-8430-3befc5447cc2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5f5d216d-7809-413c-8430-3befc5447cc2.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "90d4f666-0e1b-453a-a93b-bc67f5316d70",
+                    "groupUuid": "90d4f666-0e1b-453a-a93b-bc67f5316d70",
+                    "url": "https://cdn.viggle.ai/template/287a01cf-1347-44b5-b62d-2627c97bf721",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/5f5d216d-7809-413c-8430-3befc5447cc2.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "90d4f666-0e1b-453a-a93b-bc67f5316d70"
+                }
+            ],
+            "width": 1080,
+            "height": 1146,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d28ce9bf-66e3-4c08-837e-d98e70fce378",
+            "command": "$fortnite_shoryuken",
+            "webCommand": "Fortnite Shoryuken",
+            "description": "Street fighter game",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Shoryuken"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d01829de-fb59-462f-96c8-465676ca0a66.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2432c82a-8192-4db2-9c9c-2862ee4974e8",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4ebf8ba3-3e9d-4fc0-b8c2-03ddc9c78461.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/17d763be-3f0b-4e72-99ba-670674edd35f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2432c82a-8192-4db2-9c9c-2862ee4974e8",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734554278570-47b20010-df7b-4639-80a1-344dd89e046f.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/bf8c2719-53ed-4c13-a8be-843ff206f2c8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e0d01b7f-9c96-44ed-98b1-12a91792e9ca.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2ec2fefb-0039-4c6e-bbd2-b77892b17d9f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/03a0bffd-467f-44f7-b31a-69a820435903.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f5635998-8210-4426-b3ba-3127ad3d266f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734627177277-dae685ff-c3c6-441f-b810-b422f70410b7.jpg",
+            "videoDuration": 5.96,
+            "gifURL": "https://cdn.viggle.ai/template/1734554279743-d77cb700-3f64-4455-b132-dcb635c46eef.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734554278917-6aff43f8-9a69-427f-95fa-1ee2ef702671.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6ba1ba7c-334b-4fe2-a56d-72257f9d3a74.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6ba1ba7c-334b-4fe2-a56d-72257f9d3a74.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "0235829e-ae5a-4abf-82e4-3046e061499e",
+                    "groupUuid": "0235829e-ae5a-4abf-82e4-3046e061499e",
+                    "url": "https://cdn.viggle.ai/template/6ba1ba7c-334b-4fe2-a56d-72257f9d3a74.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "0235829e-ae5a-4abf-82e4-3046e061499e"
+                }
+            ],
+            "width": 1440,
+            "height": 1526,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a4e77d66-c02d-422d-8676-24e802b6ffdd",
+            "command": "$fortnite_sumo",
+            "webCommand": "Fortnite Sumo",
+            "description": "Japanese",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Sumo"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d57dd799-09a7-44a6-afc2-db28d4bb9422.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f18e57d5-75c8-483b-a7a7-9264168043bd",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ac2b2a7e-435e-4a47-964f-02246b832c94.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c0221974-1f33-4fde-87fa-3d994f02861a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f18e57d5-75c8-483b-a7a7-9264168043bd",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734553788269-624da92f-2804-42a6-aa72-52f4f6d72704.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/96d59966-dd29-4f95-accf-ed7fd8837ecb.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4fb45235-2621-4b32-8c97-5204c6d6a7e3.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/171403db-69ce-4650-9fa0-bddb3569c9fa.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7231526f-21c8-4b8f-80b9-b45b949e84ea.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/0cbd72a4-f572-44d5-bf03-32cb193de3c6.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734627165727-7bf73758-5548-4702-aae1-4a4d10dfc9f1.jpg",
+            "videoDuration": 30.08,
+            "gifURL": "https://cdn.viggle.ai/template/1734553789457-4a91b7d4-d609-4779-b132-65203f04fce8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734553788627-96b12a9e-bc79-4400-88f7-ca519eef572e.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/cda55288-6bee-4ae5-9269-480051a68234.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/cda55288-6bee-4ae5-9269-480051a68234.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "8abcc08b-783f-4f5b-989c-b794324a36ff",
+                    "groupUuid": "8abcc08b-783f-4f5b-989c-b794324a36ff",
+                    "url": "https://cdn.viggle.ai/template/cda55288-6bee-4ae5-9269-480051a68234.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "8abcc08b-783f-4f5b-989c-b794324a36ff"
+                }
+            ],
+            "width": 1142,
+            "height": 1282,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a6003a7f-ed06-4888-ba38-34c154ae252c",
+            "command": "$fortnite_black_adam",
+            "webCommand": "Fortnite Black Adam",
+            "description": "Marvel DC Game",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Black Adam"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/806215bc-7d8b-4736-bcd5-7d7be83f210c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/12781769-2d16-42c7-a169-7ef23180bd97",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/5a92de59-d869-4281-b0ca-5d520d5e298e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4138e2bd-bda9-44f2-bf92-dd10887976f7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/12781769-2d16-42c7-a169-7ef23180bd97",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734896662218-cb7a50f9-5d93-49d1-8184-fbaba204ec63.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7caedbdb-fa92-4136-a39b-63fe17c726a9.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e231f071-eea9-45b3-87b1-aac5ea562a85.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a401fc9f-8601-4e75-a103-eca85f1e794c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e434a317-40be-4b9f-afed-11bd95249942.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/78f0c03c-6448-4a05-93f6-cc73321b7b95.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734917784065-fbab985d-e222-4541-9ca9-506f90101f58.jpg",
+            "videoDuration": 7.2,
+            "gifURL": "https://cdn.viggle.ai/template/1734896663381-b8f3f15b-f97a-43a9-a4c9-3b328e58a876.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734896662561-b56a7962-c6d3-47b6-9609-efb5ea6001fb.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ff10c589-88ad-4401-b054-2aab49b42727.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ff10c589-88ad-4401-b054-2aab49b42727.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "0f161cdd-8fdb-4028-9542-f07572b5bfdd",
+                    "groupUuid": "0f161cdd-8fdb-4028-9542-f07572b5bfdd",
+                    "url": "https://cdn.viggle.ai/template/c5e3c4f2-4ea8-49e1-a35a-49fdf166966d",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/ff10c589-88ad-4401-b054-2aab49b42727.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "0f161cdd-8fdb-4028-9542-f07572b5bfdd"
+                }
+            ],
+            "width": 1440,
+            "height": 1526,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1e72297d-6efc-42c9-977c-4e16e4c4be21",
+            "command": "$fortnite_lightning_kick",
+            "webCommand": "Fortnite Lightning Kick",
+            "description": "Street fighter game",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Lightning Kick"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ac1bc2c5-477c-4fa8-930b-441d24d2acb2.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/805d58c7-9c84-4b3f-a3ee-07970369b7b9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6fe364cf-e673-42c7-a8c5-8b17ee1a8907.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/01699eff-69f9-4b5c-a484-78e05e3945dc.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/805d58c7-9c84-4b3f-a3ee-07970369b7b9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734554447486-fd58f6d3-46f0-4096-a902-80199d41f6b3.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/065ffd2f-7b27-4312-bc61-711f18056327.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a0d332c7-fb07-4f3d-a20b-7bbdfda99ae7.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/073d2200-451d-4788-8c44-30a500a1f973.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/22b565c2-1477-4934-abcb-84f56d1e484c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/803bed53-4136-488c-811a-a839adfd0a61.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734566899313-50e66e61-c245-4670-8eaa-eae5b1fe49b3.jpg",
+            "videoDuration": 6.48,
+            "gifURL": "https://cdn.viggle.ai/template/1734554448575-2373df75-aa7f-4f95-800f-4a9faf3791a2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734554447860-84b605ef-3536-4ac4-81f3-de727534b68a.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/68e3cbbb-9359-4362-b3d3-9f0cbdf0dae4.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/68e3cbbb-9359-4362-b3d3-9f0cbdf0dae4.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "85555422-65bd-4de5-8af4-95f4880ac3a3",
+                    "groupUuid": "85555422-65bd-4de5-8af4-95f4880ac3a3",
+                    "url": "https://cdn.viggle.ai/template/68e3cbbb-9359-4362-b3d3-9f0cbdf0dae4.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "85555422-65bd-4de5-8af4-95f4880ac3a3"
+                }
+            ],
+            "width": 1440,
+            "height": 1526,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4cec9ca0-7122-40d8-be6e-74f3ac6c28a1",
+            "command": "$fortnite_hoppy_hop",
+            "webCommand": "Fortnite Hoppy Hop",
+            "description": "juice wrld",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Hoppy Hop"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/74211b1d-fffc-43f8-bdcf-840b1df20745.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e6a30738-148e-4793-aa88-e8de0557df1d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/637e867d-16d7-4468-bc10-bd3ac867fcdb.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/a983797e-8fc1-4f69-9201-aabe2e0ecbf4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e6a30738-148e-4793-aa88-e8de0557df1d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734389445600-626a6457-8f27-4755-81e1-e2c4204e8007.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/218986c5-bcef-4b47-a779-203934704b9c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/74f8b303-ada6-4b85-92d3-ae35d2aba5e9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/24d509ba-b3a3-4df6-9e05-1a0dfb9f4115.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/def88f7b-2ef6-414b-bdaf-b7fb40e57481.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/eeac92f3-2921-41fd-a2a0-c991f3924159.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734400027569-761ae965-93b9-4637-ac8b-af6809968ca8.jpg",
+            "videoDuration": 11.2,
+            "gifURL": "https://cdn.viggle.ai/template/1734389446748-fab6f3a6-9dc5-45cf-b4a6-9c0afb992064.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734389445993-61f2d07f-7a36-4169-99f5-7b437e4a5f11.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/36c22c82-7962-469c-b53a-70e241fb300f.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/36c22c82-7962-469c-b53a-70e241fb300f.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "f3d87cc5-e487-48fa-aefb-6c7caa2388f3",
+                    "groupUuid": "f3d87cc5-e487-48fa-aefb-6c7caa2388f3",
+                    "url": "https://cdn.viggle.ai/template/36c22c82-7962-469c-b53a-70e241fb300f.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "f3d87cc5-e487-48fa-aefb-6c7caa2388f3"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d3c51a75-f179-4178-8c28-6bc9c3bcee44",
+            "command": "$fortnite_lil_tank",
+            "webCommand": "Fortnite Lil Tank",
+            "description": "renegate OG",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Lil Tank"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ccddf00e-8a4b-4aaf-8cb5-341d6e61cfb4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/92294da2-3d4e-49ea-bf11-b1a3e8773ff6",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/579bfc9a-d377-455f-a435-03a957d18d32.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9447f629-52e0-4bad-b264-5a4b27e69400.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/92294da2-3d4e-49ea-bf11-b1a3e8773ff6",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734902487598-1ac82c26-18e2-4ab9-80fe-f1bad7798268.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2b724e9c-e523-4e1a-828d-caa9c746d6b5.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e18735ba-fdb4-4d34-94e3-1d96a0cdab5e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/862a2ae3-fdda-43af-9537-74471abf5e79.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ca7658ec-c8c9-44e6-816a-2aaa006e0c04.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/df929ca9-c8c9-4764-8b93-9edc30ac93ee.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734917759252-2fe1b6a9-40b1-4de4-a3b0-bd89b0ba92cb.jpg",
+            "videoDuration": 13.08,
+            "gifURL": "https://cdn.viggle.ai/template/1734902488736-2745a3e3-a314-4a44-98db-0df80bd916d3.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734902488001-0644cc66-ed87-4df4-94a7-db09aebc14f3.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c969658c-eeeb-43ad-b178-75e753562b2c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c969658c-eeeb-43ad-b178-75e753562b2c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "48076c4f-3ced-4b05-8c95-dc69c158b632",
+                    "groupUuid": "48076c4f-3ced-4b05-8c95-dc69c158b632",
+                    "url": "https://cdn.viggle.ai/template/69593cca-b2e3-45df-bc18-54d959caf4a9",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/c969658c-eeeb-43ad-b178-75e753562b2c.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "48076c4f-3ced-4b05-8c95-dc69c158b632"
+                }
+            ],
+            "width": 1080,
+            "height": 1128,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d9238c21-340a-44dd-8a96-0a917fc84417",
+            "command": "$road_to_vegeta",
+            "webCommand": "Road to Vegeta",
+            "description": "game dragonball",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Road to Vega"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b4f3b055-efb3-49ba-a3c2-30c5b2bf97b2.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f6a5bebd-a503-47bb-a8a1-1edbc49ef0c9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e42c4250-d5ba-4c91-929e-e876b31c4901.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f0053c66-c385-4ac1-a64c-b2c74123df21.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f6a5bebd-a503-47bb-a8a1-1edbc49ef0c9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733956587845-516bc487-a4cf-4af2-8571-b996111da793.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6f98abbe-489d-48a1-b3ae-c4d9d46787a1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/68f1e7f8-048d-43d4-9c77-2fd7d8d4fedc.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/9b7e6d95-819f-4774-a852-108aae56f522.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e9373560-0ee5-4569-b07a-4a415dd49248.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/735682e8-82bb-4333-9d77-6bce4e48a247.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734040163900-2288fc9b-242e-4ab5-ac3b-c553314d6887.jpg",
+            "videoDuration": 13.64,
+            "gifURL": "https://cdn.viggle.ai/template/1733956588718-1e3ade05-4b9c-4e3e-8095-a4dbea4f094c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733956588142-70b8dac2-baea-4247-baf9-b2489f799f71.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/85204351-7067-4f2b-96dd-d11e6c2ec4b6.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/85204351-7067-4f2b-96dd-d11e6c2ec4b6.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "4e1f2e7a-6e85-4c55-b3be-ad97c66e02ce",
+                    "groupUuid": "4e1f2e7a-6e85-4c55-b3be-ad97c66e02ce",
+                    "url": "https://cdn.viggle.ai/template/85204351-7067-4f2b-96dd-d11e6c2ec4b6.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "4e1f2e7a-6e85-4c55-b3be-ad97c66e02ce"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "ef4cd30c-d14b-4f71-a527-cee8cca9407d",
+            "command": "$fortnite_renegate",
+            "webCommand": "Fortnite Renegate",
+            "description": "renegate OG",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Renegate"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fe2bcfc7-17bb-4053-aa56-f2c1a276c1e5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e07a30d9-e764-468f-b0da-d4dd1387d32d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/be37e108-7d70-4b85-82d4-664de7901156.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7fe4b3d9-6444-4830-adab-acfe09d2e752.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e07a30d9-e764-468f-b0da-d4dd1387d32d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734902605215-16bea564-bb6f-49ae-b6b8-81a17f58d867.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e3810ab5-823b-41f0-88f5-1034695366b4.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ea8a8b4c-a741-4b2d-809c-4ee7e392696e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/831e6d80-b447-4d03-ba24-d3e9a2bd8f0d.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ee18b8fd-0bbe-43db-bfcd-d6c568cc9a52.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8ffd668b-3933-4b92-87dd-61c2abb8d4b3.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734917740942-af91b646-a74c-49b5-b760-8a02801a56bf.jpg",
+            "videoDuration": 38.88,
+            "gifURL": "https://cdn.viggle.ai/template/1734902606305-57e3ec0c-ff67-4186-900b-dc23e579f1af.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734902605604-a2f0bff6-83fc-4066-b41a-fc9feb99b3a7.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2b23fd7e-446f-4f21-81f0-9aaf0cf48266.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2b23fd7e-446f-4f21-81f0-9aaf0cf48266.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "538929fb-a758-4c18-b590-71558e07c85e",
+                    "groupUuid": "538929fb-a758-4c18-b590-71558e07c85e",
+                    "url": "https://cdn.viggle.ai/template/75cdf144-9c9f-4443-af98-1add14d95484",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/2b23fd7e-446f-4f21-81f0-9aaf0cf48266.png",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "538929fb-a758-4c18-b590-71558e07c85e"
+                }
+            ],
+            "width": 1260,
+            "height": 1354,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c6e96d34-9ecc-4c4a-84d5-d72d86380e30",
+            "command": "$fortnite_remix_the_finale",
+            "webCommand": "Fortnite Remix The Finale",
+            "description": "Fortnite Remix The Finale: Juice WRLD, Eminem \u0026 Snoop Dogg Concert (Full Live Event Gameplay!)",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Remix The Finale"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Perfect Score",
+            "processedMiniURL": "https://cdn.viggle.ai/template/3e770e3a-3944-438c-bdef-6b7e3143ef2f.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e8d6a1d2-c8cf-4b32-adc4-9998ccc07ede",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8c291de2-6377-4c5a-a529-3fdcdb4d82b8.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5ed83f7e-d4df-426d-8b91-176aa21c4d47.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e8d6a1d2-c8cf-4b32-adc4-9998ccc07ede",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733391371970-c4a3b6de-40b9-443c-8cbc-3fd973ecc071.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d9cb2c40-3234-41a9-a55c-8d8c4f08dcea.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5450b413-bac4-4a91-a8fa-eef37d5ed22a.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/221f43be-f431-4ba2-81e9-6c80b2a7aa65.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7ce62bc8-d389-4c69-880f-d0088757b03a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5450b413-bac4-4a91-a8fa-eef37d5ed22a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733392577311-1407c65a-34d2-4aa3-bb0f-2f2c3fc8c09b.jpg",
+            "videoDuration": 21.84,
+            "gifURL": "https://cdn.viggle.ai/template/1733391373044-81a7de68-0e6c-437c-85a1-56589827971e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733391372349-fbe5d4f1-e02a-43e4-ab9c-63248580de3e.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Perfect Score",
+            "referenceImageURL": "https://cdn.viggle.ai/template/45425003-0847-46be-ba20-a7c5b9b27610.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/45425003-0847-46be-ba20-a7c5b9b27610.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ca7c93c2-caae-452c-992a-64c272e61339",
+                    "groupUuid": "ca7c93c2-caae-452c-992a-64c272e61339",
+                    "url": "https://cdn.viggle.ai/template/45425003-0847-46be-ba20-a7c5b9b27610.png",
+                    "uploadedUrl": "",
+                    "name": "Richard",
+                    "startFrame": 0,
+                    "trackId": "ca7c93c2-caae-452c-992a-64c272e61339"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "66020415-7010-4e9d-909e-39588d3466a7",
+                "nickname": "IvyBreeze",
+                "avatar": "https://cdn.viggle.ai/template/892aa76d-c064-439d-916a-21b63b0642f4.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=UmWr0PUYXJME0hmTWIgetvR9ElY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8516fbfe-8389-41d3-8b7f-fa0d09c95169",
+            "command": "$empty_out_your_pockets",
+            "webCommand": "Empty Out Your Pockets",
+            "description": "Juice WRLD - Empty Out Your Pockets (Official Fortnite Video)",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Empty Out Your Pockets"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Juice WRLD",
+            "processedMiniURL": "https://cdn.viggle.ai/template/35a3910f-e2e6-47d6-9434-b2405b3b5e0c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/81bda6b0-a9f5-4097-9752-279675ddd14b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e4276d48-6d02-4387-84fb-336175da4518.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/513fa5b7-049a-4965-9d1a-f806a052a02f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/81bda6b0-a9f5-4097-9752-279675ddd14b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733391336538-745c5c46-4222-42a0-b096-3ec8835f49d0.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7921c89c-b7e6-4a5b-b41a-3053eba5f34a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a4c8a950-9cf0-43d6-9212-cab9dc85a637.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b5398a11-91b0-44fc-b6c0-bfac29d076ba.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/904b3297-ec59-4fd5-a59f-900ce3b88912.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9e39786b-b884-4e7a-85ea-f3ce8678c62e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734662074012-64518f94-e7cc-4f6b-bc2b-0552cf24b90e.jpg",
+            "videoDuration": 14.48,
+            "gifURL": "https://cdn.viggle.ai/template/1733391337389-a1b9a5e5-4e5b-42db-be2b-e87bea9d883a.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733391336863-949d20b2-0fa8-4fe9-8e34-0db619823c5a.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Juice WRLD",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7d8aa303-62e8-4e71-be0f-8bc971ea1ffd.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7d8aa303-62e8-4e71-be0f-8bc971ea1ffd.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "f16f1e6f-26b7-4f8b-ab54-8287cd9cbd53",
+                    "groupUuid": "f16f1e6f-26b7-4f8b-ab54-8287cd9cbd53",
+                    "url": "https://cdn.viggle.ai/template/7d8aa303-62e8-4e71-be0f-8bc971ea1ffd.png",
+                    "uploadedUrl": "",
+                    "name": "Henry",
+                    "startFrame": 0,
+                    "trackId": "f16f1e6f-26b7-4f8b-ab54-8287cd9cbd53"
+                }
+            ],
+            "width": 1690,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "66020415-7010-4e9d-909e-39588d3466a7",
+                "nickname": "IvyBreeze",
+                "avatar": "https://cdn.viggle.ai/template/892aa76d-c064-439d-916a-21b63b0642f4.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=UmWr0PUYXJME0hmTWIgetvR9ElY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "06e317b1-077c-41a1-91d9-a0ce63bf1f66",
+            "command": "$dubai_subway_surfer",
+            "webCommand": "Dubai Subway Surfer",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Dubai Subway Surfer"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bc4ff474-7d69-4a3a-aaeb-4985f8f108f7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e2c347cc-a713-4cf4-ad51-984a249f8af4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/925cf215-4476-49ef-8f00-f902177fad75.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8d832960-764b-46d2-8add-7c59b3723cf2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e2c347cc-a713-4cf4-ad51-984a249f8af4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733832823895-ff59e9bc-d9b0-4650-a430-07760a407623.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ac55c523-dc61-4319-8ab2-67664a855e90.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a8213bba-8967-4a33-86a4-30600e67e12b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b7e9d178-b41d-4efe-b514-1e6fc1c628df.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/962290f3-983a-462e-b690-ba39101f5a37.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cfc5a99d-bdec-46bd-8c1c-0c3456ef8d42.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734405086437-de09c215-b7a2-45f8-b4a6-4958fc462731.jpg",
+            "videoDuration": 20.92,
+            "gifURL": "https://cdn.viggle.ai/template/1733832825396-fcfc5b5d-2855-40af-9dd5-7d5ab7084147.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733832824452-757519bd-913c-45e0-8283-b5b32155d084.webp",
+            "rleBoundingData": null,
+            "source": "TT",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5342a893-67a2-4fe9-b06b-2b72ba0c0242.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5342a893-67a2-4fe9-b06b-2b72ba0c0242.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9faf8778-484b-4f25-a56f-5330cc0bff59",
+                    "groupUuid": "9faf8778-484b-4f25-a56f-5330cc0bff59",
+                    "url": "https://cdn.viggle.ai/template/5342a893-67a2-4fe9-b06b-2b72ba0c0242.png",
+                    "uploadedUrl": "",
+                    "name": "Eric",
+                    "startFrame": 0,
+                    "trackId": "9faf8778-484b-4f25-a56f-5330cc0bff59"
+                }
+            ],
+            "width": 720,
+            "height": 1600,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=vAFDm-tTOY6MOj7nt_f6fN4N1Qk="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8ed053be-c6c3-46fd-9ef5-fd01e687062e",
+            "command": "$fortnite_spirit_strider_emote",
+            "webCommand": "Fortnite Spirit Strider Emote",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Spirit Strider Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4c9e834f-5a79-4ed4-9277-56f9f4abf509.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/88303341-863f-41e9-a75d-b46a29bca22f",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f40420ad-8a15-4474-866b-43527d7e12c3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c068caad-ed85-46a1-a964-516b57bff17d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/88303341-863f-41e9-a75d-b46a29bca22f",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733864814766-d00da793-3d2b-4fd4-850e-b0c08431ad86.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c561caba-53f3-4876-8774-41c446e7323c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/aed960b8-9f64-4dc7-bac9-319b2780ea90.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/bb9e7f7d-4e37-47e0-9f66-02503ee84983.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d87fa0e5-86c3-4e25-a497-6d87b067bf1e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c7659c73-a158-4bc1-88c6-7f21c6b7ff91.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733865313515-13231728-7e53-4e2b-8d25-61e42d4fe489.jpg",
+            "videoDuration": 10.36,
+            "gifURL": "https://cdn.viggle.ai/template/1733864815934-7e166db3-d018-42d0-aff0-500c6dbb4515.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733864815108-4a6d4e9c-b5d6-43d3-b7c5-b695de071258.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8f3ce16a-1f40-42fc-aa92-713c0745e805.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8f3ce16a-1f40-42fc-aa92-713c0745e805.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "8c5ad495-cb50-4064-b0c5-6e715cffdd2a",
+                    "groupUuid": "8c5ad495-cb50-4064-b0c5-6e715cffdd2a",
+                    "url": "https://cdn.viggle.ai/template/8f3ce16a-1f40-42fc-aa92-713c0745e805.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "8c5ad495-cb50-4064-b0c5-6e715cffdd2a"
+                }
+            ],
+            "width": 1440,
+            "height": 1504,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "10355ff4-81d2-46c6-aec5-240520df7fb9",
+            "command": "$fortnite_frozone",
+            "webCommand": "Fortnite Frozone",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Frozone"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4e1e79e2-e448-41c7-9780-b3c5b93503e4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/d704598e-ef82-4766-a142-a44103e1170c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/775bca29-e752-402f-82e3-e3946d4cd379.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/dabce563-a89f-496e-a9c6-6b6ae716ae3f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/d704598e-ef82-4766-a142-a44103e1170c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733864349323-c64b0229-185b-491e-bc83-ab23f8aad88f.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/62546cd6-fe94-4a45-801e-cc4c673494f1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/871d3646-36ff-41d8-86ec-32afb724933e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/dee7c5b5-37f0-4953-9102-f1be9a69b582.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/64111806-2f7a-4d7e-8e02-75735824c653.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/01979a7e-de34-46d1-a730-068ea8040ef3.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733865274167-5885663e-907a-40ef-bc30-e90f007255a4.jpg",
+            "videoDuration": 10.36,
+            "gifURL": "https://cdn.viggle.ai/template/1733864350536-817e54fc-8737-45a2-961e-89996db56bbd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733864349728-b4befa94-ebab-456f-b3e8-1f26a8d926bb.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/09cdf277-032c-4683-9837-434ecf5018e7.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/09cdf277-032c-4683-9837-434ecf5018e7.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9b694634-638e-4f9e-a300-f8b8825ce42c",
+                    "groupUuid": "9b694634-638e-4f9e-a300-f8b8825ce42c",
+                    "url": "https://cdn.viggle.ai/template/09cdf277-032c-4683-9837-434ecf5018e7.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "9b694634-638e-4f9e-a300-f8b8825ce42c"
+                }
+            ],
+            "width": 1440,
+            "height": 1504,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "11a1bd76-dd60-4d11-8483-3725ea64b2ae",
+            "command": "$juice_wrld_fortnite",
+            "webCommand": "Juice Wrld Fortnite",
+            "description": "Juice WRLD’s brand new song. Out now \u0026 featured in the Empty Out Your Pockets Emote!",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Juice Wrld Fortnite"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b897acc6-87a4-4cc4-b27d-29f52295e67b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b5017974-3ac2-459e-aa78-14745ec4102d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f96a8e98-40c3-4506-84d1-3f24dc3e6b5c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/340a7c98-164a-4bad-93a9-5ef41b8bd66f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b5017974-3ac2-459e-aa78-14745ec4102d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733221828628-d4f344e8-4836-4af9-a24b-55bc12e0e384.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e5127f1e-21a0-4d38-8a3a-9ac48c8e1307.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8b60477c-2346-44d9-abb0-e8eb16736b22.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5f130788-b519-4a82-b804-7d990ae3cd3a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2aecaf24-11c7-4dbf-93c5-9d377902a5de.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8b60477c-2346-44d9-abb0-e8eb16736b22.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733225146540-82037f3e-0e5d-4db2-9da1-e4c186a1ff5f.jpg",
+            "videoDuration": 20.88,
+            "gifURL": "https://cdn.viggle.ai/template/1733221829695-f4f4ba41-5177-4900-b58c-112b21026a45.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733221829075-cd3d503c-2b98-416f-9875-19ce1afac979.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e9d1c5bd-cb2e-4c3f-a0e1-89a93e2a65db.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e9d1c5bd-cb2e-4c3f-a0e1-89a93e2a65db.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a92ede72-1236-4516-bdc1-83edc8ee326c",
+                    "groupUuid": "a92ede72-1236-4516-bdc1-83edc8ee326c",
+                    "url": "https://cdn.viggle.ai/template/e9d1c5bd-cb2e-4c3f-a0e1-89a93e2a65db.png",
+                    "uploadedUrl": "",
+                    "name": "Jacob",
+                    "startFrame": 0,
+                    "trackId": "a92ede72-1236-4516-bdc1-83edc8ee326c"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "f775e1d8-4194-4d33-a6d1-94df3addc746",
+                "nickname": "Irrr_joymass",
+                "avatar": "https://cdn.viggle.ai/template/5e95d60a-a543-41dc-9bc2-42e51d5406f6.jpeg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=ou5SJAL6-0TCeuX8DAVYUEFzZgk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "ccf4f302-d7ba-4021-aae2-2b86937fee76",
+            "command": "$fortnite_the_viper_emote",
+            "webCommand": "Fortnite The Viper Emote",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite The Viper Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/194f45bb-9882-43e5-b7e6-9144b8ad3bbc.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8c5cf4dc-ebb6-4547-8883-11856d88773f",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/34e6080c-efcc-4699-8c7c-f73b04d54314.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f49d90bf-a6b1-42a4-a91d-1760e6194fef.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8c5cf4dc-ebb6-4547-8883-11856d88773f",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733864857798-42e5459d-2899-4813-a22c-ed401c184d8d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d4e6a652-e8de-42bc-9add-a32bcbd85cce.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d1d38151-7ae4-48c7-ba57-a222bd21f74b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5376f161-c4bf-49dc-ac35-e82e1a63dfcb.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f9c10029-92d2-4bed-b313-36f99d355204.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d1d38151-7ae4-48c7-ba57-a222bd21f74b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733865365679-36eb3966-8332-4149-abf8-2137bfc9291a.jpg",
+            "videoDuration": 11.96,
+            "gifURL": "https://cdn.viggle.ai/template/1733864858969-32b114de-ec61-4aa4-9053-80c5f0f4de04.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733864858183-9701611e-1126-42ae-9723-7d2642d13485.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5246bd4b-a424-4edc-bb44-d68cce9fc676.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5246bd4b-a424-4edc-bb44-d68cce9fc676.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "1146c362-ed97-442a-af0f-19fe3402c6c7",
+                    "groupUuid": "1146c362-ed97-442a-af0f-19fe3402c6c7",
+                    "url": "https://cdn.viggle.ai/template/5246bd4b-a424-4edc-bb44-d68cce9fc676.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "1146c362-ed97-442a-af0f-19fe3402c6c7"
+                }
+            ],
+            "width": 1440,
+            "height": 1504,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "16fd029f-44cf-4822-82ec-ee24b5e355ed",
+            "command": "$gman_jerkin_dance",
+            "webCommand": "Gman Jerkin Dance",
+            "description": "[SFM] jerkin'",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Gman Jerkin Dance"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "CoreyLaddo",
+            "processedMiniURL": "https://cdn.viggle.ai/template/be771fd6-c174-4d33-a123-6979602f023c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c49cee53-3713-4104-b59d-5926e0addb14",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ceafb710-6aaf-413a-894a-c6c0f395616c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8db1535b-44ae-4e46-ba75-cc6403fd9793.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c49cee53-3713-4104-b59d-5926e0addb14",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732602895942-842fdb9c-75af-43b9-b230-8f0c00d14204.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/31af96ce-20d8-4d3c-ac71-e7cd0c4fd7d3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/571c9fb9-b2f6-4f93-a342-ba6d1817b012.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/480e0c94-db6d-4a22-ab21-6f997fe691df.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a05f1d55-ffef-48ae-9f1b-48d9670f214e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b7f8eb14-22fe-42ea-8342-a32fe80e75e2.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732785135431-53e20233-5c1f-478e-9a20-e579454fd217.jpg",
+            "videoDuration": 49.68,
+            "gifURL": "https://cdn.viggle.ai/template/1732602896879-88607da9-bdfc-4316-a512-2e8775b71a1e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732602896249-3165387d-f835-4397-991a-1804c6a4d5b9.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: CoreyLaddo",
+            "referenceImageURL": "https://cdn.viggle.ai/template/047cccfb-7304-45cd-b592-e91fef69ef94.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/047cccfb-7304-45cd-b592-e91fef69ef94.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "189b1275-9588-4ec0-97fc-19a7a6b45e1f",
+                    "groupUuid": "189b1275-9588-4ec0-97fc-19a7a6b45e1f",
+                    "url": "https://cdn.viggle.ai/template/047cccfb-7304-45cd-b592-e91fef69ef94.png",
+                    "uploadedUrl": "",
+                    "name": "Greg",
+                    "startFrame": 0,
+                    "trackId": "189b1275-9588-4ec0-97fc-19a7a6b45e1f"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=vAFDm-tTOY6MOj7nt_f6fN4N1Qk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8f629e25-75c0-4cfe-a1c1-e51aa8f7ea7c",
+            "command": "$no_no_no_wait_wait_wait",
+            "webCommand": "No No No Wait Wait Wait",
+            "description": "[SFM] NO NO NO WAIT WAIT WAIT",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "No No No Wait Wait Wait"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "CoreyLaddo",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ce1e3bcd-f107-4d3f-83b7-536f60ca48f4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a0d4a64d-cce1-4b70-b3df-7395d550519c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/baed01be-4ce1-4fe5-915c-4160146a8367.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ab8a89ce-4948-43cf-ad9d-9697b8491384.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/a0d4a64d-cce1-4b70-b3df-7395d550519c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732787645253-6c26f8a9-12f7-4356-a47f-c4f2838bd859.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e3425054-2f55-4daf-ae87-15f9ebca409f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8e321378-2f6f-437c-a3ca-6b1b6310bc4e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f7314665-7c90-44ba-835b-db628bab019c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1bb6937f-7cbd-4356-91a9-b1ee2c820e69.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ce2e5a6f-cf4a-42d0-be9d-dacb82ff5e64.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732875524343-0b154a6e-72ca-45f0-a091-47fd20735932.jpg",
+            "videoDuration": 5.4,
+            "gifURL": "https://cdn.viggle.ai/template/1732787646179-a72aaa0d-1d4d-42e2-91e3-4247ac350b89.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732787645591-0d3b802e-7341-4d17-89d0-5417d47451f1.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: CoreyLaddo",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2a3fba13-425b-4a73-affe-7ac3ac06f40c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2a3fba13-425b-4a73-affe-7ac3ac06f40c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "26afbefd-fb13-4473-9a8c-c7430b18c161",
+                    "groupUuid": "26afbefd-fb13-4473-9a8c-c7430b18c161",
+                    "url": "https://cdn.viggle.ai/template/2a3fba13-425b-4a73-affe-7ac3ac06f40c.png",
+                    "uploadedUrl": "",
+                    "name": "Samuel",
+                    "startFrame": 0,
+                    "trackId": "26afbefd-fb13-4473-9a8c-c7430b18c161"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "498cca3f-b45c-4aa3-8634-648b3bc7d881",
+                "nickname": "yepxxxzh",
+                "avatar": "https://cdn.viggle.ai/template/964eabc7-4ca1-47eb-bd96-9b43f09cea28.jpg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=uFMGfI9KWGXqb0f1CuL5YGLl6lk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "220fd947-5486-48ba-b08c-ca492266f225",
+                    "name": "Anime",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a7bf5ca8-049c-42de-b324-26ce274ab2b8",
+            "command": "$hell's_kitchen_roblox",
+            "webCommand": "Hell's Kitchen Roblox",
+            "description": "Hell's Kitchen Roblox | Official Trailer | Starring Chef Ramsay",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Hell's Kitchen Roblox"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Hell's Kitchen",
+            "processedMiniURL": "https://cdn.viggle.ai/template/28d74643-0e18-416e-884a-ea596957be8b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3d0cedaf-4729-4507-9e08-20f5931d0f13",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/46a08ed8-4281-451d-8c58-dd2f5a812042.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7b578ad8-0a38-4f96-b4d2-b8b8602ce65d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3d0cedaf-4729-4507-9e08-20f5931d0f13",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1735098837288-339d7f1e-9a13-4320-b091-e8fd2d7e140e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1e9563b3-601b-40e5-8028-15ef8fd5028c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/02522a4b-65a2-4600-b131-f8d7bbb80862.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2b072257-8fcf-49ff-9e29-ecce7ee3a264.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1fcffc64-3c9e-42e4-b742-4927d14927c3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8ecf64bf-d3a2-4ec6-9d32-f589d08eb485.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735104262460-8bfe3c3d-f635-4af1-a37a-e23a6e5ae9eb.jpg",
+            "videoDuration": 9.08,
+            "gifURL": "https://cdn.viggle.ai/template/1735098838419-239f51cb-d9ac-49d6-b9a8-f463e8310537.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1735098837633-428522f0-bd5a-42f0-ae4d-47dd9f1eea77.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: Hell's Kitchen",
+            "referenceImageURL": "https://cdn.viggle.ai/template/62de271c-75d6-40fb-83bf-455ca40469d1.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/62de271c-75d6-40fb-83bf-455ca40469d1.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9d38d2be-efac-4438-996d-770e26300bbb",
+                    "groupUuid": "9d38d2be-efac-4438-996d-770e26300bbb",
+                    "url": "https://cdn.viggle.ai/template/8cb0de11-4e13-4997-9df6-a1b614560234",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/62de271c-75d6-40fb-83bf-455ca40469d1.png",
+                    "name": "Ted",
+                    "startFrame": 0,
+                    "trackId": "9d38d2be-efac-4438-996d-770e26300bbb"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": true,
+            "user": {
+                "id": "2093e8cf-6996-4145-aea2-9cd8ac7c5e90",
+                "nickname": "Kara Mayii",
+                "avatar": "https://cdn.viggle.ai/template/ed47cbe3-6b81-4308-9a6a-76fd7aa0b4ab.jpg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=4JYQlxrbahHU9YZ7hdl6xCaLOyE="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c4e2dd55-bbd8-4656-957c-1ec3e5530aa7",
+            "command": "$fortnite_mariah_carey",
+            "webCommand": "Fortnite Mariah Carey",
+            "description": "\"This style is so cute 🥹🩷❄️ • #fortnite #fortnitevideo #fortnitemariahcarey #fyp #mariahcarey #alliwantforchristmasisyou\"",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Mariah Carey"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "smidbd",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a1d4db0e-fc27-4479-9633-839be3613b06.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/eacb63da-ed07-48ed-9595-5f99045574af",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8e77a285-1598-4c5b-b476-add9c9d9a270.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c5a0939f-2e53-4a87-8254-38f55425a3c1.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/eacb63da-ed07-48ed-9595-5f99045574af",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1735098772137-5740f421-a6a6-45f5-91df-731709fc6923.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/be3cfe92-a08a-40cb-ac0a-7e4d7ca2ab1a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ff40bc80-ea4e-4081-b1de-769d894988f9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/28a4cd3e-6e03-46a6-9ebd-56ad7e297173.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/953c2568-29b7-4a32-90bc-1ba7c728444f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b72d05aa-def5-478c-83cc-be265353fcba.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735107343658-9c49df7c-a177-46b1-94c2-e39adb975798.jpg",
+            "videoDuration": 46.6,
+            "gifURL": "https://cdn.viggle.ai/template/1735098773137-f6ecc0e0-0a8d-435a-b97f-fca57d14994c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1735098772498-187dbdb3-4a15-4b0f-93f3-474dcc580c7a.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: smidbd",
+            "referenceImageURL": "https://cdn.viggle.ai/template/30aeeb3b-99c3-458a-bbf8-9ec7c8433258.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/30aeeb3b-99c3-458a-bbf8-9ec7c8433258.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "47b097a5-48ab-48d7-bbdb-86ae5d3f013f",
+                    "groupUuid": "47b097a5-48ab-48d7-bbdb-86ae5d3f013f",
+                    "url": "https://cdn.viggle.ai/template/a2c6413a-4407-40ed-9de7-6d0dcbabfedb",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/30aeeb3b-99c3-458a-bbf8-9ec7c8433258.png",
+                    "name": "Mariah",
+                    "startFrame": 0,
+                    "trackId": "47b097a5-48ab-48d7-bbdb-86ae5d3f013f"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": true,
+            "user": {
+                "id": "a3f640d1-92d7-48dc-acd4-18ecd2bd4c00",
+                "nickname": "WajTractor",
+                "avatar": "https://cdn.viggle.ai/avatar/50c69185-64b9-4ac4-852c-c20645f86fc7.jpg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=LuB6kp3wiAq-VgCfn56xPsigjU4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a0aefd6f-5bf0-4177-859f-19d7326f3099",
+                    "name": "Christmas ",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "939309a7-c7c0-479e-aff9-2c44cd3e7d7e",
+            "command": "$mariah_carey_fortnite",
+            "webCommand": "Mariah Carey Fortnite",
+            "description": "Mariah Carey 🎄 All I want for Christmas Fortnite Emote #fortnite #mariahcarey #paboum",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Mariah Carey Fortnite"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "paboumyt",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a80b82da-58f9-4a1c-85b2-2fb47b3e8650.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f84e6a65-87f3-4cd3-b255-3d72c5827371",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/7531235e-cc4b-47a3-bd57-098d77751f6f.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4686f5d1-9b4f-43e2-9766-e0f4f9e64662.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f84e6a65-87f3-4cd3-b255-3d72c5827371",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1735098768891-552910a7-e37e-4307-8bbc-a628cf96ce3a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/3d5b680e-141f-4d4f-b95d-62e64aa9d723.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/480f6f7e-74fd-4339-bc38-7f278794956b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/851013c4-4909-4c65-be97-224ba450308c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ac119cbf-d776-4c3e-9bbc-abd1220c4622.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ab9ffb5c-a7db-44b7-b4ec-751e6c6a61f3.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1735107358672-7cfa7981-efff-4b90-9582-d20963e3dcfd.jpg",
+            "videoDuration": 44.84,
+            "gifURL": "https://cdn.viggle.ai/template/1735098769809-375f4bf0-6aef-4d89-8bca-2ebd7289e13b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1735098769223-353206fb-53c0-4a1d-b06b-bdabbbd62ff5.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: paboumyt",
+            "referenceImageURL": "https://cdn.viggle.ai/template/13acf8da-af57-4cbd-8784-717035b9999a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/13acf8da-af57-4cbd-8784-717035b9999a.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "63680300-85fb-454d-a407-e0d0bf577d45",
+                    "groupUuid": "63680300-85fb-454d-a407-e0d0bf577d45",
+                    "url": "https://cdn.viggle.ai/template/69928dfd-a4c3-4be1-85b6-9693d87eb3f0",
+                    "uploadedUrl": "https://cdn.viggle.ai/template/13acf8da-af57-4cbd-8784-717035b9999a.png",
+                    "name": "Mary",
+                    "startFrame": 0,
+                    "trackId": "63680300-85fb-454d-a407-e0d0bf577d45"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": true,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=vAFDm-tTOY6MOj7nt_f6fN4N1Qk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "a0aefd6f-5bf0-4177-859f-19d7326f3099",
+                    "name": "Christmas ",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "b0e8b7c3-9ba6-4d36-9596-b09eb5e90140",
+            "command": "$on_cloud",
+            "webCommand": "On Cloud",
+            "description": "Free fire game",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "On Cloud"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1a093038-a512-4621-b572-20ba53eab9be.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a710980c-4509-4736-ad69-1f73ed9b4a4c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/86504964-6f27-40ff-a7bc-d0c9cfbd40f2.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/08891bb4-ab5e-4ace-8bcb-d3fa9985edad.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/a710980c-4509-4736-ad69-1f73ed9b4a4c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731950250066-85996bf5-ab4b-45b7-ba4d-f9d025d34a1a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/303661c0-37ba-477a-93bd-79f0ac680845.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/64544163-6e86-4ac2-b46c-5fc10be28947.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e9ab04de-8d34-4075-bcc5-c7e855aff77c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f79bb85a-3d58-4e82-b095-1ef055a377eb.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/754db519-b550-46ea-b3b4-27fc6890fec6.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731950548346-10b129cf-9df8-474c-aefe-b4803a2d2310.jpg",
+            "videoDuration": 20.48,
+            "gifURL": "https://cdn.viggle.ai/template/1731950250941-a6b46a76-43e1-4e99-ad25-1314008f8fb5.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731950250405-7082c853-1c92-455b-93ec-4e279298b66f.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/4fdf2437-3a65-4d09-9498-09c51744cd69.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4fdf2437-3a65-4d09-9498-09c51744cd69.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a03b08e2-f37a-4677-a67b-13bf0a2be837",
+                    "groupUuid": "a03b08e2-f37a-4677-a67b-13bf0a2be837",
+                    "url": "https://cdn.viggle.ai/template/4fdf2437-3a65-4d09-9498-09c51744cd69.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "a03b08e2-f37a-4677-a67b-13bf0a2be837"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d4a257a4-f429-4fd0-b015-646238366e38",
+            "command": "$lucid_dreams_emote",
+            "webCommand": "Lucid Dreams Emote",
+            "description": "Lucid Dreams Emote | Juice WRLD #fortnite#fortnitebr#fyp#fortniteskins#fortnitedances#emotes#juicewrld",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Lucid Dreams Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "livialush",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2c5eb205-97df-4bf6-945a-ca04bd900d65.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b0105b33-d649-4e8c-b9e6-2f4ab31d010d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0cae7341-3c13-4de6-a85f-c7ad6af941e9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0a229348-4665-4dcc-a2c0-c7f5cf04556b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b0105b33-d649-4e8c-b9e6-2f4ab31d010d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733221877861-8b7515ce-4fe6-4d1e-a0a8-10fc185a1318.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/792e6f72-b02c-454c-ae9b-9061f7cc2567.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/926353b6-bd1e-4791-b3de-0b180c056299.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b19ca917-9496-4c94-b040-a8f6623ff833.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7d4d526c-c87e-4a0e-bfb2-cbd1ec13ca50.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/87841c9c-cb8e-4283-a5c0-b34ac7a68103.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733228502505-f1d77a82-9db9-4c38-bf73-876f1bd413ed.jpg",
+            "videoDuration": 28.72,
+            "gifURL": "https://cdn.viggle.ai/template/1733221878950-c45c20d8-c14b-49e3-8391-657f7359a912.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733221878275-224e9b84-1587-44b1-8ccc-fe2dc3773236.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: livialush",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a9c4df12-7049-4344-bb11-9743a07b2d30.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a9c4df12-7049-4344-bb11-9743a07b2d30.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e8e72d33-b50f-4b60-88c2-0d8d9aa6f8ce",
+                    "groupUuid": "e8e72d33-b50f-4b60-88c2-0d8d9aa6f8ce",
+                    "url": "https://cdn.viggle.ai/template/a9c4df12-7049-4344-bb11-9743a07b2d30.png",
+                    "uploadedUrl": "",
+                    "name": "Christopher",
+                    "startFrame": 0,
+                    "trackId": "e8e72d33-b50f-4b60-88c2-0d8d9aa6f8ce"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=_1LrVhwhv5jEY9MbPlJyGXsrgV8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "fac2c93c-ff5b-46a4-9660-30b5ec7c7115",
+            "command": "$the_real_slim_shady_eminem",
+            "webCommand": "The Real Slim Shady Eminem",
+            "description": "\"Which is your favorite artist? 🥰 #fortnite #shorts The Real Slim Shady CLEANEST Transitions 💕\"",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "The Real Slim Shady Eminem"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "@starchords_1111",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2b24a487-0ca9-4182-a92d-0d21865451bf.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a185b964-7072-48ed-b3cc-0afaff752922",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8590761c-c39f-4e89-9fae-460ddbd8a864.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f26849ff-964d-44fe-86fd-18c960625236.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/a185b964-7072-48ed-b3cc-0afaff752922",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732011968875-43b7b9e9-87af-40bb-94d3-53671f78bed4.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/27b10181-bd5b-4780-bc48-1dd28bd82f0d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5208976d-0105-4b3a-9c86-64b530255821",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1991ee08-47b5-4af5-a749-1a375346fb73.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d5bf0eec-2695-441c-a45c-b26bdae00cac.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5208976d-0105-4b3a-9c86-64b530255821",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732013091598-e7eb1740-ee0c-44dd-93fc-748b0e3e89dd.jpg",
+            "videoDuration": 27.36,
+            "gifURL": "https://cdn.viggle.ai/template/1732011969685-d888e7fe-1a0f-4b59-90c3-8f11434b1e49.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732011969156-939720a2-bb65-442f-a32e-77c86f0ac3cd.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: @starchords_1111",
+            "referenceImageURL": "https://cdn.viggle.ai/template/58ac8c72-c4fe-4a61-8c9c-867767147ab2.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/58ac8c72-c4fe-4a61-8c9c-867767147ab2.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a8d8873d-ba06-4513-8a77-565df3d79a6c",
+                    "groupUuid": "a8d8873d-ba06-4513-8a77-565df3d79a6c",
+                    "url": "https://cdn.viggle.ai/template/58ac8c72-c4fe-4a61-8c9c-867767147ab2.png",
+                    "uploadedUrl": "",
+                    "name": "Steven",
+                    "startFrame": 0,
+                    "trackId": "a8d8873d-ba06-4513-8a77-565df3d79a6c"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "f23c1c2f-3105-4b35-99e1-0d987f59d434",
+                "nickname": "kevpww.1",
+                "avatar": "https://cdn.viggle.ai/template/e65ce7d2-d91e-47e4-b741-63045a665955.PNG?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=DNgxife1eCmiJFejRRXmPfzln0c="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "04b57fd6-3cb1-42d8-b62b-766557b4cbb8",
+            "command": "$geoff_rowley_sproing",
+            "webCommand": "Geoff Rowley Sproing",
+            "description": "Geoff Rowley Sproing",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Geoff Rowley Sproing"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "thatindonesiandude",
+            "processedMiniURL": "https://cdn.viggle.ai/template/7fabe0f2-d0df-4a95-b3a2-1c2237c7877a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2cfb81fa-6405-4285-ac28-52467da57751",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d0227d94-618d-48e7-a89b-3eef9fd5ab61.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8933bfad-a728-4f0a-a7fe-95212cf85fb5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2cfb81fa-6405-4285-ac28-52467da57751",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731489080705-c6c66ec0-a9e9-4ee8-a22c-9d96d47e9289.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/286b0941-c230-450e-9235-c8ecb525aa98.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7e88a54d-0ab4-4498-bc8a-61de10a5eea6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/77172b0d-bfff-4e51-9969-8d0f19de9dc8.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/81be1fdc-e335-44af-892b-9eae71dd518c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7e88a54d-0ab4-4498-bc8a-61de10a5eea6.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731490073556-a69a7341-6f55-4bc5-8a3b-c2a5251566c1.jpg",
+            "videoDuration": 6.68,
+            "gifURL": "https://cdn.viggle.ai/template/1731489082504-844fcd18-682b-4194-bb62-e27101951966.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731489080994-a91ac89b-5335-4128-903c-931acdd60390.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: thatindonesiandude",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a4d24d6d-1d1f-41e2-a046-9ef04bf48970.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a4d24d6d-1d1f-41e2-a046-9ef04bf48970.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c65aabca-feef-4478-aeb1-59b6116ab260",
+                    "groupUuid": "c65aabca-feef-4478-aeb1-59b6116ab260",
+                    "url": "https://cdn.viggle.ai/template/a4d24d6d-1d1f-41e2-a046-9ef04bf48970.png",
+                    "uploadedUrl": "",
+                    "name": "Simon",
+                    "startFrame": 0,
+                    "trackId": "c65aabca-feef-4478-aeb1-59b6116ab260"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "91da4fa3-cd18-4644-a0cf-b3192dd1d247",
+                "nickname": "Zyro",
+                "avatar": "https://cdn.viggle.ai/template/6dadbb67-d6c4-4f4f-bbb6-e4f632f29282.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=mUDrGCTXAHp0SMahvFPIUi2c7gk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8a553b9e-d8d3-4aa8-b58d-a7190a09de5d",
+            "command": "$speed_dance_fortnite_emote",
+            "webCommand": "Speed Dance Fortnite Emote",
+            "description": "🔥 Trend by @IShowSpeed @Fortnite Official #fortnite #fortnitedance #blender #3d #animation",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Speed Dance Fortnite Emote "
+                },
+                {
+                    "type": 1,
+                    "value": "#fanart"
+                },
+                {
+                    "type": 0,
+                    "value": " "
+                },
+                {
+                    "type": 1,
+                    "value": "#fortnite"
+                },
+                {
+                    "type": 0,
+                    "value": " "
+                },
+                {
+                    "type": 1,
+                    "value": "#ishowspeed"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "lamatteo3d",
+            "processedMiniURL": "https://cdn.viggle.ai/template/cf2d9565-5b1b-4335-867c-ce76668405a4.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/23c6a6bc-e8ed-487a-8dcf-ad9f56a9dcc4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9ff22ec4-9643-4c8d-89e1-c5e7c5664a52.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0a7beebf-e235-4be4-befe-afc966b7a92c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/23c6a6bc-e8ed-487a-8dcf-ad9f56a9dcc4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731411856922-4c9635c8-f17a-474d-b57e-8d21d762b847.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/bfe3c3fd-c02e-4032-b4cd-e2825cbdf5f3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/fbe5d44a-31b6-451a-a264-d9315f4cdbed.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/86e685dd-b755-4d83-8030-fccbdeeee812.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/51502001-60df-4e10-873e-c1fdf8f65a3c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ce7ffda9-4ca8-4523-8388-feab7e7f2367.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731418356641-d8bb2bf2-4dda-4f37-8139-427a1358686a.jpg",
+            "videoDuration": 14.64,
+            "gifURL": "https://cdn.viggle.ai/template/1731411857747-3531e240-a500-47d7-b09d-b3c549434697.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731411857232-c1029d57-113c-4b9e-8f1e-ace9cb6b99ea.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: lamatteo3d",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ea1e99df-c143-4e87-9d69-17a58efe7793.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ea1e99df-c143-4e87-9d69-17a58efe7793.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e0783d67-d510-4ce2-be34-a283abe16e59",
+                    "groupUuid": "e0783d67-d510-4ce2-be34-a283abe16e59",
+                    "url": "https://cdn.viggle.ai/template/ea1e99df-c143-4e87-9d69-17a58efe7793.png",
+                    "uploadedUrl": "",
+                    "name": "Ryan",
+                    "startFrame": 0,
+                    "trackId": "e0783d67-d510-4ce2-be34-a283abe16e59"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "22ac7eee-31a6-456d-986f-192b3f591152",
+                "nickname": "Misty",
+                "avatar": "https://cdn.viggle.ai/template/3d27bc28-7049-4dbd-95c6-a0e455a6dd4a.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=N_RuATxQ7dDpBjEVGgiks3KgEc8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3fe84a07-3b89-4572-896d-8ea839cd3d14",
+            "command": "$snoop_walk_icon_emote",
+            "webCommand": "Snoop Walk Icon Emote",
+            "description": "Snoop's Walk ICON EMOTE #snoopdogg #Fortnite #Fortniteremix #fortnitebr #fy",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Snoop Walk Icon Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "oriambr_",
+            "processedMiniURL": "https://cdn.viggle.ai/template/45b7a6b2-d497-4f63-b6b8-39e260ea0289.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5400cfe7-cb13-4b63-9b0e-5d821947625a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e10a09fe-79e3-4260-ab48-c2a8a73c1ad0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5c9ba254-13f4-4a45-a308-cc8d4e1eb58f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5400cfe7-cb13-4b63-9b0e-5d821947625a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732102163712-d6bddd17-b87f-438c-a562-d279d62c23df.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/86e455be-cf7a-4ea6-9df6-5fb807e21a19.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/88520a3b-225c-4462-9869-430936ce03ba.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4066d8da-0dae-4a25-87a8-36c5bfe3a1e9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/012c7f0a-2a5d-4d59-904d-b151f6f2c0b1.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/88520a3b-225c-4462-9869-430936ce03ba.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732103566749-741ca54e-a3ed-421d-8b43-786156b2bb20.jpg",
+            "videoDuration": 10.84,
+            "gifURL": "https://cdn.viggle.ai/template/1732102164631-b292cd59-4da3-4864-b037-54763dcff6c8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732102164055-e674f167-cd47-4f7e-870d-aa54fc8caf33.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: oriambr_",
+            "referenceImageURL": "https://cdn.viggle.ai/template/df28237e-98f8-4c2f-9884-78679e7c5826.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/df28237e-98f8-4c2f-9884-78679e7c5826.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "7685ee11-2ac3-4b3c-a75c-fac733e030c7",
+                    "groupUuid": "7685ee11-2ac3-4b3c-a75c-fac733e030c7",
+                    "url": "https://cdn.viggle.ai/template/df28237e-98f8-4c2f-9884-78679e7c5826.png",
+                    "uploadedUrl": "",
+                    "name": "Owen",
+                    "startFrame": 0,
+                    "trackId": "7685ee11-2ac3-4b3c-a75c-fac733e030c7"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "2c88a278-bdc2-4010-b935-5de092739476",
+                "nickname": "RoseMist",
+                "avatar": "https://cdn.viggle.ai/template/ba186846-19ca-46b7-ba1b-e3403c2c8e11.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jzRyaS6V0dDXI9_nyU1svqe2NFw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0eb20e1c-0586-453d-a716-fe935dd06474",
+            "command": "$peiqinhu_bruce_lee_aov",
+            "webCommand": "Peiqinhu Bruce Lee AOV",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Peiqinhu Bruce Lee AOV"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fatboy Slim",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f21817a0-09fa-4bff-a4e3-bce25c3a7365.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5b9b3f16-62e7-48d4-b6d3-1923730ebb84",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1fa20063-07b7-4c1d-a510-9b1163876dfd.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/582e91f9-1a93-4bb6-bbf4-bd1d9f7f42b7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5b9b3f16-62e7-48d4-b6d3-1923730ebb84",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728729431915-d9947891-9889-4ca6-854a-e9637688f3db.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/40e92c94-091f-4f8e-909c-ff3c39dd5daa.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9d417fc0-406b-4672-9b58-189b2cee9a90.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d992fad0-94b2-43a8-bad5-5264ef743806.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f368c67d-d578-4984-9e06-e62114424a18.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ffdcf2f9-01cc-42fb-bc84-f7c6f706d019.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728739585855-8233d06d-6ccf-4e1b-a555-862e89ec6e7e.jpg",
+            "videoDuration": 17.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730709468509-6e3fa1b8-cc0c-4f26-b241-2d7f43a5c382.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709467093-8e3b52bf-f882-49f8-946d-8f3e68a33818.webp",
+            "rleBoundingData": null,
+            "source": "Douyin: Fatboy Slim",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e9cedca2-e047-48db-9df5-41f7de83cfce.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e9cedca2-e047-48db-9df5-41f7de83cfce.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "79782580-dee4-4118-87ea-da5cc5240456",
+                    "groupUuid": "79782580-dee4-4118-87ea-da5cc5240456",
+                    "url": "https://cdn.viggle.ai/template/e9cedca2-e047-48db-9df5-41f7de83cfce.png",
+                    "uploadedUrl": "",
+                    "name": "Jackie",
+                    "startFrame": 0,
+                    "trackId": "79782580-dee4-4118-87ea-da5cc5240456"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "8059afbe-91ab-4f15-8dec-5fe56f568d9c",
+                "nickname": "cheery_quip",
+                "avatar": "https://cdn.viggle.ai/template/6159bacc-017e-425b-a369-ef3b3b67bb95.jpeg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=nRc8kLr-r0CX1VEHRVFc5kfz9mw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "16ac3161-fe24-4439-a7d4-bc1605192cc8",
+            "command": "$rage_with_travis_scott_fortnite_emote",
+            "webCommand": "Rage with Travis Scott Fortnite Emote",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Rage with Travis Scott "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6909d04b-310c-4cea-bef3-cd8ed65c36ac.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/79e31d9b-d857-419b-8b1d-ad0e11fd513e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/333cbaff-3d5a-4808-9aea-51d2477ad510.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/23aebfda-6b0b-46e9-bac2-0158934ea063.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/79e31d9b-d857-419b-8b1d-ad0e11fd513e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730167950515-f1ed725f-6fa6-4cd6-967c-13798100b385.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b1b1b789-31af-4a6e-adc8-1a71ab2b7895.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/78f6df3f-5d90-4d50-976f-58f0f718f7c6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ca388536-0ff7-41ef-9b99-261cb17b779b.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/815d252b-addf-4522-8eb3-5d1a46325460.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/2bab8b61-60e5-4dd9-b78e-c6b344af2ead.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730197559422-7b95ff70-7fd8-43c7-a12e-25f5f95d0f7a.jpg",
+            "videoDuration": 10.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709660011-465f1681-0804-40b2-a146-6789454b0737.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709659236-9bdde8a2-217c-47e5-b812-d2f19eceeb32.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6ab0b7be-707c-492e-9b71-c6325a0b2608.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6ab0b7be-707c-492e-9b71-c6325a0b2608.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e803b975-6aea-440a-b63a-4eabc6396093",
+                    "groupUuid": "e803b975-6aea-440a-b63a-4eabc6396093",
+                    "url": "https://cdn.viggle.ai/template/6ab0b7be-707c-492e-9b71-c6325a0b2608.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "e803b975-6aea-440a-b63a-4eabc6396093"
+                }
+            ],
+            "width": 1440,
+            "height": 1548,
+            "isNew": false,
+            "user": {
+                "id": "002175b8-fa7a-4bf1-8bc4-0ed8791f7b4b",
+                "nickname": "Shadow",
+                "avatar": "https://cdn.viggle.ai/template/a263e56a-ddfa-4508-8c19-24129242ab06.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=Ns-FopuTStpIgim7FnFhHsqazW8="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8b2f1f21-0150-4ec6-ab6e-c1672f445abf",
+            "command": "$fortnite_jaywalking",
+            "webCommand": "Fortnite Jaywalking",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jaywalking Fortnite Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/10d838f7-1bfe-4080-9fdc-ce29b84b0de9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/28195684-45e1-454a-bb6e-438274ab9732",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2e5d2e04-02c8-4e11-b05f-f45a67cd81ba.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0a703fc8-9374-4004-a7a4-0ea0d23ceb1b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/28195684-45e1-454a-bb6e-438274ab9732",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730167971211-dd314783-4380-4633-aa1e-498e2d5aea5e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0af6fff3-279d-4c64-96fa-5d5daed128c3.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6e705785-8ed1-4232-8eb7-9a33ea25fc61.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/450d345c-e2a3-4560-bfed-b5cf7807dfb7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6dd44638-ec05-4f30-b5f6-30795ed2ff72.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ed7f1b9a-fe79-4148-982f-28d8c36478ca.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730197602706-7a9112ff-10ac-4d16-b205-a3e93b16376f.jpg",
+            "videoDuration": 10.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709657568-436c9027-fd2f-4e31-9360-49f19a2647ab.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709656814-e3d23a28-9df4-4722-abd5-e4024c4cbdbc.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/17551fbc-e554-4bee-a609-ca38dcb42754.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/17551fbc-e554-4bee-a609-ca38dcb42754.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "fc5fbaa7-0525-4f1c-a8a1-572643030e97",
+                    "groupUuid": "fc5fbaa7-0525-4f1c-a8a1-572643030e97",
+                    "url": "https://cdn.viggle.ai/template/17551fbc-e554-4bee-a609-ca38dcb42754.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "fc5fbaa7-0525-4f1c-a8a1-572643030e97"
+                }
+            ],
+            "width": 1440,
+            "height": 1548,
+            "isNew": false,
+            "user": {
+                "id": "eb70e91a-1c21-4acd-a401-b0d808992bde",
+                "nickname": "darkwolf_xx",
+                "avatar": "https://cdn.viggle.ai/template/4ec1dcd1-83cf-4fb8-9d4a-286f8ca73ec1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=_1LrVhwhv5jEY9MbPlJyGXsrgV8="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a562c93b-3c9e-4b26-8dab-7d8b8ec1a3bc",
+            "command": "$fresh_fortnite_emote",
+            "webCommand": "Fresh Fortnite Emote",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Fresh"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Fortnite",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c60056e1-54f5-4676-81f1-a6d562a4b1aa.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9d2b5ab1-4148-4aa5-ae9c-23f3bbb2408c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/cc780691-a540-476d-b918-e25fe959e7b4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/048b2a93-36c2-4f27-a3cc-e51ccca22a96.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9d2b5ab1-4148-4aa5-ae9c-23f3bbb2408c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730167927212-a566d2fd-9beb-4553-b311-316e1949125c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c3f98d20-96d8-406c-baf2-19c00cccf251.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a350548d-a0c5-4a1d-b0a4-46b22069473e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/740872d5-093f-443e-a199-a7ccaa6e5073.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6ed0ad33-bdbd-441a-ba36-3b89a0cbe9ca.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1064e652-5879-4a8a-8e87-e877ab81015d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730197581359-54b6ef97-7bea-42f4-99a1-2cdc6e8464c6.jpg",
+            "videoDuration": 10.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709662893-dc34cf26-4f7c-44b9-8917-5e3c54ac1fcc.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709662128-2f46798d-205d-4a7c-a407-75099b986bca.webp",
+            "rleBoundingData": null,
+            "source": "Fortnite",
+            "referenceImageURL": "https://cdn.viggle.ai/template/146a61ac-bfce-4a64-bce1-883699881e6d.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/146a61ac-bfce-4a64-bce1-883699881e6d.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "6daff8ad-ad56-49f8-be63-bc68101e88f1",
+                    "groupUuid": "6daff8ad-ad56-49f8-be63-bc68101e88f1",
+                    "url": "https://cdn.viggle.ai/template/146a61ac-bfce-4a64-bce1-883699881e6d.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "6daff8ad-ad56-49f8-be63-bc68101e88f1"
+                }
+            ],
+            "width": 1440,
+            "height": 1548,
+            "isNew": false,
+            "user": {
+                "id": "f4346828-05a3-49f3-89fb-ea38e72eed2d",
+                "nickname": "Riku",
+                "avatar": "https://cdn.viggle.ai/template/39300615-c821-46ae-96f2-8de72008250a.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=rkIt7kZ-Zf544DQBidDmJb1P7Rw="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "eb1d8f82-6f1f-48c8-b6b9-b60edb2e81b6",
+            "command": "$plants_vs_zombies_disco",
+            "webCommand": "Plants Vs Zombies Disco",
+            "description": "Game disco dance",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Plants Vs Zombies Disco"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Plants Vs Zombies",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8998d738-5527-4964-881f-cae62053608e.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c13eb3d5-52b7-434f-84de-ba8e726c9672",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0f188d6f-879d-46af-b1eb-da31eb8cacea.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e7ef98bd-cd4b-4b37-9f1d-7fd5645d9aa8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c13eb3d5-52b7-434f-84de-ba8e726c9672",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733269118676-49847e7b-3b5a-47f9-a1ae-08ebc157f23e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ce9eb4e9-e4fd-4b17-aee0-b91ff1ae57ab.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/48064744-e01a-46d8-9864-a7872b8e2db0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/c9c8167c-cee9-4460-872c-16fc7f1d568e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b750fba6-4cb0-4459-9dd0-72f12a62d87d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/32511fdb-d233-442d-a647-0372f72351b9.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733269351876-4e1a9525-6dbe-45e1-bfe6-0ad9c9492fd2.jpg",
+            "videoDuration": 6.64,
+            "gifURL": "https://cdn.viggle.ai/template/1733269119912-ed162368-b40f-4caf-8600-aeafd5119c68.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733269119067-ce031e14-16eb-435c-abe9-c3cb9145ced7.webp",
+            "rleBoundingData": null,
+            "source": "Plants Vs Zombies",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1aa8cae6-24a4-49cc-bd56-84532b7cae25.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1aa8cae6-24a4-49cc-bd56-84532b7cae25.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "93bf66b4-ebf2-45ff-8c4a-dd4b6305b15d",
+                    "groupUuid": "93bf66b4-ebf2-45ff-8c4a-dd4b6305b15d",
+                    "url": "https://cdn.viggle.ai/template/1aa8cae6-24a4-49cc-bd56-84532b7cae25.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "93bf66b4-ebf2-45ff-8c4a-dd4b6305b15d"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=jrngIiolPlichJ9Mg6vL8Wwk4bo="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8887c3b-508c-4a11-bed4-a534dd51853f",
+                    "name": "Dance Buddy",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f61a8b91-b581-41ed-b65f-5f5921d607cf",
+            "command": "$fortnite_shimmer_emote",
+            "webCommand": "Fortnite Shimmer Emote",
+            "description": "Fortnite Shimmer",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Fortnite Shimmer Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "idontknow291",
+            "ttCreatorName": "idontknow291",
+            "processedMiniURL": "https://cdn.viggle.ai/template/aa3baf95-7e5d-4e4c-904d-d14aa241a630.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1d8200eb-8058-4c20-8a14-f784b49f9bff",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/623e89a1-b764-4b99-9ce6-01b4826900e0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d7229c7f-ee61-4dd9-bfc0-7f87530357d0.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1d8200eb-8058-4c20-8a14-f784b49f9bff",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728377178511-6e87a969-cd10-4425-a5cd-9924a5a6772b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/9e936c68-410d-4d8c-9272-6f3981be9db1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e5a04502-d35e-476c-b15a-d9f4d4109e29",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b58891a9-5c90-46b3-ab1e-07b5934e8d8f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4d72915e-3e93-4914-a169-7417a78a05a4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e5a04502-d35e-476c-b15a-d9f4d4109e29",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728377379767-513f761c-0ab0-45a0-8945-ee17b5dda48e.jpg",
+            "videoDuration": 30.32,
+            "gifURL": "https://cdn.viggle.ai/template/1730709350970-a9eb5016-f7a2-4f22-a58c-f2a7e1c9dc97.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709350357-eefbed21-cf28-44f4-ae52-70f24d0ac577.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: idontknow291",
+            "referenceImageURL": "https://cdn.viggle.ai/template/bdfbb283-de18-4655-b455-42a3174a6cad.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bdfbb283-de18-4655-b455-42a3174a6cad.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "aa445eb7-e4bd-4116-aa4f-c6f72051c08c",
+                    "groupUuid": "aa445eb7-e4bd-4116-aa4f-c6f72051c08c",
+                    "url": "https://cdn.viggle.ai/template/bdfbb283-de18-4655-b455-42a3174a6cad.png",
+                    "uploadedUrl": "",
+                    "name": "Alice",
+                    "startFrame": 0,
+                    "trackId": "aa445eb7-e4bd-4116-aa4f-c6f72051c08c"
+                }
+            ],
+            "width": 480,
+            "height": 662,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=Kho87wcTbpIBnImnuEApGW_21GY="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "15ad1b72-fd1a-4697-b997-7b858a51efad",
+            "command": "$temple_run_unreal_engine_5",
+            "webCommand": "Temple Run Unreal Engine 5",
+            "description": "Temple Run™ But in Unreal Engine 5",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Temple Run Unreal Engine 5"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "TeaserPlay",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0e7b7a5a-acbb-485b-9804-e0e2c78581ca.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f2481819-a5d4-4941-80fe-7053a65bb412",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/3150dafc-152d-4a9f-a821-ef8bd1c8967b.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c202c910-9224-4c07-af3e-1818699b0788.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f2481819-a5d4-4941-80fe-7053a65bb412",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733997278477-30395983-bbbd-4378-9155-ce867beb8feb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ddc7a39e-5202-448e-8c03-248f77c11d03.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b062753a-db52-4df2-bb55-62b68253b5ef.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1331c427-8ff5-40cf-aaa4-b853f5d2151e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/11ad0753-31bd-451d-9327-c8e6c82605bf.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f724bd72-d179-4d01-9c54-1fd10612a1fc.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733998801339-0e0f6a2d-33f4-4f27-b6f7-a014c094c3f9.jpg",
+            "videoDuration": 36.08,
+            "gifURL": "https://cdn.viggle.ai/template/1733997279542-210583ae-181c-472b-8107-0e1644820314.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733997278785-c5a50d20-aafc-4025-813b-6f323b02c2e9.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: TeaserPlay",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6d8c4797-8580-4d80-941f-d47e47143563.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6d8c4797-8580-4d80-941f-d47e47143563.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "7cbaa453-1899-44c7-9ffc-84b49315f26a",
+                    "groupUuid": "7cbaa453-1899-44c7-9ffc-84b49315f26a",
+                    "url": "https://cdn.viggle.ai/template/6d8c4797-8580-4d80-941f-d47e47143563.png",
+                    "uploadedUrl": "",
+                    "name": "Steve",
+                    "startFrame": 0,
+                    "trackId": "7cbaa453-1899-44c7-9ffc-84b49315f26a"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=vAFDm-tTOY6MOj7nt_f6fN4N1Qk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "170a8034-d466-47c2-ab7f-505bfcc53ca1",
+            "command": "$subway_surfers_unreal_engine_5",
+            "webCommand": "Subway Surfers Unreal Engine 5",
+            "description": "Subway Surfers But in Unreal Engine 5",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Subway Surfers Unreal Engine 5"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "TeaserPlay",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4dd95c0d-ff4a-42f1-9759-5ae6ba296772.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/363caee7-42e6-4ba2-a90d-449516f2e6b0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/55d15566-9701-45b9-8a06-c0637b369b59.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c078c880-e18f-463e-a394-630a4d51f7e3.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/363caee7-42e6-4ba2-a90d-449516f2e6b0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733997100663-60581060-d980-4bd5-8a0f-a117ca502c9c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2de9926a-a7d7-48a0-b67b-4da3158c8600.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9cb021d6-507f-4fc6-9948-67cca465b32d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ba4013dd-09af-44ea-abe4-2d6d61f80010.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4881b1ca-e1b8-4827-90c2-bd11858371a9.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/e7ec3d35-d6a9-4db9-9dc8-740ceba208d5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733998603949-802924c4-2d05-4f40-b24f-a96825b368a5.jpg",
+            "videoDuration": 19.08,
+            "gifURL": "https://cdn.viggle.ai/template/1733997101751-dfcb212e-7ba5-4c87-8746-826a1bbcb50b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733997101005-77bbb243-2270-41ab-9806-f9ba27646033.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: TeaserPlay",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f4662d31-ec24-457b-b6ad-1f69c0b7cf38.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/f4662d31-ec24-457b-b6ad-1f69c0b7cf38.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c2eee349-7be1-4ddd-be48-5630f9050b28",
+                    "groupUuid": "c2eee349-7be1-4ddd-be48-5630f9050b28",
+                    "url": "https://cdn.viggle.ai/template/f4662d31-ec24-457b-b6ad-1f69c0b7cf38.png",
+                    "uploadedUrl": "",
+                    "name": "Kris",
+                    "startFrame": 0,
+                    "trackId": "c2eee349-7be1-4ddd-be48-5630f9050b28"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "9b84d796-07f2-4ed0-89fa-075dd167311c",
+                "nickname": "TLJ",
+                "avatar": "https://cdn.viggle.ai/template/ceaf9e1e-7c15-4a19-913f-84c38ff23e85.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=vAFDm-tTOY6MOj7nt_f6fN4N1Qk="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "19bc300d-b6c5-4a98-828c-07281bd2265f",
+            "command": "$scenario_fortnite_emote",
+            "webCommand": "Scenario Fortnite Emote",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Scenario Fortnite Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b1de352f-6c68-43a8-8d78-837c84f988bd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4bc1f310-84ae-4383-a914-ead59d9cc5cb",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0a2ff209-dcb1-48c0-b8ea-0351146648d5.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/dd3b718c-8b6c-4eb0-9320-99108eeed5bd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4bc1f310-84ae-4383-a914-ead59d9cc5cb",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729252930781-bbd621bf-8d8a-47d9-981d-3c163ea8f9b4.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/be92ec04-c720-466a-b7a3-1f69db865c04.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4884d359-7761-4122-9d1f-595fa0e846a4.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4e98220f-beee-4969-ada8-7fc35fc990cf.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2f01ab85-aa81-4755-bbae-9c9801cb91a0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/60d42774-27c6-45af-b58f-3e25f397e627.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729253591952-abdec510-5abf-421c-b8af-c02e3bd1262d.jpg",
+            "videoDuration": 33.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709534517-34870c95-6812-4636-8125-8d73a1b9b619.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709533732-16999cbc-8a4e-46b8-9ebc-7ca5193b4849.webp",
+            "rleBoundingData": null,
+            "source": "User suggest",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8fe1498c-5ed4-4b6e-9232-546a048318f4.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8fe1498c-5ed4-4b6e-9232-546a048318f4.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "414721f8-91d9-4682-b028-f7e26646222c",
+                    "groupUuid": "414721f8-91d9-4682-b028-f7e26646222c",
+                    "url": "https://cdn.viggle.ai/template/8fe1498c-5ed4-4b6e-9232-546a048318f4.png",
+                    "uploadedUrl": "",
+                    "name": "Jimmy",
+                    "startFrame": 0,
+                    "trackId": "414721f8-91d9-4682-b028-f7e26646222c"
+                }
+            ],
+            "width": 1080,
+            "height": 1440,
+            "isNew": false,
+            "user": {
+                "id": "6a21c747-d679-428d-96c7-4e6a472f2dea",
+                "nickname": "dh.casef0_",
+                "avatar": "https://cdn.viggle.ai/template/0980e847-3a76-493b-b56d-2eefee46e012.jpeg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=1q75lptOkM1Y8CshqPO6QwZzm8o="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8e534c15-30cd-45c9-8076-83bbdae4b2bf",
+            "command": "$big_dawg_game",
+            "webCommand": "Big Dawg Game",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Big Dawg Game"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b8097e5c-1f4d-44a7-96c0-99fa77f54ecb.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4fdaf7c4-3e71-4359-925d-8f16a37e370e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f95481a8-a6c5-4e90-a110-8bc55959ab35.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/69315f76-5d92-4992-97d2-d1ab74a12a5c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4fdaf7c4-3e71-4359-925d-8f16a37e370e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729478960315-e03a41f6-d8d5-4cb7-beff-004cde125c95.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/9bb479ec-0dd2-49bf-9912-736606e3a921.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5b7cb68c-3e37-4c75-a11b-233862efc3bb.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b15a12b2-e2fe-44e7-88af-55b0f8d1c750.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d4ec7887-0b87-44ef-9298-e9ff9e8b4bb4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9c98e97d-6c4d-4ac2-a125-8c8896bc0e31.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729575895445-54f48afc-018a-479d-8418-52f2e5b73255.jpg",
+            "videoDuration": 14.257052,
+            "gifURL": "https://cdn.viggle.ai/template/1730709559194-278bba5d-98e4-44d4-b076-9477f6ebfe3d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709558309-195d4de2-b3a0-43b7-82fa-b75634853973.webp",
+            "rleBoundingData": null,
+            "source": "Feed",
+            "referenceImageURL": "https://cdn.viggle.ai/template/002e7501-5b07-47f7-a698-36d1e75404f3.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/002e7501-5b07-47f7-a698-36d1e75404f3.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "152922c2-aff9-4b12-90a1-a5dd41c34e5e",
+                    "groupUuid": "152922c2-aff9-4b12-90a1-a5dd41c34e5e",
+                    "url": "https://cdn.viggle.ai/template/002e7501-5b07-47f7-a698-36d1e75404f3.jpg",
+                    "uploadedUrl": "",
+                    "name": "Mike",
+                    "startFrame": 0,
+                    "trackId": "152922c2-aff9-4b12-90a1-a5dd41c34e5e"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "f0bbc74a-9a17-4dd4-a877-6a00222c4f1b",
+                "nickname": "ace.wave09",
+                "avatar": "https://cdn.viggle.ai/template/22c30625-48c0-4cc3-8594-7b334c48685f.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=KpGnnojFWfjFQHVyIDsAn_iviKw="
+            },
+            "tags": [
+                {
+                    "id": "497db5fb-ee8a-4718-ba82-b14f7c0d260d",
+                    "name": "Trending",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "be727830-4f99-4e9f-995c-45a2bb1d550c",
+            "command": "$gta_exploding_building",
+            "webCommand": "GTA Exploding Building",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "GTA Exploding Building"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/44651407-6866-4dc0-ae49-65bf61ae7636.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/395de316-585d-483f-864c-e62324ba79ee",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1ca62563-2c91-4d92-ae5d-d6d8a537b6b9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/4a90ebcd-63d1-4732-9b66-be85c75d2174.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/395de316-585d-483f-864c-e62324ba79ee",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729140761948-0205cc02-c19b-4608-8c92-3badaf7cd382.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c15cf91d-cc9c-46c8-9d62-e97e7d9f9fad.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d430e484-cb1b-4ac1-94e0-26f1d34d06fb.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5814e98c-14c6-4f7b-924b-5d7f4413eb88.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/f7d0963e-2a93-4a3f-b4e3-4e0fdb7b3ba0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/90934b45-2960-481d-86c7-84789fd91ab7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729253151060-aa233b8a-8b42-4b33-953d-e7b9201fa35d.jpg",
+            "videoDuration": 14.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709520696-8c6120a1-ea74-4d64-8f6c-bf8a7cc498c8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709519922-65b8a879-2832-45cd-807e-60adbea90ee8.webp",
+            "rleBoundingData": null,
+            "source": "feed",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f09d08e1-e915-48eb-9301-ca2e0f131ba5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/f09d08e1-e915-48eb-9301-ca2e0f131ba5.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "c790c40b-6245-4c6e-a573-8904430bc41a",
+                    "groupUuid": "c790c40b-6245-4c6e-a573-8904430bc41a",
+                    "url": "https://cdn.viggle.ai/template/f09d08e1-e915-48eb-9301-ca2e0f131ba5.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "c790c40b-6245-4c6e-a573-8904430bc41a"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=OVujiu1cHjxUXyPWZqDm-tsc3vE="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f0e7f633-36cf-441f-af97-aa5de66c80bf",
+            "command": "$dame_da_ne_yakuza",
+            "webCommand": "Dame Da Ne Yakuza",
+            "description": "Dame Da Ne Yakuza",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Dame Da Ne Yakuza"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "rockerriley7",
+            "ttCreatorName": "rockerriley7",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b5598cae-ac1e-4399-a14c-b363bd08ba09.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b4ef24fd-8648-484f-bff9-6b02d8579b74",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b434694e-0073-4d0e-baa2-90463f4b12f3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8679fd16-6064-4ab7-b05e-e493d509d8e8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b4ef24fd-8648-484f-bff9-6b02d8579b74",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728729414288-ff9a1cf3-dd94-4213-b296-dafb4a18b656.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/8f4ad2f1-e35d-478e-8478-54c21a331e49.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7654378b-cfdc-4a36-b5a8-1bca140ee361.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0ca7658b-2fd1-4cb2-8d8c-7781f3975ab9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/23d312f7-021e-43dd-a380-b323f6f7d22b.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1dfe7a2c-29ee-4acb-a92c-df8019be528d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728739794904-7a8133f9-a3bf-4be3-9c5d-ffc6c747085e.jpg",
+            "videoDuration": 6.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709472336-29135503-89a4-4424-8fed-d4d2e9071f2e.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709471609-c671bb07-9958-4c43-a2c7-4b84e6d0f04d.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: rockerriley7",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ce6c5959-4adf-447f-9b4b-5b3cd8ed55b9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ce6c5959-4adf-447f-9b4b-5b3cd8ed55b9.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "15046032-a0d0-4b16-99de-a7cff87fcde3",
+                    "groupUuid": "15046032-a0d0-4b16-99de-a7cff87fcde3",
+                    "url": "https://cdn.viggle.ai/template/ce6c5959-4adf-447f-9b4b-5b3cd8ed55b9.png",
+                    "uploadedUrl": "",
+                    "name": "Jason",
+                    "startFrame": 0,
+                    "trackId": "15046032-a0d0-4b16-99de-a7cff87fcde3"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "8059afbe-91ab-4f15-8dec-5fe56f568d9c",
+                "nickname": "cheery_quip",
+                "avatar": "https://cdn.viggle.ai/template/6159bacc-017e-425b-a369-ef3b3b67bb95.jpeg?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=nRc8kLr-r0CX1VEHRVFc5kfz9mw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0d374316-c910-4149-a591-072b4929242c",
+            "command": "$sasuke_skills",
+            "webCommand": "Sasuke Skills",
+            "description": "Naruto",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Sasuke Skills"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4c6e0fe5-4aa0-4364-8b58-927660389735.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0a01172e-a09e-4737-a91a-78fa59035138",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1140f096-11e4-4791-bb88-425397469f9c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/37e1fcad-4df6-441f-8c73-731bfb7d952a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/0a01172e-a09e-4737-a91a-78fa59035138",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727906884755-f4940d18-b2c6-417a-b65e-1378698d0a9e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/3b5067ec-6809-4bb0-ba23-7fb4ecb20848.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6bac52d4-c362-4c83-9f2b-416befb7e9cb.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/27c3a82b-2128-455e-a322-883eeb84fce2.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6bccf303-880f-44a4-92a1-eda0aebbaf50.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/3406c35f-3fdc-4029-b4ba-f4b34edc9510.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728014894270-67261215-7ae2-4849-ad03-573946374ca1.jpg",
+            "videoDuration": 6.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730709239391-9635eede-126b-4095-b728-4d6a8204d34c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709238693-09708d09-b0b2-4f65-a3d5-12066b1c1c2d.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5f1b9258-9bff-4e95-8f30-e6c4bc196698.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5f1b9258-9bff-4e95-8f30-e6c4bc196698.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "49e9923d-45c1-450b-b4df-203c654dd029",
+                    "groupUuid": "49e9923d-45c1-450b-b4df-203c654dd029",
+                    "url": "https://cdn.viggle.ai/template/5f1b9258-9bff-4e95-8f30-e6c4bc196698.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "49e9923d-45c1-450b-b4df-203c654dd029"
+                }
+            ],
+            "width": 1920,
+            "height": 886,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=LSun4VL-1v-_yDiKVGYT9Ae3DW0="
+            },
+            "tags": [
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "60aef14f-d1ff-4591-b45f-236861e9651f",
+            "command": "$just_dance_exes_by_tate_mcrae",
+            "webCommand": "Just Dance Exes by Tate Mcrae",
+            "description": "Exes by Tate Mcrae is coming to Just Dance 2025 Edition, available October 15th 2024! #tatemcrae #justdance #exes",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Just Dance Exes by Tate Mcrae"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "justdance",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c2b69af1-3872-42a0-b40d-95794f919685.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9349aa44-ec66-4a16-b58c-4f6a4b649c77",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9c39db76-0237-4f4c-b664-3c0692b5c2ab.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/20ac4907-a768-43d7-9e3b-bd574b41715d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9349aa44-ec66-4a16-b58c-4f6a4b649c77",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727434308931-2ef6f0a8-7714-4a82-803c-192e2a163a6d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e16aade5-7ba7-4d18-8ee2-ad06b2202176.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/14fe2e76-aed5-401c-ae6a-4a5a1b72f480.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8ac7f6f4-a024-4a5a-9feb-3e279abe6d1f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9400169c-5d53-4b3d-83be-5eec16f26948.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/6d6d1630-a1dc-42a6-97da-4515d2c50006.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727436735824-83b7286e-37f0-4f15-b588-a6098c770eaa.jpg",
+            "videoDuration": 24.45,
+            "gifURL": "https://cdn.viggle.ai/template/1730709137735-6c0e00f7-58bf-4b28-87eb-f1ba5bdb3984.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709137010-ae9f2bb6-4b13-4ff0-aa28-61a68ae75ee5.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: justdance",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2ca07539-1165-435a-bde6-e98348b38373.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/60aef14f-d1ff-4591-b45f-236861e9651f-small.jpg",
+            "referenceImageURLs": null,
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=OVujiu1cHjxUXyPWZqDm-tsc3vE="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0220e64a-4a24-4e43-ad1e-0087c56c67a4",
+            "command": "$pubg_victory_dance_roll",
+            "webCommand": "PUBG Victory Dance Roll",
+            "description": "PUBG victory dance roll",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "PUBG Victory Dance Roll"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "brayan.clon",
+            "ttCreatorName": "brayan.clon",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c7da57f0-3640-461f-bf50-745595a18b3d",
+            "processedURL": "https://cdn.viggle.ai/template/c7da57f0-3640-461f-bf50-745595a18b3d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c7da57f0-3640-461f-bf50-745595a18b3d",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c7da57f0-3640-461f-bf50-745595a18b3d",
+            "processedHdURL": "https://cdn.viggle.ai/template/c7da57f0-3640-461f-bf50-745595a18b3d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726826268271-d9132220-8e4d-4503-b573-582d5eaffde2.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/30919f22-c778-4d6b-a633-e36cd4d8b3a6.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/78aabebe-b2e1-4ccb-8fba-cfa81c28d726.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/3190490c-658a-4fdc-b619-71d07bb18ce9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/dc8809fd-486a-452e-8350-1d79c0ece0d3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/528d5208-fd50-4ecf-a705-964a9d09df40.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726828227008-b6ae33f9-819b-4977-a3ce-ae5d9f0f3efc.jpg",
+            "videoDuration": 44.001905,
+            "gifURL": "https://cdn.viggle.ai/template/1730709007567-fc9086f1-0074-49a8-accf-870080af7a29.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709006954-316c1159-37e5-4acd-92cb-0c9c7701289f.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: brayan.clon",
+            "referenceImageURL": "https://cdn.viggle.ai/template/20a83c86-13a7-4243-95ba-546dd7ed5d3d.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/39dacdc7-ab70-4ae2-b1c5-27888ab6ca42.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "dfd7209b-a8ec-4834-b85b-91f83d67ff66",
+                "nickname": "EllaWave",
+                "avatar": "https://cdn.viggle.ai/template/3cdd1f4f-488a-4e34-b122-19a918c9ccc6.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=sj0pfy8nda7qCqSvLK258e2HyUA="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "f5130148-d81d-4608-bb0b-cb8e1b1a7324",
+            "command": "$feel_it_d4vd_fortnite_emote",
+            "webCommand": "Feel It D4vd Fortnite Emote",
+            "description": "Feel it d4vd Fortnite Emote",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Feel It D4vd Fortnite Emote"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "un_coqui",
+            "ttCreatorName": "un_coqui",
+            "processedMiniURL": "https://cdn.viggle.ai/template/b1421789-448e-4c4e-83f7-926bae457a6a",
+            "processedURL": "https://cdn.viggle.ai/template/b1421789-448e-4c4e-83f7-926bae457a6a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b1421789-448e-4c4e-83f7-926bae457a6a",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b1421789-448e-4c4e-83f7-926bae457a6a",
+            "processedHdURL": "https://cdn.viggle.ai/template/b1421789-448e-4c4e-83f7-926bae457a6a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1726726777076-52654049-b785-454e-9664-efaf09f70978.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/14b40d15-3fae-4d63-9896-63c590879b07.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4d490633-0ee3-4851-a329-91c26eafd487.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/834b04e3-fc1e-423e-87ff-8893e475d81f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/08aac9c1-e730-451c-949b-025f63d0a942.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/bb723d85-12e0-483d-95c1-3720e4f1019f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1726742321163-a914d5b4-3d91-4596-8bd2-49676a09e948.jpg",
+            "videoDuration": 16.973787,
+            "gifURL": "https://cdn.viggle.ai/template/1730708982522-a894bb06-e52a-45c6-bc92-e9755d25542b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730708981960-2163ba01-b51f-4829-a576-5eb39160d938.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Discord User: un_coqui",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8ed2e586-ce05-48a4-86f3-a7b0ddbea1a1.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4c9fda2d-e438-4999-a47f-68a737dd3afa.jpg",
+            "referenceImageURLs": null,
+            "width": 480,
+            "height": 640,
+            "isNew": false,
+            "user": {
+                "id": "e780a293-5776-4c9c-926b-867729700a58",
+                "nickname": "ironhawk.1",
+                "avatar": "https://cdn.viggle.ai/template/bd69d06d-3eb7-4347-b155-af90f839f30f.png?Expires=1735188460\u0026KeyName=vigglecloudcdn2\u0026Signature=5DqKn5DjpBn5W5YMeFR44cFPVXo="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "b39a781b-d04d-41c2-b845-3b16da317e9d",
+                    "name": "Games",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 124
+}

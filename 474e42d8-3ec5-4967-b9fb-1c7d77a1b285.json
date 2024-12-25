@@ -1,0 +1,3166 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "b600e733-d2a9-4be7-bacb-282b6bdda74d",
+            "command": "$blender_animation_kungfu",
+            "webCommand": "Blender Animation Kungfu",
+            "description": "Capoeira Animation【Blender】",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Blender Animation Kungfu"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "AsaToshi_2nd",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bc96ab34-819f-4c22-8e48-a2f337796352.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ee188032-313e-4694-a164-c02fcae240fe",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/71635460-24e0-4a69-955d-9dc44a2869fb.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1cbc9cc0-b729-463b-8317-8db06623891c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ee188032-313e-4694-a164-c02fcae240fe",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732011766927-d02f975f-91ba-4601-9b7b-2a90096fa163.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/37ecb547-a548-4da5-8e4c-1d2475794766.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5de2fd82-6a48-4d6d-b827-95d73c3bcf0f.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/96c08047-72b1-4d7f-887f-b3b5c0d9c309.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ab28d637-5af3-490d-934d-63f0e8ab63ac.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4e2e3c08-e7ba-40c2-8068-da06d028fd75.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732015359193-7fb17d25-3f32-4204-b6b6-977943012723.jpg",
+            "videoDuration": 11.08,
+            "gifURL": "https://cdn.viggle.ai/template/1732011767622-582efa04-6745-47c7-98cc-660b91763772.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732011767203-014e1bcd-8f11-4ab2-9b40-c3a3718b7995.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: AsaToshi_2nd",
+            "referenceImageURL": "https://cdn.viggle.ai/template/bb62d36c-9480-42b1-af0e-ac36fcd816ae.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bb62d36c-9480-42b1-af0e-ac36fcd816ae.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "df56ff3b-7c2e-491e-9ab1-50ffa425f295",
+                    "groupUuid": "df56ff3b-7c2e-491e-9ab1-50ffa425f295",
+                    "url": "https://cdn.viggle.ai/template/bb62d36c-9480-42b1-af0e-ac36fcd816ae.png",
+                    "uploadedUrl": "",
+                    "name": "Betty",
+                    "startFrame": 0,
+                    "trackId": "df56ff3b-7c2e-491e-9ab1-50ffa425f295"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "a3f640d1-92d7-48dc-acd4-18ecd2bd4c00",
+                "nickname": "WajTractor",
+                "avatar": "https://cdn.viggle.ai/avatar/50c69185-64b9-4ac4-852c-c20645f86fc7.jpg?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=lZzfxvexD79JkmbUtjKQjeGv2VE="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4a01cce3-ea37-41a2-86b2-ef356591e123",
+            "command": "$taekwondo_animation",
+            "webCommand": "Taekwondo Animation",
+            "description": "Taekwondo Animation",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Taekwondo Animation "
+                },
+                {
+                    "type": 1,
+                    "value": "#Taekwondo"
+                },
+                {
+                    "type": 0,
+                    "value": " "
+                },
+                {
+                    "type": 1,
+                    "value": "#kungfu"
+                },
+                {
+                    "type": 0,
+                    "value": " "
+                },
+                {
+                    "type": 1,
+                    "value": "#sports"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "AsaToshi_2nd",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d122d9b0-7a97-400a-943a-e615d0cf5aeb.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a9868ed1-c5e6-4bb9-9b3d-9d61474b108b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bd2595e0-0eb9-45f2-8e86-5e83e784d97a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3d42f649-7d7f-40af-9d1f-94fefccdafae.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/a9868ed1-c5e6-4bb9-9b3d-9d61474b108b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1731490722132-7d80a85c-f633-4d9c-bd9e-9615f004ebb0.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/33a18b40-6705-4d7b-8660-a89f10c53fd6.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/3ce72f59-9189-487b-8be9-b90d4a30010c.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/703b7776-cda7-4b53-8752-ab52fc71a7d3.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8012f926-c6d5-4700-bff2-1051f33e8f59.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a3c26599-af03-43c2-9546-c8d0201cc00f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1731501196773-69efbac9-2718-4a5f-9c05-72330f0aa63a.jpg",
+            "videoDuration": 6.56,
+            "gifURL": "https://cdn.viggle.ai/template/1731490722862-cf15fe67-0a87-4432-b9b0-6824462df6a8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1731490722399-8a709537-f541-48cb-9554-fb82d7b6f814.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: AsaToshi_2nd",
+            "referenceImageURL": "https://cdn.viggle.ai/template/abbbd980-429d-41f5-8bbf-5bfd73f2d846.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/abbbd980-429d-41f5-8bbf-5bfd73f2d846.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "675537b7-a2a7-4d46-8a64-5835287aded0",
+                    "groupUuid": "675537b7-a2a7-4d46-8a64-5835287aded0",
+                    "url": "https://cdn.viggle.ai/template/abbbd980-429d-41f5-8bbf-5bfd73f2d846.png",
+                    "uploadedUrl": "",
+                    "name": "Dora",
+                    "startFrame": 0,
+                    "trackId": "675537b7-a2a7-4d46-8a64-5835287aded0"
+                }
+            ],
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "c4677b45-cf84-4bba-bc33-1568247de668",
+                "nickname": "loveisreal_azu2007",
+                "avatar": "https://cdn.viggle.ai/template/fdb22562-db8b-484c-9696-01339106bdd1.jpg?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=67f0X74xeyXM2uinoGFO7eo8PeA="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "31b0ba9f-c9b2-44d2-9290-61e0d18b0cb3",
+            "command": "$head_spinnin",
+            "webCommand": "Head Spinnin",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Head Spinnin"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f34f7e6a-ba09-4866-b075-96f2fd0086a9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/6c6ffcb4-4f59-4ebb-94f6-67f35467c61d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/d5ef2c1d-d32a-422f-87cf-52fd90378a71.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/06dd091f-6cf8-48c9-824e-b7133891d5b5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/6c6ffcb4-4f59-4ebb-94f6-67f35467c61d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729658709505-801b1367-e606-4d32-a003-e6f0bfc08b7c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/8c7d41f5-24c5-4ac4-9a24-51ea8b20eb37.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/5b9cf8bb-02d7-4a5f-9c3f-cc0a31bc5697.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/81b2f68d-24df-43a1-b02b-4cead601a94b.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2705e5b6-6ec3-43f6-9168-75eda86fbf60.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/571ef75e-40cd-46eb-85a7-5d4c6dd3ca71.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729676057473-b7ae357c-de24-40d1-9070-ab7d76235035.jpg",
+            "videoDuration": 10.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709608202-23d3617b-87d5-4a51-a4a7-6a831bc492c2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709606878-d7d2ee86-4eb8-4f03-9cee-c92b9a563a01.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/9ed4ea82-b777-4ea6-b219-7efd794561bc.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9ed4ea82-b777-4ea6-b219-7efd794561bc.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "abaaa219-f2a6-4df5-903d-57c35580d3e9",
+                    "groupUuid": "abaaa219-f2a6-4df5-903d-57c35580d3e9",
+                    "url": "https://cdn.viggle.ai/template/9ed4ea82-b777-4ea6-b219-7efd794561bc.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "abaaa219-f2a6-4df5-903d-57c35580d3e9"
+                }
+            ],
+            "width": 1440,
+            "height": 1800,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=nNFaTYjJP2dvO9qvfBU71060sG8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "b2ad89d9-ca9c-4b29-9be1-8bdb68650622",
+            "command": "$acrobatics_juggling_bottles",
+            "webCommand": "Acrobatics Juggling Bottles",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Acrobatics Juggling Bottles"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Nothing Special",
+            "processedMiniURL": "https://cdn.viggle.ai/template/a4424aa0-8b10-460c-b63a-e00e589a68cb.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/15ee5c53-f0ef-4b43-ba7a-76df2ec67ba4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1492464d-97a6-4fff-8e7f-49a2d8b8f3cf.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/a0bd3ed7-d4da-404d-bcae-a126db54c693.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/15ee5c53-f0ef-4b43-ba7a-76df2ec67ba4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1733306183397-5deff173-6f00-4e01-90c9-4654beeddbf5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/72d41d75-770a-492b-96cb-e1e9e3a062c9.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/04201eb5-ac03-4983-a3e1-c7e327ca20e9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/61b7abf4-aa15-48a6-af9f-59d87425a331.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d738379a-9e42-4214-8192-fb9107ac4996.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5a86157d-9214-4337-802d-9c17dfaf2ca0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1733972779324-14b590b3-5322-4e3c-9f44-36335bffab54.jpg",
+            "videoDuration": 45.76,
+            "gifURL": "https://cdn.viggle.ai/template/1733306184179-e068f672-231c-441d-a411-015b5edd9246.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1733306183707-ed1edeb0-600f-4926-9ca9-63c6685d23c5.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Viggle User: Nothing Special",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3bf47528-6a35-4205-bafa-7ab11744d097.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3bf47528-6a35-4205-bafa-7ab11744d097.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "fb77553b-f97d-4ff4-acb0-1033a5dd3bc7",
+                    "groupUuid": "fb77553b-f97d-4ff4-acb0-1033a5dd3bc7",
+                    "url": "https://cdn.viggle.ai/template/3bf47528-6a35-4205-bafa-7ab11744d097.png",
+                    "uploadedUrl": "",
+                    "name": "Steve",
+                    "startFrame": 0,
+                    "trackId": "fb77553b-f97d-4ff4-acb0-1033a5dd3bc7"
+                }
+            ],
+            "width": 640,
+            "height": 360,
+            "isNew": false,
+            "user": {
+                "id": "2093e8cf-6996-4145-aea2-9cd8ac7c5e90",
+                "nickname": "Kara Mayii",
+                "avatar": "https://cdn.viggle.ai/template/ed47cbe3-6b81-4308-9a6a-76fd7aa0b4ab.jpg?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=n25Tu_viTOaMOXmFXLNOH7i6faQ="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0c347ac4-4fb9-48c2-8624-296736f82b14",
+            "command": "$lets_gooo",
+            "webCommand": "Lets Gooo",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Lets Gooo"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/13eee5c8-080f-480c-a7c2-54e2882173fb.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/38a0cf33-6895-41db-9450-7c64757d4532",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a00aea6f-c44c-4564-8b76-4669df8e8161.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e073b656-bdde-4382-a6ff-6e8943bdb7eb.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/38a0cf33-6895-41db-9450-7c64757d4532",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254106220-b2e7fbce-fe06-4d10-9f2c-6a723b066915.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/602d95ef-826a-4e89-97c8-4697f24e9102.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/af3b9047-7aeb-4d99-b95d-3e87dcdacc54.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/296f692e-206e-49bb-a2f4-5fb2866956ee.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/08ded8f3-f2f0-44ee-a9cb-b511ff512e77.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/647ab5af-892b-42e2-842b-bd848e2e4047.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396601547-bc2ddee7-42b2-4bea-ae2d-da58c8cc90d8.jpg",
+            "videoDuration": 3.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730709340212-57b275fc-9edc-4a89-a80e-5a545675b504.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709339609-8c326ae7-21a6-4060-9373-af3019bd6ef7.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0d595063-03a6-4c0f-8f9f-cbf3361c89fc.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/0d595063-03a6-4c0f-8f9f-cbf3361c89fc.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "4f28c593-d0be-4957-81c1-3ecb5013a6a5",
+                    "groupUuid": "4f28c593-d0be-4957-81c1-3ecb5013a6a5",
+                    "url": "https://cdn.viggle.ai/template/0d595063-03a6-4c0f-8f9f-cbf3361c89fc.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "4f28c593-d0be-4957-81c1-3ecb5013a6a5"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "c48a85ba-c291-48a8-8f52-671a2677dc12",
+            "command": "$yay",
+            "webCommand": "Yay",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yay"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/78ec1d6e-a04f-4d16-9c58-ffc412f4f5be.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5045c7c1-4f57-4548-9230-7d106288ee63",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/fbda9ba3-851c-4303-8676-3d3f048bf5a0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ee37c2b7-c223-4609-bbfe-dbc60be2d452.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5045c7c1-4f57-4548-9230-7d106288ee63",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254138612-3ee2559d-2b6d-4510-bf19-524dddbb1f8f.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4a19eaa7-7f48-4171-b938-a084984213fc.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/505ec89a-13cc-41d8-b1e6-1fca7abb5415.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/c54cd8ef-8be7-462f-a222-e745c18d56e1.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4e156c09-06b4-4c72-8321-edb8c23c578c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d1b21598-23e4-4d5d-8780-0e527d59e06b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396586433-310ab259-2321-4829-8e08-42aae05af813.jpg",
+            "videoDuration": 1.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709348937-bc100ed6-6d99-470c-a94d-4d0c9a3a709a.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709348428-854b06ea-e41b-4851-b375-1bb6523c5b83.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2a04b257-d3c8-4d91-a98d-04247c693650.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2a04b257-d3c8-4d91-a98d-04247c693650.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "45cd6ef2-0d8a-47a6-aaf4-55bfe781b242",
+                    "groupUuid": "45cd6ef2-0d8a-47a6-aaf4-55bfe781b242",
+                    "url": "https://cdn.viggle.ai/template/2a04b257-d3c8-4d91-a98d-04247c693650.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "45cd6ef2-0d8a-47a6-aaf4-55bfe781b242"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0d6f0d88-d977-41bb-9458-3aa5afccbefe",
+            "command": "$walk_up_",
+            "webCommand": "Walk Up ",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walk Up "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/10a94929-9fff-4434-b57c-8eaf94359a7e.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/83944d30-6012-4a30-be62-a30f268152fc",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4e541aaf-59cc-4f28-b55e-0501011772aa.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1115a6c0-1eaa-406d-a3ff-73caae57cf90.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/83944d30-6012-4a30-be62-a30f268152fc",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253892210-d7ff8be9-b93d-4bbb-b6db-c47528daa4af.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/af42dba8-ac74-4e41-b4fd-b423e8a6ce0e.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b014b901-c706-425a-849e-b1e885d5f4d7.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e5314a0e-2f0c-40a2-8545-a838e4ba3e4a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/de8a112a-63d4-46d1-b4e4-9a3eb36d46b7.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/729da1df-2a60-4dac-85e4-e01ee4075881.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396501124-4aef190d-c9b2-4768-bbfb-d50e115cfdcf.jpg",
+            "videoDuration": 2.48,
+            "gifURL": "https://cdn.viggle.ai/template/1730709291767-5e1854c3-23e0-43a4-9803-c1d3b8a1e4ae.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709291145-ebb5ea11-ea39-44b2-9008-0d666ee12a1b.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/53a96d50-d643-42b5-abfe-4b2aa00d0e7c.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/53a96d50-d643-42b5-abfe-4b2aa00d0e7c.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e512f867-78fd-493e-b0eb-807b89dfc766",
+                    "groupUuid": "e512f867-78fd-493e-b0eb-807b89dfc766",
+                    "url": "https://cdn.viggle.ai/template/53a96d50-d643-42b5-abfe-4b2aa00d0e7c.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "e512f867-78fd-493e-b0eb-807b89dfc766"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "b827600e-69e7-4c60-8219-c9951898d2a4",
+            "command": "$squat_2",
+            "webCommand": "Squat 2",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Squat 2"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bf772dd2-b55c-48d8-91d1-921586a7ed52.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2e8d4a7f-15b5-461e-bd92-ba73a7952641",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/38acdf0c-ef93-4190-b6fd-e6fc960a17fe.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/38934ab4-98a6-4438-93da-28196c8d51cf.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2e8d4a7f-15b5-461e-bd92-ba73a7952641",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254067051-6970f552-bf74-44ee-9da6-aa7e1b3f2cb9.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/69925d79-c0ad-49fe-b177-2eb0beb9e229.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a395aec9-536d-4b95-8e86-e2cf2c189b76.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e37b005a-08ac-4f83-836d-b9ad4ac01781.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8f37d5e2-c805-4b52-a934-681b8e386a11.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/611c40a1-e28a-451d-adfa-a97e8b8a6b9a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396557746-9a98785f-f12f-4acf-89d1-31335ea147ce.jpg",
+            "videoDuration": 1.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709333899-b24fbb4a-bb09-4685-8b83-2960141e87ef.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709333307-e42efdc5-48ac-4f2f-a75e-4445ea16dc54.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/7a9fef1f-df7f-4f11-8e9b-c54700f33ad2.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/7a9fef1f-df7f-4f11-8e9b-c54700f33ad2.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9781d5ed-0cfb-401e-9b71-6c9c7efdba36",
+                    "groupUuid": "9781d5ed-0cfb-401e-9b71-6c9c7efdba36",
+                    "url": "https://cdn.viggle.ai/template/7a9fef1f-df7f-4f11-8e9b-c54700f33ad2.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "9781d5ed-0cfb-401e-9b71-6c9c7efdba36"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "63cb357c-2df0-4f79-b943-e1242c5df4fe",
+            "command": "$stop_it",
+            "webCommand": "Stop It",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Stop It"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e40ce703-ce98-40bc-b94e-51929b38552c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4dc93b4c-db0c-486e-b44b-b9b8bcb8860b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a3381497-5880-4776-8232-0bec31864823.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/514a7e0d-b415-4b20-bf2e-e534a06e31bc.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4dc93b4c-db0c-486e-b44b-b9b8bcb8860b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253962165-6f8767f2-c864-4976-be57-73b3327745de.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1a4de3db-a3fc-49fb-9f0a-d8641b22e381.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/0a7f4889-46d3-4494-9672-0e38f3dd3b5a.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6c6b1679-8537-4d69-9365-c00587f0c32c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/fea1cd50-61b5-4bba-811e-9fd0d7376073.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/0a7f4889-46d3-4494-9672-0e38f3dd3b5a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395951902-e417c3f3-c4df-4557-a930-767b90e33d8b.jpg",
+            "videoDuration": 1.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730709312470-171fa60e-0b21-4c52-ba50-50c7be1f56d8.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709311961-30af369e-ca9e-4125-8a5d-9d66a572fc67.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/c97e7ae0-aac9-4a97-a875-ad9b682bde53.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/c97e7ae0-aac9-4a97-a875-ad9b682bde53.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "8b7a7443-ea8c-4ace-b2e3-fd898502ca74",
+                    "groupUuid": "8b7a7443-ea8c-4ace-b2e3-fd898502ca74",
+                    "url": "https://cdn.viggle.ai/template/c97e7ae0-aac9-4a97-a875-ad9b682bde53.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "8b7a7443-ea8c-4ace-b2e3-fd898502ca74"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3b182231-6bbe-4800-bdfa-6b41bdf66b3e",
+            "command": "$stand_up",
+            "webCommand": "Stand Up",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Stand Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/69ed77c0-d31c-44a2-9cf7-f3a161e694df.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a021d313-d86e-461a-931f-94120702d0a9",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/aa45863c-7235-4106-af62-3ac43f22d8ca.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b025b7ea-367d-45f1-8a50-7370ec39ee27.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/a021d313-d86e-461a-931f-94120702d0a9",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253448609-1c24bc46-4168-4044-9a12-b7f20fa1a0f2.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/cfd8e6a8-007f-4648-84d9-0904a5fc1a27.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/01a190d7-e7d9-40cc-939b-9766079e2e5b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b06b9317-2488-430b-91e0-34a9d13c7972.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/957c0f09-3588-4834-a6a9-e13787277ce4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/552eadfc-0155-4123-a37a-6e28c33da518.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396510138-d2bb2e73-8017-4d0e-8745-486f4f4f1765.jpg",
+            "videoDuration": 1.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730709285052-b9e5c43c-ddc5-4e4f-8d91-dffd8fabbe04.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709284022-3e19fc7c-b324-4c90-8739-c11faf71fd1f.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/bed44427-1079-4578-a3f0-410b0bd4d52a.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bed44427-1079-4578-a3f0-410b0bd4d52a.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "5aa1b5b1-467c-434f-87c8-fd1c03bc42d3",
+                    "groupUuid": "5aa1b5b1-467c-434f-87c8-fd1c03bc42d3",
+                    "url": "https://cdn.viggle.ai/template/bed44427-1079-4578-a3f0-410b0bd4d52a.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "5aa1b5b1-467c-434f-87c8-fd1c03bc42d3"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d7c77300-cae9-4a14-a0e4-ce324726d688",
+            "command": "$shoulder_fixing",
+            "webCommand": "Shoulder Fixing",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Shoulder Fixing"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/cd47312c-5878-449b-8c4c-9cc290ee4376.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9baf4b77-f676-4d2a-986b-b48a5c476e00",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2bf37f22-40b4-48c1-9c5a-d1327cf2055c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c943abf5-6853-4366-bb60-c650d273b589.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/9baf4b77-f676-4d2a-986b-b48a5c476e00",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253452277-d84fa8bb-3dc8-4459-a8c3-ee3bfe193bcc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/d242305e-584a-42c2-8599-258e3fb5865c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/205e709e-0c86-4155-afeb-1250a70bbcbd.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8b3f96f9-7f6b-4f9d-b2bb-6aa71ab8e408.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3c9166eb-8575-4c96-a417-9360a679e4ed.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9fcf7011-7417-4e3e-a6f0-303e01f83d3c.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396491584-d52aeac1-4d39-4e3d-b8a9-c0088f98faab.jpg",
+            "videoDuration": 5.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709280092-ba5a2379-8f1d-4968-9d6d-9eace000875f.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709279175-a64fc629-8a54-4578-9c45-33b8943759e7.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3893fc51-758a-43bd-b655-b7bb16516691.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3893fc51-758a-43bd-b655-b7bb16516691.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "72d43759-811c-4217-b10d-859aed8cbe0c",
+                    "groupUuid": "72d43759-811c-4217-b10d-859aed8cbe0c",
+                    "url": "https://cdn.viggle.ai/template/3893fc51-758a-43bd-b655-b7bb16516691.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "72d43759-811c-4217-b10d-859aed8cbe0c"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "09ddbada-31ac-45cc-bcc9-24452364f93c",
+            "command": "$alright",
+            "webCommand": "Alright",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Alright"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d2de2a2c-0236-453c-92bd-b8bf0f4813c6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/009239c1-fa7f-43bd-b0b4-6e15b4e7fc80",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/63032bc3-f503-444c-bfc9-28237569adac.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9edd562e-c379-4a9e-bde2-74bdddc94414.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/009239c1-fa7f-43bd-b0b4-6e15b4e7fc80",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253905459-bbf0fd6a-e37a-45cb-afb1-30877cefcd2c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/fa3f3be7-7570-468f-85e6-40c9a3e69ac8.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/360fb7db-a023-4720-9be3-428bbe3b1547.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/dcc5a611-68fe-48c2-9766-636e7d00e1f2.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d1b1452c-b661-4396-aaea-b26a787ef9d4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/75b822c4-41a8-40ad-90a7-4954f873a4f5.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395838946-86cd9548-a61f-4412-86f9-dafbe9d867eb.jpg",
+            "videoDuration": 2.92,
+            "gifURL": "https://cdn.viggle.ai/template/1730709304130-70069f3e-6b10-4e90-8845-60d6c8189204.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709303537-e0eb3e3b-e327-44df-a368-56bf61c54004.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/076f2051-0704-4c32-aefb-d542623d8198.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/076f2051-0704-4c32-aefb-d542623d8198.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "2afcdcdd-b514-4049-8bfb-d0f0fee11dd8",
+                    "groupUuid": "2afcdcdd-b514-4049-8bfb-d0f0fee11dd8",
+                    "url": "https://cdn.viggle.ai/template/076f2051-0704-4c32-aefb-d542623d8198.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "2afcdcdd-b514-4049-8bfb-d0f0fee11dd8"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0a778d07-b0af-42a2-9fc3-1411ba627e65",
+            "command": "$walk_up",
+            "webCommand": "Walk Up",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walk Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c8ed333b-c3c2-41b6-b5fd-075521cad983.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/51c05717-f9f3-48ee-bcb9-41b0421b4e04",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/856313aa-5b06-42cb-a5bb-5e68fff1e65e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5d47a3b9-be6a-4891-b88f-4ece9e6a55f9.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/51c05717-f9f3-48ee-bcb9-41b0421b4e04",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253873573-ec774541-6788-41d5-b74f-b28cb372b7e0.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/86d53129-ffe5-4fa2-a3e5-01503d1a9c56.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/f278cd8e-33e3-4501-b745-f86169e333c8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6cc12a31-ef37-4ec9-8367-5b9faafb8fb6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c901dc28-bf6c-485f-997c-2d1ff02af552.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/eba8d1f3-0ac7-4b86-a445-5f9e227f791a.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395818858-90dec8db-3238-4614-8bab-6fa36481399b.jpg",
+            "videoDuration": 2.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709301751-b250e497-bc2b-4e07-bc45-8dcbc8baa9b6.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709300975-5e83a721-6fb1-4836-ac03-41f8152fbc12.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/216d546b-ddcb-46f5-b7bc-c771aa0b9b5a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/216d546b-ddcb-46f5-b7bc-c771aa0b9b5a.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9a0fb993-687d-4697-8906-efcb2feafd99",
+                    "groupUuid": "9a0fb993-687d-4697-8906-efcb2feafd99",
+                    "url": "https://cdn.viggle.ai/template/216d546b-ddcb-46f5-b7bc-c771aa0b9b5a.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "9a0fb993-687d-4697-8906-efcb2feafd99"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0cfcb02f-589d-435b-8780-853dfeff801a",
+            "command": "$laughing_hard",
+            "webCommand": "Laughing Hard",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Laughing Hard"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/881bccc2-9e92-4203-8e94-1f774783fbb8.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3b9bb8b2-9cc2-4b46-b97c-107c33c29e2d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/302d547b-6b5a-4296-ae80-2794e6f208e3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/122d6f56-041e-4030-a673-84ac35eb19c3.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3b9bb8b2-9cc2-4b46-b97c-107c33c29e2d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254148178-0e3bb58b-bbb8-44a6-b7c4-f00309471544.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/86cde179-9218-47ae-9b9d-47280e311335.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/aaef8455-94b1-44f3-877a-28632fef0d83.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4fd57230-4056-4227-a7e9-97ee52de0088.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/12164d60-5f18-4bf9-a2a7-03b846e639b3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/040c6675-2cf0-4b88-8814-d96b1cdc23a1.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396362711-a1266742-9c40-4ccb-b1c7-ca43f961ae3e.jpg",
+            "videoDuration": 5.84,
+            "gifURL": "https://cdn.viggle.ai/template/1730709346907-940d1eff-8ff7-49a5-9b80-7c649e30f9dd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709346255-3b60107d-2fd0-4dd6-a0f7-651f3fbf925f.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/43d3c3b3-a145-48f1-9c17-7ff586c0ad52.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/43d3c3b3-a145-48f1-9c17-7ff586c0ad52.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "6d7c079d-af78-4b30-b683-83a0e555724d",
+                    "groupUuid": "6d7c079d-af78-4b30-b683-83a0e555724d",
+                    "url": "https://cdn.viggle.ai/template/43d3c3b3-a145-48f1-9c17-7ff586c0ad52.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "6d7c079d-af78-4b30-b683-83a0e555724d"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "11246897-c763-4cfd-96dd-f49d8efd2800",
+            "command": "$idle_8",
+            "webCommand": "Idle 8",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 8"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/35497db0-d9be-4568-a0c2-95ed317e79cd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1644d3bf-d2d5-4b58-9c09-b6aebdd288fc",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/52099cde-1254-413c-9700-c93f830db618.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/2132d91b-ac64-4eeb-ab06-a374dcfcd418.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1644d3bf-d2d5-4b58-9c09-b6aebdd288fc",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253843140-8624794c-fbb0-40ff-8544-3d7b9921874d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/19a8d8f2-b58e-4f28-8957-0512141cd89b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/867fac13-7e7c-4789-9dcb-ef2c9d856ba8.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/58b28a82-f28f-4e41-99f1-b890f2d4d818.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/b76dcdf4-755d-44e6-a79a-fe5197b28ca7.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9634e871-0bcf-4593-995c-f68daf36cb16.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395754017-9d90520e-2c19-42df-8f3a-b0065d4cd72e.jpg",
+            "videoDuration": 3.72,
+            "gifURL": "https://cdn.viggle.ai/template/1730709294389-3493f290-2074-4691-883e-ff7ad1f93765.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709293587-2534e0c9-9797-4624-9752-c0451ca098b7.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d5d6ab0f-0fce-48b2-8210-39eea1cd85f6.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d5d6ab0f-0fce-48b2-8210-39eea1cd85f6.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "21d41fad-1397-4f00-a95c-71e35e5ebe63",
+                    "groupUuid": "21d41fad-1397-4f00-a95c-71e35e5ebe63",
+                    "url": "https://cdn.viggle.ai/template/d5d6ab0f-0fce-48b2-8210-39eea1cd85f6.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "21d41fad-1397-4f00-a95c-71e35e5ebe63"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1ec7f360-e4e5-4d32-ba28-e5fa73026c3d",
+            "command": "$hello_(girl)",
+            "webCommand": "Hello (Girl)",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Hello (Girl)"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d834e192-413d-43a6-ab45-6658733a9a17.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2d84f87b-6b3f-428b-b3d6-654e7ed26558",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8d14135e-e7ed-48f0-b040-89ec4a9a23d4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/25d08c3a-a7d5-4979-b219-613a71a83e05.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/2d84f87b-6b3f-428b-b3d6-654e7ed26558",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253995760-d4b20217-8de9-42a3-8621-588dbecdfc3e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b641722e-6099-4bbf-88d8-ba2dca111270.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/47c7a2c3-92c5-494c-abcb-5e2a3c266f02.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/aa777681-1231-4a87-abe9-d708dd4959a7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c4ab1a0e-e29b-46e2-855a-67ba3b0685c6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/52aea1fc-6900-4d3e-887d-78c10f5d6abc.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396020686-783c6910-431e-40b5-aad4-2c1615d3d83f.jpg",
+            "videoDuration": 4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709319096-064fc577-d2bf-4f31-95c8-953d7bba7468.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709318411-676a3ba7-7744-45dc-9e44-a478042b38e7.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/486aa9e7-d54b-4cca-b091-5641e2ceebb9.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/486aa9e7-d54b-4cca-b091-5641e2ceebb9.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ff6d7340-e311-497f-ad9d-287bb3240128",
+                    "groupUuid": "ff6d7340-e311-497f-ad9d-287bb3240128",
+                    "url": "https://cdn.viggle.ai/template/486aa9e7-d54b-4cca-b091-5641e2ceebb9.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "ff6d7340-e311-497f-ad9d-287bb3240128"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "33d62d61-2add-4df5-a428-08ca74b99c75",
+            "command": "$instructing",
+            "webCommand": "Instructing",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Instructing"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d1363278-a832-4c85-b0f4-83c96c793f92.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/61849ab8-d299-4cb0-ab08-3d2e8cd34e28",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b68838c7-a7c4-4fd8-9002-a6460fc4b063.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f5a55c9d-8221-4f84-ac8e-63234cc4b195.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/61849ab8-d299-4cb0-ab08-3d2e8cd34e28",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253436472-554fee91-e80a-476a-b7ff-37a20bd7bdff.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/23dd5e7c-d62c-48bf-9908-652b601a6700.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/cc58ee23-9ff5-41f5-85ee-9425216fa7c5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0ab2ff3a-d631-4ff1-ba7d-dbbb3ae27889.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/006b4dd5-f103-49b0-a429-494b04440e50.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/70b74dc1-1563-4f4b-9b49-ca782225e98e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395497395-160f2d78-3fc2-4807-92f3-11267da25653.jpg",
+            "videoDuration": 4.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730709275328-5df58209-e426-42c3-acf4-01925fe19cd0.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709274498-e7f43531-928e-4482-92cc-fa185e624958.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e7b21e81-8c50-43e9-a84b-c05f5ffd14f8.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e7b21e81-8c50-43e9-a84b-c05f5ffd14f8.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "bc16e1e7-c77d-45eb-a847-1a1d4302d96e",
+                    "groupUuid": "bc16e1e7-c77d-45eb-a847-1a1d4302d96e",
+                    "url": "https://cdn.viggle.ai/template/e7b21e81-8c50-43e9-a84b-c05f5ffd14f8.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "bc16e1e7-c77d-45eb-a847-1a1d4302d96e"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3e8b1ac4-8d7f-47fd-b90e-c4ccbf2fccf7",
+            "command": "$hand_shake",
+            "webCommand": "Hand Shake",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Hand Shake"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1ae70277-fdab-4364-923b-61fd9fd202f6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/dcf87080-65d9-4a98-b409-8d86c43c6606",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/97483c29-fec3-49c9-89ec-eda84670e3b9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/fa60175b-ebe4-4b02-9d06-40aef5e6e83a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/dcf87080-65d9-4a98-b409-8d86c43c6606",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254112998-47104898-d06b-4b8d-b962-36eae6d6514b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/bbf54536-c21d-4057-938c-e2486ffac864.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/89393563-be4e-42f2-b435-4007ad962bbb.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/55d907e6-1e65-4534-8823-f4a0ab5378b3.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ebb654fe-88b1-4efe-9d4f-2c918359cdfc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7a984874-60d4-4fe3-a181-8ef0a5ed9cfc.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396325331-6104a304-0136-4be0-90af-773d518cc13c.jpg",
+            "videoDuration": 3.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709342406-3b1afda8-e4fa-4c08-9a37-ab4bd79c54f6.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709341731-7f246ce3-0d0a-49ba-811c-b30d11a8245f.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ad2af5ef-e97b-4866-aa51-9c2b02f93784.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ad2af5ef-e97b-4866-aa51-9c2b02f93784.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "f456b89c-2d64-40b2-9345-7eea270fb4a6",
+                    "groupUuid": "f456b89c-2d64-40b2-9345-7eea270fb4a6",
+                    "url": "https://cdn.viggle.ai/template/ad2af5ef-e97b-4866-aa51-9c2b02f93784.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "f456b89c-2d64-40b2-9345-7eea270fb4a6"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "3ffaa26d-0bf3-436f-afae-509d64c0b374",
+            "command": "$idle_10",
+            "webCommand": "Idle 10",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 10"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/53dfc278-b64b-4d29-96d8-b1c095fd9c8c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f9b4176c-0640-4826-9673-454f65015d3e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/9f9e81be-10d4-4a28-b2e6-da2f41e06f6c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/d11188bd-c780-4e35-a0a8-ab49f780dd5f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f9b4176c-0640-4826-9673-454f65015d3e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253400934-6bb47e49-bba3-4354-b03b-73bdf6bae78b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/5ad3d66f-6769-4b1e-8270-66b9bd92c622.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/6563b785-7ba1-49b4-af6d-c6bcdc5abce9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/afc6cf15-675f-47b9-9369-a2f5d196abfc.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3f314af0-bee6-4b02-bac0-fc21ff14dac8.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9f907065-fca2-4987-b869-097f01415644.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395397330-116df2b5-093e-4387-8f8b-04219a8de8cc.jpg",
+            "videoDuration": 2.76,
+            "gifURL": "https://cdn.viggle.ai/template/1730709271069-54e10e13-0017-492a-9de2-8f762f10619c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709270414-f77bf3ba-aa11-460d-8714-2560cbd1454c.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/bd0ef287-02c1-4084-8c76-f4113f7e9ead.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bd0ef287-02c1-4084-8c76-f4113f7e9ead.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "efe15e9d-e5e9-4e11-a427-0e304dd8d475",
+                    "groupUuid": "efe15e9d-e5e9-4e11-a427-0e304dd8d475",
+                    "url": "https://cdn.viggle.ai/template/bd0ef287-02c1-4084-8c76-f4113f7e9ead.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "efe15e9d-e5e9-4e11-a427-0e304dd8d475"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4240b275-1c23-4309-9c7c-2949a9893c9b",
+            "command": "$square_up",
+            "webCommand": "Square Up",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Square Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2a66579f-94f9-4831-85a9-a94ce138a8e9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/fbef0485-ba15-41c0-af28-dfd66341ffa6",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4f5e0aba-eb0a-4997-9669-7e9df8dfc9ea.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/9b213f87-6513-462d-a706-ffc34ac9723c.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fbef0485-ba15-41c0-af28-dfd66341ffa6",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253917555-630ef6e6-de7b-4d53-8c42-5f1c2724508a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e52ba54d-2397-41c6-ab75-015c10c793fe.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7c65a839-b725-4332-a7d3-e8928a924524.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/53f1ba53-6129-42f2-b44c-7362a758e8ce.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3c7b84e2-75cd-42e7-9e2b-d5caa37ebddc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c8941696-392e-4449-8b5a-5c2d2a4f764e.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395899555-554bbd57-36c9-4d7b-bee8-d5abc5b50942.jpg",
+            "videoDuration": 2.8,
+            "gifURL": "https://cdn.viggle.ai/template/1730709308269-bd0891b3-f4e7-4d06-a951-94e377e38692.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709307608-c1cd4010-f4de-487f-9c2c-e82bee15a88e.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b9e32840-d108-4f5d-b5f1-18f49858cabb.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b9e32840-d108-4f5d-b5f1-18f49858cabb.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "15906117-c9c5-478e-939c-2d9b8e875181",
+                    "groupUuid": "15906117-c9c5-478e-939c-2d9b8e875181",
+                    "url": "https://cdn.viggle.ai/template/b9e32840-d108-4f5d-b5f1-18f49858cabb.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "15906117-c9c5-478e-939c-2d9b8e875181"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4c7c20c6-270d-4055-9e70-fee12547d3de",
+            "command": "$nodding_2",
+            "webCommand": "Nodding 2",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Nodding 2"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/aefde6b6-3141-478e-addd-dd03d58e22fc.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/bc0742fc-29ea-4f7b-870c-873df7cfce0c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0c22fa14-4bbd-4157-a439-744c786162fb.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3adedd84-4eb6-49b9-b631-fdde7659c125.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/bc0742fc-29ea-4f7b-870c-873df7cfce0c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254047681-d49c1ac4-ef92-4b03-b97a-acb1ff8cdb90.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/9c543fe5-892e-4588-a3ef-581a4349ac1a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1dc3ed46-3faa-41a6-90a3-1e26bb986a7b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0188d8e0-b67e-4c2a-8f41-09b11ee05360.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/16a468c7-952d-4f34-bd0f-30cb1a8bd6d3.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ffff6cce-fea2-4c22-9342-e6e858c08ef0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396194156-dd37f0dc-8f2a-472d-9e3b-b92b5475c851.jpg",
+            "videoDuration": 1.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709329573-f6656fc4-5ef9-40ea-ad71-be4728876c34.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709329069-e6a98c05-89e8-4463-aa12-37389d3edc52.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/48409880-ce75-407e-bcc0-f46b550240e1.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/48409880-ce75-407e-bcc0-f46b550240e1.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "fc9b505e-3361-4955-bd66-a10038d4bd3c",
+                    "groupUuid": "fc9b505e-3361-4955-bd66-a10038d4bd3c",
+                    "url": "https://cdn.viggle.ai/template/48409880-ce75-407e-bcc0-f46b550240e1.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "fc9b505e-3361-4955-bd66-a10038d4bd3c"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6456310a-7e2e-4846-8c6c-f4c656860a8b",
+            "command": "$idle_6",
+            "webCommand": "Idle 6",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 6"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1032b7ad-9b80-49a6-b0d8-89a9ab26c6d2.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/dac8f59b-2e73-4b5d-a5f9-c161bd284830",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bc933d1a-63d4-45df-b549-6eb4d542c813.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/2691977d-6201-4b28-9731-5e04036b0d4f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/dac8f59b-2e73-4b5d-a5f9-c161bd284830",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253942200-4ad83498-a15f-442b-b75c-6956c3a193b5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7073d371-0a75-4f97-8691-291ef4774afc.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9b8aed17-88fa-4a3b-a50e-009d1bda94f6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5f56ea29-590f-43bf-a059-7f4e27fe84b3.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d7ab5535-305b-48bb-8e56-4bf9a144980c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/0b8eb0aa-eeab-4435-b718-1ee4ae60796b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395932369-3551e30d-e76e-44a0-ac3d-e6c375a89caf.jpg",
+            "videoDuration": 1.32,
+            "gifURL": "https://cdn.viggle.ai/template/1728253943014-3bb8517e-8d1e-4131-bd89-a15fa0bc2004.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1728253942500-236f5aca-66df-4c79-b28d-b858802ba4d3.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/4791ddbb-28b5-46fb-b851-3acc075f89da.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4791ddbb-28b5-46fb-b851-3acc075f89da.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "20548af4-5943-411f-a94e-5d30d9e8c50d",
+                    "groupUuid": "20548af4-5943-411f-a94e-5d30d9e8c50d",
+                    "url": "https://cdn.viggle.ai/template/4791ddbb-28b5-46fb-b851-3acc075f89da.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "20548af4-5943-411f-a94e-5d30d9e8c50d"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6ca9e3f5-9f5a-4b9f-aceb-0c4ba5922b54",
+            "command": "$carefully_move_up",
+            "webCommand": "Carefully Move Up",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Carefully Move Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/75867994-c88f-4bdb-b7b5-c312df8e9f16.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f0b56453-d688-4f76-b40d-ccbc15260d9f",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6160ee92-e808-4301-9b4a-d65def81753a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/fe4845c0-bcfe-4e26-aabe-a6f691dbd982.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f0b56453-d688-4f76-b40d-ccbc15260d9f",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253399202-5eb2095e-1ad3-4ff7-8baa-39028490e0f4.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/4d0a5091-bfe8-46b3-a2a4-a8fee1ec38de.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c9047bfb-fac9-4a94-9574-5dee7f2dff60.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/daf83986-da8d-4fd1-9e26-ed3b130d38a6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c23a64dc-dfd8-42fd-83ef-8bd8c1a939ec.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/fe2f8a07-04b8-4470-9dba-2a2cef288421.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395424947-d35720e0-873f-458d-b5e2-ee237968d023.jpg",
+            "videoDuration": 0.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730709273076-754881e3-d7ed-4f28-a7a8-26c439c1b06f.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709272623-1a3333ab-5200-4b8f-838b-11d54a0c73ab.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/944fb6fc-a3b8-4fe2-8132-b22778b65958.jpeg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/944fb6fc-a3b8-4fe2-8132-b22778b65958.jpeg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "06a5c0c5-e8f9-4784-9e7e-b244d4ee346b",
+                    "groupUuid": "06a5c0c5-e8f9-4784-9e7e-b244d4ee346b",
+                    "url": "https://cdn.viggle.ai/template/944fb6fc-a3b8-4fe2-8132-b22778b65958.jpeg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "06a5c0c5-e8f9-4784-9e7e-b244d4ee346b"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7bdc12c3-73b1-4d53-beb8-26cef1d726f8",
+            "command": "$take_cover",
+            "webCommand": "Take Cover",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Take Cover"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d57668fb-7d1e-422a-a39b-b2967d98549a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/57e90dea-bf27-404e-ab91-2ce841d616ce",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4518bf80-2d30-403b-b875-db1b81ea218a.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/25f23dfa-6546-43b3-92c9-f5f2dddad698.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/57e90dea-bf27-404e-ab91-2ce841d616ce",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253856790-8d3f8e63-9299-4563-b077-80bed5284270.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/7bfdc938-ee8a-423a-b87e-86d26d43a09b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4ff917c7-2599-4307-a920-101baf18ae28.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4a750772-c79f-42b7-b10a-8fd3eba74eff.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1af000d6-8c85-4953-a512-c9a4c84eef8e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9bd07069-23aa-4985-9806-fb28f5150706.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395799066-0fd6491b-e279-424b-890b-2224c81b116e.jpg",
+            "videoDuration": 1.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709299429-bdd100ed-1634-4075-a547-6aee8fd1ee41.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709298899-8ba21bfa-2386-4aa7-8089-03fea2fa1ae3.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ab88674d-624a-4b22-a9bc-41cad0758692.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ab88674d-624a-4b22-a9bc-41cad0758692.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "9554d3d4-a881-4dc3-b48b-ddc2fac4e5dd",
+                    "groupUuid": "9554d3d4-a881-4dc3-b48b-ddc2fac4e5dd",
+                    "url": "https://cdn.viggle.ai/template/ab88674d-624a-4b22-a9bc-41cad0758692.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "9554d3d4-a881-4dc3-b48b-ddc2fac4e5dd"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7c16b8eb-97a5-49dc-86c7-f55fa06d8f93",
+            "command": "$nodding_medium",
+            "webCommand": "Nodding Medium",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Nodding Medium"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/92d023ab-1257-4445-8f57-f946aa097b7e.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c9b4f384-0959-4971-8485-25ad6bf5fd87",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/220b5dab-165b-430f-a01b-66559d54cc51.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ad721f81-57e9-4d6e-a3da-5cdf400d32f5.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c9b4f384-0959-4971-8485-25ad6bf5fd87",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254056368-3574d399-87c8-4ea2-bc9d-cf0df842a24b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/47acc259-600e-438c-b8d1-1b0ea8c92797.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/a37b29b4-e837-4f63-ab44-63e82dff8e2a.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0e365875-2bfd-481f-83e3-aab532575aa8.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e40f4f97-f26c-4d33-8e54-3f66b010c972.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/84fe7d3e-6802-414c-a342-99cbc4e2fd0b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396216393-65838154-a7b1-4704-a54a-573cf441b576.jpg",
+            "videoDuration": 1.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730709331738-4563db3a-8074-47f8-80e6-a7dbe3e04215.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709331078-5e7cd74b-8aa5-45b2-ae5a-4283b5dd3037.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/073786a8-1140-455b-ab19-f3ee243b93dd.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/073786a8-1140-455b-ab19-f3ee243b93dd.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e1f90b95-9e01-40ca-b212-a3f586bd033d",
+                    "groupUuid": "e1f90b95-9e01-40ca-b212-a3f586bd033d",
+                    "url": "https://cdn.viggle.ai/template/073786a8-1140-455b-ab19-f3ee243b93dd.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "e1f90b95-9e01-40ca-b212-a3f586bd033d"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "7d2923c3-7d88-4306-89cb-e6dd4c849860",
+            "command": "$bunny_hopping",
+            "webCommand": "Bunny Hopping",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bunny Hopping"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/745855b6-fd8f-44fc-b02a-902d86e00da7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/da8392eb-764f-4ff7-8980-03614d596fba",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/453ca60a-7b7c-47e6-95b5-ade0957bdc23.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e4b25c5a-71ad-4441-a427-58d9f19d7c4d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/da8392eb-764f-4ff7-8980-03614d596fba",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253477834-39567fda-7c1c-49cd-aa5e-e5360407f2c6.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/fe3310f0-629d-4ea2-97a1-08d61935a7b7.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/86b700fd-8b63-4f12-a085-c2669b7cb8b5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f743d8f1-8356-4056-93c3-9d8539e743c1.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/546c4608-c8cd-4e53-8a1f-aa996a9a0c5f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5f81a1dd-d780-47a3-ab9f-e9d16f837b0b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395640740-6b67eeba-9f56-4741-8770-6b2dfceeec0a.jpg",
+            "videoDuration": 5.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730709289428-2dcb22c6-a834-4240-98d4-1b4636769e35.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709288724-112d6abe-ae6b-4cfd-b7e1-1ee89680e56c.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/861a822f-fe8c-4b9d-a2ed-7e4ae33167ef.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/861a822f-fe8c-4b9d-a2ed-7e4ae33167ef.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "385cc393-3d50-46fc-a6ca-5563abab8a13",
+                    "groupUuid": "385cc393-3d50-46fc-a6ca-5563abab8a13",
+                    "url": "https://cdn.viggle.ai/template/861a822f-fe8c-4b9d-a2ed-7e4ae33167ef.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "385cc393-3d50-46fc-a6ca-5563abab8a13"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8b59aec0-1117-4d64-8a0f-ad5f4f17f114",
+            "command": "$idle_4",
+            "webCommand": "Idle 4",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 4"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f9506000-b847-456d-b372-e1eeb0d67c95.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/83c887fd-c1e4-4a15-a78e-c4f141236344",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/084baaf0-70de-4968-b6df-ac4ba7f9075e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/016cd25e-aa1e-4ee5-80d8-cbe97957beb8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/83c887fd-c1e4-4a15-a78e-c4f141236344",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253982090-1bcbfaee-9b05-49d2-a5f5-2d0969c91cf5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/37b72c5d-ef0f-48e6-b490-230edcbe9fec.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/68a56695-f09c-4d7e-b3a3-3cea0fa75288.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/976487ba-f52b-46a7-8af6-fbea4ab941ce.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/43cb1cc5-d408-47f9-b00e-f02cfdc4a947.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a35cb002-6e91-49b8-84e5-39939d89ba26.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396002603-76925a09-3785-4ee7-9ef0-14e8039128c5.jpg",
+            "videoDuration": 2.16,
+            "gifURL": "https://cdn.viggle.ai/template/1730709316872-507f279b-6e76-4e7b-9dfe-f2faf3fa571c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709315951-31a51349-40af-40ec-9930-0c25a2e2b506.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/6354857c-b94c-4e15-a705-120355b83a08.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/6354857c-b94c-4e15-a705-120355b83a08.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "080cbbd0-186a-4e1e-a7de-560d0308f1df",
+                    "groupUuid": "080cbbd0-186a-4e1e-a7de-560d0308f1df",
+                    "url": "https://cdn.viggle.ai/template/6354857c-b94c-4e15-a705-120355b83a08.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "080cbbd0-186a-4e1e-a7de-560d0308f1df"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9dee8969-ba25-4722-bffc-688c67b0e5df",
+            "command": "$squat_1",
+            "webCommand": "Squat 1",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Squat 1"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/91300e00-6090-4f5d-8dc4-663ea059900a.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/3f93df4b-b9ce-4439-992f-f9d7c2ea62fb",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ff9bd45a-d72e-4af3-9189-83ee7504cac3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/487d3def-f978-47eb-9772-7b1d94c6944f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/3f93df4b-b9ce-4439-992f-f9d7c2ea62fb",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254075214-f5c0b12d-f000-4ca4-9dba-8885fcf85bea.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/f2007646-121a-4aa7-b4e2-4a313d91b903.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2dbf441b-5637-493f-9822-4c4e0f7d959f.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7d520cf8-8d8d-421f-bcd5-8c6ff6e360e0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/5722b9fa-8b8d-4e54-be7e-ba034e66933f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1c984137-e7c6-4c3a-a508-924a831a080d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396274041-043a4ae8-7fac-41bf-a763-ceaa9ad0e3fe.jpg",
+            "videoDuration": 1.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709336014-5853d30c-493d-48cd-9a41-c1b17734baa9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709335358-c4f49549-2423-4934-af18-884ec78cb59d.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ba59bbf1-15aa-4e6d-8157-6377919466a0.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ba59bbf1-15aa-4e6d-8157-6377919466a0.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "255d4ff9-9614-48f9-8805-ec2304ac2aaa",
+                    "groupUuid": "255d4ff9-9614-48f9-8805-ec2304ac2aaa",
+                    "url": "https://cdn.viggle.ai/template/ba59bbf1-15aa-4e6d-8157-6377919466a0.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "255d4ff9-9614-48f9-8805-ec2304ac2aaa"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9df6e9ef-5e4f-4e71-b4ba-c0d5d126b868",
+            "command": "$idle_5",
+            "webCommand": "Idle 5",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 5"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8c961a19-1489-4a14-a773-4d1fc9ce783f.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/5528127a-b176-4ac8-a730-19340c3b299c",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/39e95b7e-c5ac-4774-9405-1667fcada576.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/72a51552-31dc-4087-ae37-83eb3126584f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/5528127a-b176-4ac8-a730-19340c3b299c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253975784-70282431-cb1e-4191-bb28-9676e9b5344e.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/87417cc2-7982-4a24-97d6-350701382ef6.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/044649ed-cef3-47b8-b3ea-7e330a309024.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/2b0d76fb-59c6-434d-acdd-feabd69b0b45.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3d85dc45-1d99-4f10-b63f-8bef72376c5f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/3f027bbd-b8c7-4d6d-99f3-3dad2ad10496.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395977536-e72a6a81-e268-489f-ae68-af77e242f5cc.jpg",
+            "videoDuration": 2.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709314454-89872f8b-be30-4485-9484-6b7562b593fc.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709313866-3bd9705c-cd5d-474c-ae4e-93bddc6745b3.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/050f6110-5735-4e02-af19-1015a0c8581c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/050f6110-5735-4e02-af19-1015a0c8581c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "098150e3-46cf-4062-bfe6-6cce97771f32",
+                    "groupUuid": "098150e3-46cf-4062-bfe6-6cce97771f32",
+                    "url": "https://cdn.viggle.ai/template/050f6110-5735-4e02-af19-1015a0c8581c.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "098150e3-46cf-4062-bfe6-6cce97771f32"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a3b030f8-861e-4315-81d8-a414ca543992",
+            "command": "$aw_man",
+            "webCommand": "Aw Man",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Aw Man"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/cfd878de-db3f-4c70-b3f7-8a43cc8107e5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4fd4a25f-df5e-4431-b779-6e7753e8f671",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0e5cd151-0eb1-4274-96fb-0f30304b1b44.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/13ee859a-113e-4d2f-a938-bbe024ba82cf.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4fd4a25f-df5e-4431-b779-6e7753e8f671",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254122800-789e070f-d6f2-4f28-bf27-ba4d1e3275d5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/45269c12-85f3-4548-9488-97d88fd348b1.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/67bda36c-6bcb-47e7-9f98-e45e37983771.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d3632728-42c5-4867-8aa4-bcfc1c95653e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/95d2c335-2db9-4018-a7c4-06957db67c0a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f211f0bb-04ad-4a50-b267-2ec1cebf75cb.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396344212-71018d35-1fde-416b-a968-ecef30ba0538.jpg",
+            "videoDuration": 3.72,
+            "gifURL": "https://cdn.viggle.ai/template/1730709344567-31ee6d0d-6b33-47cf-8a2f-17eab4fd759d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709343934-1fd94c00-3583-4573-88d2-ce997a1efdc1.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/49ea963f-25ef-4786-8c20-3434b97787b7.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/49ea963f-25ef-4786-8c20-3434b97787b7.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "15f23b56-71d3-41d1-a4d9-dd48d374456e",
+                    "groupUuid": "15f23b56-71d3-41d1-a4d9-dd48d374456e",
+                    "url": "https://cdn.viggle.ai/template/49ea963f-25ef-4786-8c20-3434b97787b7.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "15f23b56-71d3-41d1-a4d9-dd48d374456e"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "b9099cc9-33c7-4fda-99e4-6b0a00d16a63",
+            "command": "$push_up",
+            "webCommand": "Push Up",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Push Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/56f26d02-d01d-4e7e-8823-9899f4c71770.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c48ffb2a-74e9-4ccb-b6f8-2089c1355497",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1cf2ffec-e9f6-4c80-9be1-817b27149f50.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0489b183-e1ba-43a9-9560-abcddc655ef2.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c48ffb2a-74e9-4ccb-b6f8-2089c1355497",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254080182-087cf691-3a93-4156-b9ae-ffc103a4f51c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/72a63210-0c90-4821-8559-ca524da1e9e0.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7bf2e04d-4045-4b55-93bb-dee68a96358e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/beb8ee35-cf03-4307-a451-2578ccf71c01.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/53f09c9c-5f3e-4259-bf4f-5dfa3c49c312.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5c49b44a-fe82-414d-b5aa-bcb47f4aff5b.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396161867-0cfab74b-8723-412e-a882-9a3dfa0f114b.jpg",
+            "videoDuration": 0.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730709327720-7fb0a81f-2c24-4892-a7f6-2bdbe6e23b78.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709327237-1d1dea88-ed2f-421f-907b-466486637dae.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2f76e8e6-c5d5-4ca8-8583-da9178732f8a.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2f76e8e6-c5d5-4ca8-8583-da9178732f8a.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "07e55bbc-8855-468c-ba3e-0feb87b98c46",
+                    "groupUuid": "07e55bbc-8855-468c-ba3e-0feb87b98c46",
+                    "url": "https://cdn.viggle.ai/template/2f76e8e6-c5d5-4ca8-8583-da9178732f8a.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "07e55bbc-8855-468c-ba3e-0feb87b98c46"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bc5f9a59-e4f9-40fe-be5e-ebd0e9c5d1fd",
+            "command": "$what!",
+            "webCommand": "What!",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "What!"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f1fe99cb-b8b7-43dd-9219-ba7624c1d2fd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/c5c2bb00-b05a-4f8c-88a7-b79b8530d250",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b06009be-4c5e-4cc6-bf44-9d5c199846d9.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/72174395-f4fa-4e78-b4ef-0275e38f6542.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c5c2bb00-b05a-4f8c-88a7-b79b8530d250",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254038076-587e111a-a44f-4caa-9c77-5af003bb2b6c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6a496188-8b66-4b2e-8fec-d1ba2289ad91.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/b7b56f95-667c-458c-84d0-3e4c6a4a25df.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b2845956-b410-48bc-81c2-ead0e582161a.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a17091d0-21ea-41e2-9e98-4082b4e4f678.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1277efcc-bd00-4ead-8b6e-f1fe0c23f1d7.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396130733-25401541-bd54-4c2f-ab25-38699f870510.jpg",
+            "videoDuration": 1.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709325919-a68922a3-c906-40dd-ad4b-62ac5729ce0d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709325353-4af992de-499f-4b87-b9c4-1940ba91b7c1.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/52773b85-eeb8-4a45-92aa-1a560ea15629.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/52773b85-eeb8-4a45-92aa-1a560ea15629.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "38771f74-9a21-43bb-b24f-7cf30e9e0f92",
+                    "groupUuid": "38771f74-9a21-43bb-b24f-7cf30e9e0f92",
+                    "url": "https://cdn.viggle.ai/template/52773b85-eeb8-4a45-92aa-1a560ea15629.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "38771f74-9a21-43bb-b24f-7cf30e9e0f92"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d7d91195-8bb0-4dff-97e6-10b821089b02",
+            "command": "$looking_around",
+            "webCommand": "Looking Around",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Looking Around"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/23302d09-c008-4dd9-a757-b84cc53685f1.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b97869dd-400b-418c-9193-f71fb2004d9a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c38a4a4e-0991-4ce5-ad8a-50debba91971.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/245b165c-7ce8-407f-93ee-1cb9ff367c2a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b97869dd-400b-418c-9193-f71fb2004d9a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253437366-dcfbb7e1-2c80-49ea-980d-ef7f59c360e9.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0461b3ce-c42f-4b96-a270-51a1ca85c309.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/df46bcec-342e-485e-afd6-354350bf7472.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/a6d9b34c-898d-47ed-b9c1-65040b1954ea.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2e6161a3-b90e-4b0e-babc-1108fcfaac9b.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/cc13c0b5-45e7-4b25-adb3-ddbc90904f27.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395525525-5b08516b-a5d3-4b58-acd1-4a3e4a01484a.jpg",
+            "videoDuration": 4.2,
+            "gifURL": "https://cdn.viggle.ai/template/1730709277531-a2405358-e74b-4d09-aeca-0eb18691e468.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709276874-e13922df-080e-48dd-8fed-66752836584d.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1250ae3d-a73d-44c3-9b3a-5120c0e7997b.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1250ae3d-a73d-44c3-9b3a-5120c0e7997b.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d959f2da-b639-411a-baa2-f3cf3af2fa74",
+                    "groupUuid": "d959f2da-b639-411a-baa2-f3cf3af2fa74",
+                    "url": "https://cdn.viggle.ai/template/1250ae3d-a73d-44c3-9b3a-5120c0e7997b.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "d959f2da-b639-411a-baa2-f3cf3af2fa74"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "d900b64d-2b38-4314-a320-f622f0390a35",
+            "command": "$yes",
+            "webCommand": "Yes",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Yes"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4ea164d6-5cb9-45f6-a0ac-f6fc94a0b185.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/8999260b-0f27-4a00-bee0-ced1022a7c59",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/a917f0c5-7561-44b3-be8f-739bc20aedc6.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/842ba36e-f56f-4388-9e7c-ad4c5ba76e85.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8999260b-0f27-4a00-bee0-ced1022a7c59",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254089315-ffb5b37c-12de-4306-878f-15b6edd660c0.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0021c564-807e-4cf2-99c2-8c69954ee39f.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/99b99740-f9b4-4c86-97be-c6f30c3600e9.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/63d03237-1403-4002-98ce-d6cde8471a4e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6ba313ea-e37a-4afb-9d31-a6053bb6bd7f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/dffaf51b-674e-4166-9316-775dec8624f3.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396290817-f4ca4c63-abe5-43d6-b974-85fc7a751c29.jpg",
+            "videoDuration": 1.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709338209-780cff90-6957-4734-a75b-ac489a0bbf21.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709337596-0410f731-d666-4fdd-9cb9-c64f726feda6.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/0fe33882-2661-4ce9-92c2-5c3d0ffa5645.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/0fe33882-2661-4ce9-92c2-5c3d0ffa5645.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "0673c57e-ea77-460f-8a69-148440b526cc",
+                    "groupUuid": "0673c57e-ea77-460f-8a69-148440b526cc",
+                    "url": "https://cdn.viggle.ai/template/0fe33882-2661-4ce9-92c2-5c3d0ffa5645.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "0673c57e-ea77-460f-8a69-148440b526cc"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "dedc0c17-293d-4257-a1b1-cae572f07fad",
+            "command": "$low_kick",
+            "webCommand": "Low Kick",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Low Kick"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/16e609a4-7ad0-4752-8469-f225e451e012.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b6712014-eccc-4c1f-8c0c-bd36b9d24755",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1948d539-785f-43f3-b519-8d54525c50c3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/c7aa367d-c16b-41df-9192-db209070c3d8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/b6712014-eccc-4c1f-8c0c-bd36b9d24755",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253999856-3cf011de-e084-49ff-9bfe-be608b220237.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ac9c1634-38ac-4950-a191-6c60f6693408.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ce2bc671-ccc2-4c57-a4b6-6af057cc8cc6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/49d5044c-60d5-46a8-bd56-6df6eba090ed.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4a9e487a-318f-4195-bf7c-a8ed5230bbb2.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/59ec638e-2272-4ff1-b1ef-72f1c5f73f49.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396086239-bfd7813a-e23b-47db-a713-d2327a77da08.jpg",
+            "videoDuration": 1.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709321389-00f61227-9e17-4e42-99f5-fee6b515b391.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709320802-2f290e4e-1926-4b50-8748-da8d50040ae7.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/57f8690a-f98d-4890-b180-1e03f663a3d9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/57f8690a-f98d-4890-b180-1e03f663a3d9.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "e3dd52b1-13b3-4f6e-8f35-70988965361f",
+                    "groupUuid": "e3dd52b1-13b3-4f6e-8f35-70988965361f",
+                    "url": "https://cdn.viggle.ai/template/57f8690a-f98d-4890-b180-1e03f663a3d9.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "e3dd52b1-13b3-4f6e-8f35-70988965361f"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e17b8e59-593f-4660-99df-70d492918946",
+            "command": "$dancing_back",
+            "webCommand": "Dancing Back",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Dancing Back"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/6652f7e5-84ac-463b-81b9-4216e138d752.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/877aefb6-7a89-418f-99e0-0a1b105a385b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/43fa9c20-cbeb-40cd-8cee-ea63d58f341c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8d629d72-e35b-473f-9d66-7a9f7cf1ee56.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/877aefb6-7a89-418f-99e0-0a1b105a385b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253450482-6057ff59-4e43-48b9-b0fe-9608e6782db4.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/da32c4c6-3f57-489f-b9af-ec6cd5a1e4cc.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7b49c5d4-47d8-4b4f-8be6-3b7e126785c6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6d82fcab-8d41-4923-818b-0585315a1f5f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/8f328f2c-0fec-4985-9464-80c1d938b06d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/be9eedda-0ae3-450d-a80a-5844ed2063ba.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395613096-e685e7fc-3f60-486e-a908-938172ebad23.jpg",
+            "videoDuration": 1.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730709287195-862b8905-67bd-47f1-93f5-17663f79522b.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709286710-e0693a45-21c8-47e7-b44a-4a623f78bc73.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b260fc2a-970c-45ad-b40d-467e7fddc38f.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/b260fc2a-970c-45ad-b40d-467e7fddc38f.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "cedb6d08-8b5e-4a34-9562-aff8ed0a1abe",
+                    "groupUuid": "cedb6d08-8b5e-4a34-9562-aff8ed0a1abe",
+                    "url": "https://cdn.viggle.ai/template/b260fc2a-970c-45ad-b40d-467e7fddc38f.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "cedb6d08-8b5e-4a34-9562-aff8ed0a1abe"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e1c3518d-9c3f-4085-b100-bb337ce3eb56",
+            "command": "$hiding",
+            "webCommand": "Hiding",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Hiding"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c767975e-d84b-43a7-96ca-57778eab9cff.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/66a82153-49af-45d3-b25f-812bad6c5c96",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/15130951-e95a-454c-a104-95f023f655a1.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/1f9dfe81-ce91-4dc8-80c4-59e935615fb0.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/66a82153-49af-45d3-b25f-812bad6c5c96",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253864060-37d71252-1fae-4fab-8027-1b04897a74eb.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6a9adb75-0640-4cfc-ad6f-9b80e6485bf2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2cb145b6-e141-47fd-89dc-698ac4e4b973.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5326ce2e-cf4f-4222-a384-0b1fc437a554.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/50f33b73-b9b1-42f2-b983-661769fc8bbc.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c8ef0ebd-98e9-4440-94da-30c60147612f.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395780114-e85258c7-4c78-4e67-9278-039a1962bc1f.jpg",
+            "videoDuration": 4.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709296863-0c69d4f2-327a-446c-80f3-cf0f3e8e83e2.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709296129-faf24ffd-0c7c-4bb9-bd40-d2dd33260c4e.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1b975cfe-17f6-4658-8f7e-03ff62932b2c.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1b975cfe-17f6-4658-8f7e-03ff62932b2c.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d854503a-1c7f-4e8e-ab77-cd3f843a2d45",
+                    "groupUuid": "d854503a-1c7f-4e8e-ab77-cd3f843a2d45",
+                    "url": "https://cdn.viggle.ai/template/1b975cfe-17f6-4658-8f7e-03ff62932b2c.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "d854503a-1c7f-4e8e-ab77-cd3f843a2d45"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e55ce1a6-700f-4c6c-bd81-fa05a8b5e451",
+            "command": "$360_turn",
+            "webCommand": "360 Turn",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "360 Turn"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f8908142-2b01-4fe1-bb3b-801e8268ad11.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/54cd1507-ea0c-43d7-8d5c-46362abdfc70",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/cfb920a9-7e88-4670-b004-928f0ac883c3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8a62605c-4ed4-4a46-bb21-24dd826b6837.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/54cd1507-ea0c-43d7-8d5c-46362abdfc70",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728254024116-76a4bfb8-9fdc-4195-b527-f855a7e293af.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/825631df-ef97-45f7-81cb-a96821280047.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/36c29b79-191d-45af-bc69-7cc0fe94a02a.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f8c8a7d6-bbb0-40a9-a610-1292c0fcfdba.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/daf2e416-c22e-485e-b627-16461bb3879c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a0cf0914-a6e1-41ef-bfce-a45b0cdf75d0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728396111704-2823f870-45f9-407e-be77-6318574834ca.jpg",
+            "videoDuration": 1.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730709323755-778436d1-4868-418d-8ffa-9950de16cc5d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709323193-386004bc-2016-4908-9945-85a010d5c98a.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/2b481ab5-bb35-46a3-a7be-c592debaa36e.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2b481ab5-bb35-46a3-a7be-c592debaa36e.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "2f357ae4-d569-4ed9-8950-e925103ef475",
+                    "groupUuid": "2f357ae4-d569-4ed9-8950-e925103ef475",
+                    "url": "https://cdn.viggle.ai/template/2b481ab5-bb35-46a3-a7be-c592debaa36e.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "2f357ae4-d569-4ed9-8950-e925103ef475"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "6b13c7a4-4a08-42c6-aa3c-5e7f194389ee",
+            "command": "$idle_7",
+            "webCommand": "Idle 7",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Idle 7"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/230f6674-3466-4a83-9e20-1398dc3ee14b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/4587ec0e-67e8-4654-844f-b9b524a76c7b",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/8ff97b17-3fa1-49e2-bb36-50546f410383.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/403d03f7-e6bc-4b84-98e7-fc8f213384af.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/4587ec0e-67e8-4654-844f-b9b524a76c7b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253928925-29ed8585-dc15-4b68-8172-9368883fdbb2.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6bcda965-4e07-4b2f-ba42-bfd0c4439e92.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1f326580-d5c0-43d9-9804-7b92c9f9f429.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/19c71cf6-bd3e-4bc6-bc0b-15e9e00a6d37.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9694240f-b75d-426f-9850-38d87407e364.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/ef9875e4-6fe7-412b-913e-264ec5d7f323.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728395912924-6b53044b-88dc-4bf4-a205-4a34bd01e261.jpg",
+            "videoDuration": 3.56,
+            "gifURL": "https://cdn.viggle.ai/template/1730709310525-8f54ce11-7d3d-4505-86a8-3bf679742b70.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709309919-73e97fcf-3d80-4a29-b18e-6f9e9effb03a.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/23a7588c-ba3b-4475-9d4f-ca11ce61b2a0.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/23a7588c-ba3b-4475-9d4f-ca11ce61b2a0.jpg",
+            "referenceImageURLs": [
+                {
+                    "uuid": "4340122f-8cf7-44b4-87e7-1bb97fc37808",
+                    "groupUuid": "4340122f-8cf7-44b4-87e7-1bb97fc37808",
+                    "url": "https://cdn.viggle.ai/template/23a7588c-ba3b-4475-9d4f-ca11ce61b2a0.jpg",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "4340122f-8cf7-44b4-87e7-1bb97fc37808"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "808b24d1-b2be-44b8-8267-9a5b794b45f4",
+            "command": "$walk_back_8",
+            "webCommand": "Walk Back 8",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walk Back 8"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/0ebef3a9-55c0-4df8-b5e4-231bea056f01.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/264a2c66-f8d6-4b24-8332-77cce9e6016a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/527e356d-a6ce-49b0-acb2-782ee97ae24f.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/eb0a3cf7-c7b2-4b1d-a4df-b09ce0d8aefd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/264a2c66-f8d6-4b24-8332-77cce9e6016a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253904398-d83f8e4c-2bcd-4d87-854b-cd5e3f1c87a9.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/8cc0d590-0d09-46b4-9abe-a6e0b1979bf0.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/3731f395-98e1-407d-9b3e-b0495da5c935.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/c88a1e19-5ec6-4d4a-b2db-4868ba235e08.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/a7c93102-250b-4012-bb6f-f12763eea34b.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/189714c5-0689-4616-8cf4-4458f4db98e0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728730662231-a341e32e-89f8-441e-b7fb-c71aa01bb9b2.jpg",
+            "videoDuration": 1.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730709306216-84583fa7-296a-48a3-9bbb-5ec7f86430e4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709305542-35d76e5f-b19a-4e6e-901a-f45497b16133.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/a4773810-7313-4ac5-8c91-fa60684ca902.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/a4773810-7313-4ac5-8c91-fa60684ca902.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "a4202ef3-42c8-4b5e-be79-78edc7332e1d",
+                    "groupUuid": "a4202ef3-42c8-4b5e-be79-78edc7332e1d",
+                    "url": "https://cdn.viggle.ai/template/a4773810-7313-4ac5-8c91-fa60684ca902.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "a4202ef3-42c8-4b5e-be79-78edc7332e1d"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0a507940-bb0c-4ede-aee9-51b43fc57060",
+            "command": "$walk_up_hurting",
+            "webCommand": "Walk Up Hurting",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walk Up Hurting"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c4c2d8ef-26f1-4ab6-bf09-bfc1f968ecc6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/965391a6-e091-4339-933c-5dc5cce4d387",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e7a73f81-c4d7-4266-9477-84077a015445.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/166569ee-5153-4721-8811-509839a7ead4.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/965391a6-e091-4339-933c-5dc5cce4d387",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728253435236-d064b14f-b078-437b-ad64-2aeed2a8861d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0e035cf3-9061-4710-abb3-43c420d2fcee.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4cf4e4dd-07a8-4cf4-acb8-5765e75e5dfc.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/8c730615-1e0e-41c2-bfef-4f3c33219688.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/71c5fa3d-0f30-4118-94c8-94ba74da9065.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f7eb0dc9-4876-4a7a-94a7-447460c2afa0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728730646932-69c5ff0a-5955-4356-8997-154ae103e968.jpg",
+            "videoDuration": 1.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730709282576-07d00008-f535-42aa-b764-84713975401a.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709282108-a946d5f0-a413-4c60-a618-2e2d9ec4f336.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/862f8f51-f7bf-47e6-9790-56013d4ce08a.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/862f8f51-f7bf-47e6-9790-56013d4ce08a.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "1853f7e1-596d-4381-b1b3-593e09e3b484",
+                    "groupUuid": "1853f7e1-596d-4381-b1b3-593e09e3b484",
+                    "url": "https://cdn.viggle.ai/template/862f8f51-f7bf-47e6-9790-56013d4ce08a.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "1853f7e1-596d-4381-b1b3-593e09e3b484"
+                }
+            ],
+            "width": 1080,
+            "height": 1402,
+            "isNew": false,
+            "user": {
+                "id": "05d35181-0779-4691-a229-fdf2dfb283d9",
+                "nickname": "LilyGlow",
+                "avatar": "https://cdn.viggle.ai/template/b199958d-5c7c-47f2-9b4a-d69448e42ecd.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=3vL8xXZJCxhqdyuP5kkF0K_U9UA="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a78cedd8-5bab-4718-ab6f-d0e29364387f",
+            "command": "$pull_up",
+            "webCommand": "Pull Up",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Pull Up"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "PROBIR KONAI",
+            "processedMiniURL": "https://cdn.viggle.ai/template/1702319d-0cdd-4618-aca3-4d297b61cedd.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f17ecec2-aee4-4fd9-bb89-0e4a196d788a",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2a9f2af1-4d10-426e-bea1-d2541fa455aa.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/406b065a-234d-4e42-b42e-8ec83f82e16a.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f17ecec2-aee4-4fd9-bb89-0e4a196d788a",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728729449857-5fd1e474-e571-47ff-ac1b-2578246f4b72.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/96ef06a6-60b5-4a4c-8003-5ec409cfc296.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1aa15280-9cce-4f2a-b496-487c6743f505.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4c374c43-a275-43f8-861e-7516c4004c0f.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c6f9fc20-21ec-40df-846b-450dccd27ff0.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1aa15280-9cce-4f2a-b496-487c6743f505.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728731460652-c1c4bdb5-d453-443a-98b3-d2cbd8297a1e.jpg",
+            "videoDuration": 9.36,
+            "gifURL": "https://cdn.viggle.ai/template/1730709475338-3a149c10-6fc2-4694-9b65-6a88ff7bab24.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709474266-0710e879-3e9d-4169-b1df-abcacd5f8c5c.webp",
+            "rleBoundingData": null,
+            "source": "Suggested by Viggle User: PROBIR KONAI",
+            "referenceImageURL": "https://cdn.viggle.ai/template/ac9db9ce-edd5-4b23-8e6b-dfc6eaf243c0.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ac9db9ce-edd5-4b23-8e6b-dfc6eaf243c0.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "0e6997b6-7b0d-4559-b154-7d7b1e80206c",
+                    "groupUuid": "0e6997b6-7b0d-4559-b154-7d7b1e80206c",
+                    "url": "https://cdn.viggle.ai/template/ac9db9ce-edd5-4b23-8e6b-dfc6eaf243c0.png",
+                    "uploadedUrl": "",
+                    "name": "George",
+                    "startFrame": 0,
+                    "trackId": "0e6997b6-7b0d-4559-b154-7d7b1e80206c"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "34de90e1-361a-4943-af42-4473320be0a3",
+                "nickname": "maxblaze_fx",
+                "avatar": "https://cdn.viggle.ai/template/eadc74c8-8912-4b44-a35b-6007abe45724.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=a4tqPhqQftbv41IO73hojkIylYw="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "900632bf-1996-4005-b703-b3e8bde22a9c",
+            "command": "$break_dancing",
+            "webCommand": "Break Dancing",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Break Dancing"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/bee47668-940e-48b1-b045-94f1cb83e69e",
+            "processedURL": "https://cdn.viggle.ai/template/bee47668-940e-48b1-b045-94f1cb83e69e",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bee47668-940e-48b1-b045-94f1cb83e69e",
+            "processedLargeURL": "https://cdn.viggle.ai/template/bee47668-940e-48b1-b045-94f1cb83e69e",
+            "processedHdURL": "https://cdn.viggle.ai/template/bee47668-940e-48b1-b045-94f1cb83e69e",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727052886659-9510b545-a2da-43a3-985a-941be9841180.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/48a77ecd-e815-4d67-9c79-4f34c682b9c5.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1041b101-3301-4e91-8d0f-65d3f05dc8b0.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b6d771af-5d58-4047-b5da-bdc3663efc99.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d6fb96b2-922a-4c7c-9ee1-c468c665a110.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/9437e6b8-a865-4d85-bc63-e6b8640d7cc6",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727151799432-f197eeab-2512-4cb4-863f-3b97c142e255.jpg",
+            "videoDuration": 4.466667,
+            "gifURL": "https://cdn.viggle.ai/template/1730709096493-dd9cd7dd-c39d-4782-9c47-ca20e239684a.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709095347-d7fe9017-9acb-4b08-8c98-d49a51145fc8.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8958cb39-6873-4e7b-bb72-a3b0b630f4d9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/2b458b35-db5e-471e-9f4f-518b3daff400.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "f2091494-19b4-4523-a4f8-e22fa5ac6a4d",
+                "nickname": "swift.fox_",
+                "avatar": "https://cdn.viggle.ai/template/3470dd24-92bd-4112-87f0-7aa3a8e7f47d.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=egpPH4pP15yV5OHFr3KcaIFx4R8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "02bf38df-7344-46cc-abf7-e9c15202ad49",
+            "command": "$shooting",
+            "webCommand": "Shooting",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Shooting"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f122e908-a763-4aa4-a032-7ab1a1492313",
+            "processedURL": "https://cdn.viggle.ai/template/f122e908-a763-4aa4-a032-7ab1a1492313",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f122e908-a763-4aa4-a032-7ab1a1492313",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f122e908-a763-4aa4-a032-7ab1a1492313",
+            "processedHdURL": "https://cdn.viggle.ai/template/f122e908-a763-4aa4-a032-7ab1a1492313",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727054785720-9981f47a-37af-4d5d-b34d-34cbf317b8c6.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/56490698-a1a4-4066-be69-9e0d3adda357.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1ca6c33c-0c91-40e4-ae4d-2455a54414b1",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ac6862c8-0aea-4e12-9a64-138c248c9635.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/43caff75-880a-4b81-a2c6-ed7247265e7a.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1ca6c33c-0c91-40e4-ae4d-2455a54414b1",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727151924008-f61da15c-1c16-40f2-90e5-4e0366352c4c.jpg",
+            "videoDuration": 2.6,
+            "gifURL": "https://cdn.viggle.ai/template/1730709093109-db1af2d6-44ca-4ba9-9965-3e81b16227a1.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709092142-85a71c0e-9d72-4c98-89d9-b7f170ae3dfe.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/85dde920-8e27-48f0-b05f-b99257135569.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/468bb1bb-d61d-4e61-bfce-b476b6e66cb5.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=zW6Ed2LcGLhpyhV959BZz7GwUs8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0beb0f5a-6e80-4ffb-a06f-f7adbc4546a6",
+            "command": "$angry_1",
+            "webCommand": "Angry 1",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Angry 1"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f09b4bf8-d9e6-4269-a808-c87bfc559037",
+            "processedURL": "https://cdn.viggle.ai/template/f09b4bf8-d9e6-4269-a808-c87bfc559037",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f09b4bf8-d9e6-4269-a808-c87bfc559037",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f09b4bf8-d9e6-4269-a808-c87bfc559037",
+            "processedHdURL": "https://cdn.viggle.ai/template/f09b4bf8-d9e6-4269-a808-c87bfc559037",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727055018544-fb8800a3-775c-41f4-afe2-5d921fd1c65d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e04cd4f3-a2d5-4d45-b192-9f683eff136b.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4ed038c4-ace5-4b6b-8589-27ea444e660b.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/0628eac6-6847-4dbc-aa0e-f0755036ce93.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/261d5eaf-57df-442a-96b2-2dde3a2c26f9.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a327736b-6714-4f21-8ff0-267ad6ae8345",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727152164890-a2e5ba2e-62ae-47df-b941-8907d469fa7f.jpg",
+            "videoDuration": 2.507007,
+            "gifURL": "https://cdn.viggle.ai/template/1730709090611-f47800e9-1269-478b-a89a-a391d4c107d4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709089965-f4fc3d1a-aa7b-4226-8533-f64e39193e44.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e6aedf9e-2533-411c-a524-ab68992c96e5.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/ad9bd866-509b-4cfb-ba30-27808c12b6da.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=zW6Ed2LcGLhpyhV959BZz7GwUs8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "98c1ce9a-1159-4c23-b420-416d6ffe80b9",
+            "command": "$walking_back_4",
+            "webCommand": "Walking back 4",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walking back 4"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/56e2a78c-5123-480a-a8c7-8c67cb56de8d",
+            "processedURL": "https://cdn.viggle.ai/template/56e2a78c-5123-480a-a8c7-8c67cb56de8d",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/56e2a78c-5123-480a-a8c7-8c67cb56de8d",
+            "processedLargeURL": "https://cdn.viggle.ai/template/56e2a78c-5123-480a-a8c7-8c67cb56de8d",
+            "processedHdURL": "https://cdn.viggle.ai/template/56e2a78c-5123-480a-a8c7-8c67cb56de8d",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727055080467-810d0df8-d6e3-47c9-99f5-4f452a38f5fc.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0462dbdc-1ebb-48eb-8a3e-474db4969e25.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/078b6ae0-7780-4179-b401-cababb080900.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/d53a7710-41e8-4f6e-b786-b682ecf5b014.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7b80c2e8-7241-40a0-8482-26cf6b5b74e4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d8f3cbca-4699-47ca-bdf2-d600b4807c19",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727152197996-ca98f30c-7a94-4302-8e21-d2c9376ae12b.jpg",
+            "videoDuration": 1.020998,
+            "gifURL": "https://cdn.viggle.ai/template/1730709088663-fc251474-ca80-4541-9644-6d77edff3467.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709088187-3ea7da31-dc9c-4633-aede-36ee237e54ac.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3476d808-d1b4-46b1-a5e4-4923dc785300.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/eab39ec3-4c79-48dc-a6cc-660f3c767728.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=zW6Ed2LcGLhpyhV959BZz7GwUs8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "57200261-6617-4905-bf3c-96fa1cf7d155",
+            "command": "$walking_back_5",
+            "webCommand": "Walking Back 5",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Walking Back 5"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ab4c5cb8-b6b7-485b-a8bf-c77c959a1132",
+            "processedURL": "https://cdn.viggle.ai/template/ab4c5cb8-b6b7-485b-a8bf-c77c959a1132",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ab4c5cb8-b6b7-485b-a8bf-c77c959a1132",
+            "processedLargeURL": "https://cdn.viggle.ai/template/ab4c5cb8-b6b7-485b-a8bf-c77c959a1132",
+            "processedHdURL": "https://cdn.viggle.ai/template/ab4c5cb8-b6b7-485b-a8bf-c77c959a1132",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727055149018-ecaa1ee4-2899-4ce2-b0a4-8f2c930b3134.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c039e311-a177-4d40-b15d-78bba62af6f7.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/4a1afd5f-e587-4f37-a060-25f1896569db.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/be20c756-03eb-4274-b517-ce24026abfde.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6dbaf428-52c4-4bbe-9a3e-509b9a18ba2c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/aa8a30dc-9641-4527-a9fc-603be17d5047",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727152219529-e5d7d797-29f8-4060-b18f-8d86f886c460.jpg",
+            "videoDuration": 1.95,
+            "gifURL": "https://cdn.viggle.ai/template/1730709086768-ff3694ea-7ef7-4943-8dcd-921c4401f749.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709086030-a00dfa30-07ae-45f2-95c6-ba4a88952a09.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/b1e02f9f-af58-4807-9e22-162fb2ba80e5.jpg",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d37c7d52-ba4e-438f-a611-142e698f4439.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=zW6Ed2LcGLhpyhV959BZz7GwUs8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "69e03b14-0513-4e38-b4f2-e82a064ae78b",
+            "command": "$sit_up_and_yell",
+            "webCommand": "Sit up and yell",
+            "description": "Basic movement",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Sit up and yell"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "Trevor",
+            "processedMiniURL": "https://cdn.viggle.ai/template/e49ab064-c4ad-4baf-a6c7-e92181c651e4",
+            "processedURL": "https://cdn.viggle.ai/template/e49ab064-c4ad-4baf-a6c7-e92181c651e4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/e49ab064-c4ad-4baf-a6c7-e92181c651e4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e49ab064-c4ad-4baf-a6c7-e92181c651e4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e49ab064-c4ad-4baf-a6c7-e92181c651e4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1727055268005-7347432b-9253-4dd4-a573-66e722006ffd.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/a4ec394b-abc2-43d5-bc09-6c6d7effbf77.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9474bccf-6aef-4fc7-a386-bb14d9285439.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ff53bb59-e16c-47c4-af43-afdd89b73fc1.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/75bfc74c-8c45-4129-83ed-fab906fc42c6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/b84ba3dd-6441-4d82-8cd1-42d81bcb1d12",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1727152240387-91ab3654-6c3a-413f-a375-75f29b367e27.jpg",
+            "videoDuration": 3.966667,
+            "gifURL": "https://cdn.viggle.ai/template/1730709084417-facd866e-b88b-4df5-b90f-112b63315cbb.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709083858-9d4467dc-d7b2-46be-be9b-d5cf562417bb.webp",
+            "rleBoundingData": null,
+            "source": "Trevor",
+            "referenceImageURL": "https://cdn.viggle.ai/template/f2be1de7-59d6-4efd-a4de-027ffd85c120.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/4c011e92-79a9-4712-93b7-145f7c96210f.jpg",
+            "referenceImageURLs": null,
+            "width": 984,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "da6db002-fa6a-478a-b250-7bcd4a61adec",
+                "nickname": "star.luna127",
+                "avatar": "https://cdn.viggle.ai/template/5aa9632c-7fc5-4f1e-86ec-114cbc6b2625.png?Expires=1735188505\u0026KeyName=vigglecloudcdn2\u0026Signature=zW6Ed2LcGLhpyhV959BZz7GwUs8="
+            },
+            "tags": [
+                {
+                    "id": "474e42d8-3ec5-4967-b9fb-1c7d77a1b285",
+                    "name": "Basic Moves",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 120
+}

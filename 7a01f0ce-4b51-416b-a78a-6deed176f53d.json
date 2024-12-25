@@ -1,0 +1,1640 @@
+{
+    "code": 0,
+    "message": "ok",
+    "ts": "",
+    "reason": "",
+    "data": [
+        {
+            "id": "dd85ce53-69f4-4b18-833b-e5cfb22ffc61",
+            "command": "$victor_wembanyama_score",
+            "webCommand": "Victor Wembanyama Score",
+            "description": "",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "victor wembanyama"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4d9566c4-b1f5-4355-9788-005177464019.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/30bc4d36-d894-4ad3-9b77-05996f632588",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2cdc7f14-cb2d-43ee-af1b-c4250f1cf213.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/81d5205f-cea9-4dca-adaa-201125b8bc54.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/30bc4d36-d894-4ad3-9b77-05996f632588",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1730714545317-d1376c55-dd6e-42bd-89f8-f7167907c655.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/2848b40d-c825-477a-8245-1996f7c2daff.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9ea1d07b-77a4-4dd5-b25b-0ffa5f7532ff.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e5623c98-36d1-4fb5-974f-cba0fb71ed54.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e257b023-468a-4fae-a40d-fa5cbc31637f.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/67a85335-cd83-4ce0-9be1-66c641b0c983.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1730714935052-70bdafd2-73f4-4cdc-a505-b62070415c32.jpg",
+            "videoDuration": 10.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730714546370-b3c25baf-c593-4d31-b2f8-40b19e7a3b35.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730714545652-f86b6371-1f4c-4053-b2d5-fa97b1a7fd55.webp",
+            "rleBoundingData": null,
+            "source": "tt",
+            "referenceImageURL": "https://cdn.viggle.ai/template/1595f844-70ef-4598-93bf-6435f057af63.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/1595f844-70ef-4598-93bf-6435f057af63.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "7a18dd5a-70ef-4ce3-9755-cdcf723cb17a",
+                    "groupUuid": "7a18dd5a-70ef-4ce3-9755-cdcf723cb17a",
+                    "url": "https://cdn.viggle.ai/template/1595f844-70ef-4598-93bf-6435f057af63.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "7a18dd5a-70ef-4ce3-9755-cdcf723cb17a"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4e946e32-a825-4816-9e72-e3b58ee4e81f",
+            "command": "$i_understand_it_now",
+            "webCommand": "I understand it now",
+            "description": "basketball NBA",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "I understand it now"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "lethalshooter",
+            "processedMiniURL": "https://cdn.viggle.ai/template/fc5aab7c-822f-42b3-985a-8dd06f809233.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/bbdcf8b9-ba12-48e3-9887-6e11390ac779",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/5ffbdb0f-a76b-4e83-be93-2202416dd9a4.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8073adb2-e63b-4c81-864b-3f39cb038fb7.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/bbdcf8b9-ba12-48e3-9887-6e11390ac779",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1734283909454-4e81da6d-8b55-41bc-a874-556ccbb1781b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1b5e628e-0cff-4ca4-8a9d-7bc81adb4101.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/1e96b4e7-512f-48b1-917c-f8c74d6999de.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/6d177ffa-24db-4e22-a649-d1c00f744521.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/ed897201-6cf5-4164-9624-66b88480cedf.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/1e96b4e7-512f-48b1-917c-f8c74d6999de.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1734284247169-8b62f4c7-de24-4315-b28d-9270aac79730.jpg",
+            "videoDuration": 19.64,
+            "gifURL": "https://cdn.viggle.ai/template/1734283910693-3a877c25-64af-44bb-bf85-80a4b1164982.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1734283909832-61132b7e-c2a6-4422-9db8-7bf709084bf9.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: lethalshooter",
+            "referenceImageURL": "https://cdn.viggle.ai/template/19d755fe-5d03-45de-876e-aa23ccc3d661.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/19d755fe-5d03-45de-876e-aa23ccc3d661.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "fc571bdb-01ff-4e0e-af09-1d2ec4c71040",
+                    "groupUuid": "fc571bdb-01ff-4e0e-af09-1d2ec4c71040",
+                    "url": "https://cdn.viggle.ai/template/19d755fe-5d03-45de-876e-aa23ccc3d661.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "fc571bdb-01ff-4e0e-af09-1d2ec4c71040"
+                }
+            ],
+            "width": 1080,
+            "height": 1920,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=7zOTeFRGGNi0tvhEferVhKIZFSU="
+            },
+            "tags": [
+                {
+                    "id": "d92c8ba0-b5e5-4128-9387-97bf4384d404",
+                    "name": "Hot Picks",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "8882be8c-3e64-43ac-8ec4-0ca59ef546e2",
+            "command": "$full_court_shot",
+            "webCommand": "Full Court Shot",
+            "description": "NBA basketball",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Full Court Shot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "houseofhighlights",
+            "processedMiniURL": "https://cdn.viggle.ai/template/c1aa55c2-975b-4246-bc57-11d802f0a24b.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/1dfb84bf-8371-4e66-996d-3712ad9da371",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/7d8d2f47-812a-4b60-a151-e9a0626c34fa.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/812dc1ca-3b65-4420-869a-102035c91295.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1dfb84bf-8371-4e66-996d-3712ad9da371",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1732750584813-f6735fe2-4538-4127-bc37-c7c7a261117b.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ae25c491-faa5-43ea-9fb9-10f2654c6300.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/ce1bf8b4-6424-458b-889a-75f8d2b40642.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/79c4831f-cc8d-4a52-a03e-80c9b2df98c0.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/2623e9a7-fa41-4137-9887-7ba8ea98e93c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/0d94f786-62ae-4eee-af94-ea0931537c61.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1732750825205-640a0881-1b9a-4711-9de0-8877e7d7e603.jpg",
+            "videoDuration": 13.08,
+            "gifURL": "https://cdn.viggle.ai/template/1732750585854-bffd39fb-0fce-4808-ae04-94db15266668.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1732750585140-3890592f-8717-4a8c-9b94-531f5b4a2ada.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: houseofhighlights",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8d468c53-72ef-4da3-a8fb-bd1acae140b8.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8d468c53-72ef-4da3-a8fb-bd1acae140b8.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "089e04d4-014a-45df-a5a1-3d9dcc68fbda",
+                    "groupUuid": "089e04d4-014a-45df-a5a1-3d9dcc68fbda",
+                    "url": "https://cdn.viggle.ai/template/8d468c53-72ef-4da3-a8fb-bd1acae140b8.png",
+                    "uploadedUrl": "",
+                    "name": "Characters1",
+                    "startFrame": 0,
+                    "trackId": "089e04d4-014a-45df-a5a1-3d9dcc68fbda"
+                }
+            ],
+            "width": 608,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "0f581086-df0f-43a3-9cb3-55d5a4d80b89",
+                "nickname": "Trevor Leung",
+                "avatar": "https://cdn.viggle.ai/template/d1960a1c-c03d-4402-8955-c21ab1e2dde1.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=7zOTeFRGGNi0tvhEferVhKIZFSU="
+            },
+            "tags": [
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0bce06b1-8fd1-425d-ba30-766a85bd662a",
+            "command": "$mamba_out_kobe_speech",
+            "webCommand": "Mamba Out Kobe Speech",
+            "description": "/",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Mamba Out Kobe Speech"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "2306116148",
+            "processedMiniURL": "https://cdn.viggle.ai/template/3c6e8bdb-4877-4906-9cfc-0cf1e43b53c9.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/ed6f87ba-917c-48c3-8afa-31cdd956e013",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4447df34-720a-4f9e-88a5-e183ba6497de.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/5a22e10e-aa76-479e-b03d-70e0d51feb34.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ed6f87ba-917c-48c3-8afa-31cdd956e013",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1729253230855-8e232b25-7a37-42aa-b99b-42c55e1631fe.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/0ab26e05-001d-45d8-b388-21ba149467fd.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/0e4f1851-23ad-4bbb-8d91-fce70803e333.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/ad4f2fff-58bb-4b05-9d67-11e9a3d03261.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1cf665db-f343-491f-afcf-bfe4b7bd9880.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/8f80bc59-4066-440f-9568-74ce9ca0d307.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729254739976-3822809b-7a99-4166-b124-34245a8703a6.jpg",
+            "videoDuration": 9.88,
+            "gifURL": "https://cdn.viggle.ai/template/1730709552469-bf882fa8-9d91-4e97-b626-ead5b2f2bd98.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730709551682-9ee437f8-4273-4ed4-9810-7a19ce30d03f.webp",
+            "rleBoundingData": null,
+            "source": "UGC: 2306116148",
+            "referenceImageURL": "https://cdn.viggle.ai/template/556e7c15-82dc-4f16-ac5b-23b356440422.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/556e7c15-82dc-4f16-ac5b-23b356440422.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "b9752caf-85ef-4a2d-8c3f-13e15c6b1a7d",
+                    "groupUuid": "b9752caf-85ef-4a2d-8c3f-13e15c6b1a7d",
+                    "url": "https://cdn.viggle.ai/template/556e7c15-82dc-4f16-ac5b-23b356440422.png",
+                    "uploadedUrl": "",
+                    "name": "Henry",
+                    "startFrame": 0,
+                    "trackId": "b9752caf-85ef-4a2d-8c3f-13e15c6b1a7d"
+                }
+            ],
+            "width": 1920,
+            "height": 1080,
+            "isNew": false,
+            "user": {
+                "id": "f2091494-19b4-4523-a4f8-e22fa5ac6a4d",
+                "nickname": "swift.fox_",
+                "avatar": "https://cdn.viggle.ai/template/3470dd24-92bd-4112-87f0-7aa3a8e7f47d.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=B4A6nk7eKZ9uZmQqBpIrt4Qcae8="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "a660a44d-8618-4a1a-b096-3e413010760a",
+            "command": "$ja_morant_goal",
+            "webCommand": "Ja Morant Goal",
+            "description": "Ja Morant Goal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ja Morant Goal"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/3b427034-35f5-4e51-ab5d-3f0f495443ff.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/2e8f0d12-fea1-4bef-bfc8-af1841257407.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/ecced217-74f8-41cf-a523-db4c014353fc.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/b28db282-96b8-44e9-b9f4-85e2cc17d425.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/f1b21bee-fa40-459c-b98a-3f27f1a7312b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728627347316-7aa85f0f-e6a9-41d2-a209-825f0db7e10d.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/618321d5-279b-45b5-91dd-a59beb8c4d07.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/abf67db7-75b5-4dda-8c6e-751bacb2a31e.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/78fd4238-355e-4bf2-ab88-194191fbd1ea.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/66117f24-6829-419a-87b2-6cc59b128883.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/dbdc3ff2-36fe-4c8b-b7e0-1823d4e8c0fb",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728627347025-65b384d5-8c58-4dc9-aa32-c0e6373cf9bc.jpg",
+            "videoDuration": 6.32,
+            "gifURL": "https://cdn.viggle.ai/template/1730707603316-5734da83-c1d9-4a73-9b07-2ab7f5b002cd.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707602293-a1e3c868-f031-46b7-b0e4-4dae99002cd1.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/505b8043-e776-4a94-a0a2-6cd319d7d58e.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/505b8043-e776-4a94-a0a2-6cd319d7d58e.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "4dbafe78-513f-412f-ad43-343a55738135",
+                    "groupUuid": "4dbafe78-513f-412f-ad43-343a55738135",
+                    "url": "https://cdn.viggle.ai/template/505b8043-e776-4a94-a0a2-6cd319d7d58e.png",
+                    "uploadedUrl": "",
+                    "name": "Morant",
+                    "startFrame": 0,
+                    "trackId": "4dbafe78-513f-412f-ad43-343a55738135"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e1fb2fa9-674e-45b3-be7c-b8378649ce01",
+            "command": "$anthony_edwards_score",
+            "webCommand": "Anthony Edwards Score",
+            "description": "Anthony Edwards Poster dunk 😳 #nba #basketball #anthonyedwards #posterdunk",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Anthony Edwards Score"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/5121b84e-944a-4fa2-979a-f01ff2f2a830.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/79f344ed-eecc-4204-98e6-84add26df39d.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/c78beada-2817-4070-b69f-46aa1a03ccc3.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/7f54f6e7-8583-4fdb-804a-2e7f6f9efb24.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/122b8f24-eee4-467d-8025-527276367379",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728634895250-78da49ab-530d-4789-a118-63dd90a7fdbf.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ef0baab9-2636-4801-bab2-d4fd4095226a.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e2f34736-830f-41d8-8c01-9c3151045156.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/9be6119e-6db0-4d88-958a-3d2ba4c15a85.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/1149810d-1c9c-4ce5-8dc3-806b1cd89071.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/4a8672be-c850-466e-b147-0ad17ea50be4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728634894849-9ce95f39-462a-4233-8dd7-257c51269630.jpg",
+            "videoDuration": 7.054761,
+            "gifURL": "https://cdn.viggle.ai/template/1730707738015-b9eb8e24-6c3a-4a1b-9954-4cae2ac699be.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707737164-060400b9-2ef5-4c64-ac0c-6374c9f9fb3a.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/52abcd60-c6e7-4205-8a2d-46c2bc915b31.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/52abcd60-c6e7-4205-8a2d-46c2bc915b31.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "12ea2b5e-34c3-4447-ae61-96e08bab9a04",
+                    "groupUuid": "12ea2b5e-34c3-4447-ae61-96e08bab9a04",
+                    "url": "https://cdn.viggle.ai/template/52abcd60-c6e7-4205-8a2d-46c2bc915b31.png",
+                    "uploadedUrl": "",
+                    "name": "Edwards",
+                    "startFrame": 0,
+                    "trackId": "12ea2b5e-34c3-4447-ae61-96e08bab9a04"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c9e817ff-b703-41ed-82ff-8a56f273aa19",
+                    "name": "Most Popular",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "eb1d21b5-22e8-4d1f-9306-97539d1f5d90",
+            "command": "$jordan_poole_score_moment",
+            "webCommand": "Jordan Poole score moment",
+            "description": "Jordan Poole goal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jordan Poole score moment"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/8d9b7d5c-eeec-4db7-a38e-94df186b6d5f.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/a7948293-27f2-43d2-9bcb-ae398fd24fe1.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/5c584378-7768-4683-808a-82e22d972d49.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/aed42233-b066-448c-b2fc-cbdfbdd9d55f.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/fbbff64f-bd90-465f-9ab2-34a3d724b8d8",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728628115834-9c855d45-498e-474a-9350-618f426516d6.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/99e94590-913e-4b48-8897-b4bb5c4e4f1c.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/56a74acf-b9a9-4ea0-89d3-27683f70bf36.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/b13312d3-2903-407d-a091-fd2d5811012e.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/3fa52e81-10cd-4ae2-8627-f89499e5058c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d46a23c5-05d6-4863-a5b2-009e6d1ca94e",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728628115560-649c50b9-ca17-4109-86c1-6805f7995fb9.jpg",
+            "videoDuration": 4.68,
+            "gifURL": "https://cdn.viggle.ai/template/1730707669959-1d10b603-b79b-4936-8020-90b64d63fbc4.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707669113-040d3a5f-bdf3-43a4-8a9f-c45603628ad5.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d051ff70-d055-4a82-b57a-5f5e07d2aef7.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d051ff70-d055-4a82-b57a-5f5e07d2aef7.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "b9007f1c-2ccb-4eda-95a2-f8273b420822",
+                    "groupUuid": "b9007f1c-2ccb-4eda-95a2-f8273b420822",
+                    "url": "https://cdn.viggle.ai/template/d051ff70-d055-4a82-b57a-5f5e07d2aef7.png",
+                    "uploadedUrl": "",
+                    "name": "Poole",
+                    "startFrame": 0,
+                    "trackId": "b9007f1c-2ccb-4eda-95a2-f8273b420822"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "49e3d2a9-8b7e-4bda-85dc-dccff26c2eeb",
+            "command": "$jordan_poole_crossover_moves",
+            "webCommand": "Jordan Poole crossover moves",
+            "description": "Jordan Poole crossover moves",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Jordan Poole crossover moves"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/9909b626-7c16-4a3e-8096-322eedd1e0ac.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/0360cb7e-0ca0-4479-bd27-1ef0e5ade574.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/bc5bc3fb-8330-4bc3-ad09-ee81fabedf99.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/381027c4-6132-4748-949b-bf7b192fe1ff.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/605a1876-1738-4de9-afec-5c2ad6f43268",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728632946589-d2428f6b-ee8d-469f-93d6-27761d80c871.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/00848615-7ce4-4b2f-83cd-1d6eecedef2d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/d39da270-6230-4222-8356-5c4d8df5a949.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/081d159a-5245-4dc6-a9af-cb23e21f7c61.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/227f3e2d-710b-4de8-a878-8d4075ba14b6.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a8a4dd8d-f649-4167-a221-b8d81e6ce5d5",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728632946253-a531a616-eae3-4d30-9ef5-7023b735f290.jpg",
+            "videoDuration": 21.729773,
+            "gifURL": "https://cdn.viggle.ai/template/1730707606077-87a6948e-03e4-45d9-bb76-8b6f00f70279.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707605348-cdc2b45f-e8b5-422d-9b11-bb265a01f040.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: nbasportsworld",
+            "referenceImageURL": "https://cdn.viggle.ai/template/cd38cd4c-a407-4db2-bca3-29b81cd48ab7.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/cd38cd4c-a407-4db2-bca3-29b81cd48ab7.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "454de95c-0e0e-4ff3-bf7f-f1e0e4632b90",
+                    "groupUuid": "454de95c-0e0e-4ff3-bf7f-f1e0e4632b90",
+                    "url": "https://cdn.viggle.ai/template/cd38cd4c-a407-4db2-bca3-29b81cd48ab7.png",
+                    "uploadedUrl": "",
+                    "name": "Poole",
+                    "startFrame": 0,
+                    "trackId": "454de95c-0e0e-4ff3-bf7f-f1e0e4632b90"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "924cc501-1d4a-46d3-b171-8ed64f915d39",
+            "command": "$bronny_james_goal",
+            "webCommand": "Bronny James goal",
+            "description": "Bronny James goal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bronny James goal"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/d0330418-b867-44be-986e-783d6ffb3e4c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/f56018cf-9dcc-477a-808b-fbd7270c783d.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/b5e1d04d-22e1-4477-ad70-7532e660ceae.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/17c7c0c0-5b53-41ed-b93a-8113a615c906.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/7383bbe6-6217-4c96-ba9e-4ed8a3fdf3d1",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728632661004-b9f57f9e-f75b-40d1-8aeb-73b8be18ba73.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e866cae3-c50f-494e-acb8-088aabcc3ebf.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/fd3474e5-1cec-4cf3-abbf-1bf97207e2c3.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/4d251ebf-a727-417a-9225-6cdb74e84187.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/76191378-62a2-419c-ae93-b2da6f589c56.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f11b000a-6aa0-4047-8a96-6c5da9df5d9b",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728632660592-20badc2d-7627-451e-b880-99dd98be8ba8.jpg",
+            "videoDuration": 8.4,
+            "gifURL": "https://cdn.viggle.ai/template/1730707666841-4fbba9a7-9e1b-4b70-aec4-35231320908c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707665955-109f0aba-142c-4d49-996e-30d8e06e74a1.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/164ab983-320e-4844-a3a7-994d15fac0f9.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/164ab983-320e-4844-a3a7-994d15fac0f9.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "428e1989-d2be-40f5-9f90-8288e0d2cd19",
+                    "groupUuid": "428e1989-d2be-40f5-9f90-8288e0d2cd19",
+                    "url": "https://cdn.viggle.ai/template/164ab983-320e-4844-a3a7-994d15fac0f9.png",
+                    "uploadedUrl": "",
+                    "name": "Brony",
+                    "startFrame": 0,
+                    "trackId": "428e1989-d2be-40f5-9f90-8288e0d2cd19"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "0a151b51-2e44-4a51-9936-1435fb55d6e0",
+            "command": "$devin_booker_scores",
+            "webCommand": "Devin Booker scores",
+            "description": "Devin Booker scores",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Devin Booker scores"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/349ac9d7-ab3f-47fd-80c8-898ad66119d1.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/6661b071-8794-487b-9425-df39f6ad6e1b.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/1bf65865-6f54-419d-978b-7e59a0337901.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/499def3d-eec0-4be7-a413-1315bd4a31fd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1af8b259-8bce-486f-a374-d540c6af2190",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728634744121-4379bdae-d253-47be-8c7d-16a903a37866.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/e71ba57e-e9a9-4c1d-b40b-c5cf0f19235e.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/8c4a5157-0e87-4e19-aa8f-f940b4b45255.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7eeaff06-9c0d-4a0d-9d58-674fc68409a6.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9fba6820-3fb6-4c82-98ca-a2febe7fa34c.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/f52c5342-ca90-4b96-b357-c4dc992fdb36",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728634743864-24a81af8-6619-421f-b002-2cdf3c41f09f.jpg",
+            "videoDuration": 9,
+            "gifURL": "https://cdn.viggle.ai/template/1730707608895-11e5b25e-fefd-4173-a5db-2523a73d4085.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707608084-0809acb0-620d-472c-86fb-9e3dd51e4929.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/3871474b-1037-43df-81ad-fe579ab686cf.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/3871474b-1037-43df-81ad-fe579ab686cf.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "cb4faf3d-06c3-4b01-ad89-4aa36230ab92",
+                    "groupUuid": "cb4faf3d-06c3-4b01-ad89-4aa36230ab92",
+                    "url": "https://cdn.viggle.ai/template/3871474b-1037-43df-81ad-fe579ab686cf.png",
+                    "uploadedUrl": "",
+                    "name": "Booker",
+                    "startFrame": 0,
+                    "trackId": "cb4faf3d-06c3-4b01-ad89-4aa36230ab92"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "bbd422ae-acc5-41d8-8527-c44e17c3dd24",
+            "command": "$chris_paul_goal",
+            "webCommand": "Chris Paul goal",
+            "description": "Chris Paul goal",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Chris Paul goal"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/4955203b-de21-4a3c-ab9e-3342bb016e4d.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/9303ac2a-1147-4b10-bb08-98ef1dcb705e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/85d5238a-2cc0-4e3b-b1b4-908415b4eb73.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/3fac9584-7b6c-4664-b86d-ef953e01fc5d.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/559ae60d-87e6-41f2-a2e3-659ffbd1662c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728618154388-c2a3e0ca-4f86-4379-ac2a-28b310c9b375.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/69a59159-5a19-4e60-b3c2-1f850fb55e49.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/9c0083be-f9bf-47f8-ad81-a59e8a124779.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/f533cf31-b0fe-44d4-8ef8-c931d67f18f5.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/c22fc810-7459-466a-ba4d-bb641cc4723e.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a33c7709-b6aa-4338-b13b-a70a0730cdf8",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728618154126-48728523-e245-47e0-9ff8-30f3587371ef.jpg",
+            "videoDuration": 3.28,
+            "gifURL": "https://cdn.viggle.ai/template/1730707600387-adf648de-253f-4093-b589-968494b22b7c.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707599601-946b3f09-2884-4d3b-b365-caf0cc2ae444.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8eb6635a-024c-46a5-9a6e-3a891e12ba57.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8eb6635a-024c-46a5-9a6e-3a891e12ba57.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "95e5b80b-f660-4c5b-b949-56800841545c",
+                    "groupUuid": "95e5b80b-f660-4c5b-b949-56800841545c",
+                    "url": "https://cdn.viggle.ai/template/8eb6635a-024c-46a5-9a6e-3a891e12ba57.png",
+                    "uploadedUrl": "",
+                    "name": "Paul",
+                    "startFrame": 0,
+                    "trackId": "95e5b80b-f660-4c5b-b949-56800841545c"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "95ca11d0-8f5a-47fe-a1da-092145efabec",
+            "command": "$kevin_durant_unstoppable",
+            "webCommand": "Kevin Durant unstoppable ",
+            "description": "Kevin Durant unstoppable ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Kevin Durant unstoppable "
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/ba5342d9-f18c-45d6-a64b-7d8c578cc687.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/21f4447f-1faa-46a4-ad56-b304ed5ddfd0.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f5bbe522-dac4-4e18-854b-f51a150cc5dc.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0411272a-0043-4151-b128-80756d89efc8.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/ec6b1cbf-80ae-4624-93d3-c079b93c7add",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728629526619-af48ecdb-5732-40aa-aaf6-b376619dcee2.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/1ca34503-0f94-4566-ae04-fd441e5be845.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/be3db82f-375c-4c81-b363-51d0c4a54497.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/df0b5341-666e-4c27-aee3-db4342489b7c.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d60b59d7-b8c1-41eb-808e-8b7338ce1ef4.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/a01a842e-7d20-4f7a-a511-30bdd055c81b",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728629526184-3d032a51-5c1a-4d22-a9b4-13f96c198c6c.jpg",
+            "videoDuration": 7.08,
+            "gifURL": "https://cdn.viggle.ai/template/1730707597494-1e03418c-9989-432b-b594-84304d55a757.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707596743-32322bc5-7410-46ff-94e3-fdc55db893a3.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8d8d13b9-eab8-454d-b133-bc8c84b2545f.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8d8d13b9-eab8-454d-b133-bc8c84b2545f.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "67966a51-16c8-4265-9e09-d59a075e5c24",
+                    "groupUuid": "67966a51-16c8-4265-9e09-d59a075e5c24",
+                    "url": "https://cdn.viggle.ai/template/8d8d13b9-eab8-454d-b133-bc8c84b2545f.png",
+                    "uploadedUrl": "",
+                    "name": "Durant",
+                    "startFrame": 0,
+                    "trackId": "67966a51-16c8-4265-9e09-d59a075e5c24"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "865ffe42-8a8c-40a3-bde5-1df86f1a8b6c",
+            "command": "$i'm_a_fun_guy",
+            "webCommand": "I'm a fun guy",
+            "description": "I'm a fun guy, Kawhi Leonard laughs at Media Day and says he is a fun guy",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "I'm a fun guy"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/87992cd4-86c5-4f28-864d-a742b55ba9c6.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/808bae60-8fdf-4ddb-906f-0f7cdf9582f6.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/38619218-55db-4b4f-beef-b162a006eb07.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/f23d84c5-db1b-4467-b801-fb41c76c538e.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/808bae60-8fdf-4ddb-906f-0f7cdf9582f6.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553864275-1ff07c41-f201-4853-a34b-148ff8bcbebd.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/27e9a800-ae45-4df9-b03c-7927e96cc84e.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/56dd89f3-8333-42ef-8316-46eeeb732a5d.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/1ef61192-2cf6-4d02-ac8b-fff86dc64114.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/4224b61f-935b-4836-bef0-d0669b0d1060.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/56dd89f3-8333-42ef-8316-46eeeb732a5d.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553862935-61b74312-7096-4671-96ac-dab10da7e306.jpg",
+            "videoDuration": 6.04,
+            "gifURL": "https://cdn.viggle.ai/template/1730706464895-8fb150ce-43bb-447e-abb3-d4b0f90c9508.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706463908-18f7b2f3-d00a-4972-8501-e9b6359fb1bc.webp",
+            "rleBoundingData": null,
+            "source": "Youtube: Ball",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d14e8888-216d-4f2f-a10b-6330c6723497.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/9f10b1e0-afdb-4f0f-b10d-63dcb4be9add.jpg",
+            "referenceImageURLs": null,
+            "width": 1072,
+            "height": 718,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=ty3A4fJ6c--Xv9xg6ht--2ei6os="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "29661304-1f44-43a3-8937-1afb0982b653",
+                    "name": "Meme",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "fc9b97a2-528a-44c2-8d95-20b39454e3cd",
+            "command": "$steph_curry_edits",
+            "webCommand": "Steph Curry edits",
+            "description": "Steph Curry nba2",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Steph Curry edits"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/42f4ffb9-9794-47c3-800e-68aea54c6ed5.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/7d357b29-d763-4c99-89e4-42158c1f7ccf.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/f8d3d9b0-0905-49c5-96a5-8dba4385a194.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/cd35f92d-4d58-4c7b-8e8d-7d4dd4c5d9ec.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/8e9b5fba-a540-42e0-9f68-d2937d9cc53c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728630018676-d1e06eaa-76c5-4f58-8b58-2db7d10b8021.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/ffc41093-bd4c-4e92-aa58-7691f565bf19.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/3fde8e39-07b6-4c75-9d9e-76d72dd3a3c1.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/7aa9ddf4-bf9f-4c32-a94e-bd7073805ad7.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/dbb4f791-bac7-4dea-bd94-a5c2d6dfc6ec.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/71c7cdf6-1ad1-4813-937a-8988a02a7caf",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728630017954-aab82748-7a43-4fac-a700-c3026b989a78.jpg",
+            "videoDuration": 9.72,
+            "gifURL": "https://cdn.viggle.ai/template/1730707675094-cbd45f4a-e73d-4e9d-ac0d-052658933576.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707674451-4042b46d-bf5f-4b19-abfc-365fb1a9e625.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/e83a0252-bf03-44fd-a385-41bb465f21cd.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/e83a0252-bf03-44fd-a385-41bb465f21cd.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "f7b32b00-b449-45f6-a06d-f39dc4f2a1b8",
+                    "groupUuid": "f7b32b00-b449-45f6-a06d-f39dc4f2a1b8",
+                    "url": "https://cdn.viggle.ai/template/e83a0252-bf03-44fd-a385-41bb465f21cd.png",
+                    "uploadedUrl": "",
+                    "name": " Curry",
+                    "startFrame": 0,
+                    "trackId": "f7b32b00-b449-45f6-a06d-f39dc4f2a1b8"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "e018e59a-0dac-45dd-af28-107c370d8c1b",
+            "command": "$what_westbrook",
+            "webCommand": "What westbrook",
+            "description": "Nba, westbrook, what, confused, medium shot",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "What westbrook"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/5eee3963-b48c-408c-9bfe-744dd096a516.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/e0fe3fa7-e556-421f-95de-c89f2fa963dc.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0acf2549-f44c-41e6-b814-ddf3f2e3cbc5.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/28b2d16f-3cfa-404a-9274-186c738383cd.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/e0fe3fa7-e556-421f-95de-c89f2fa963dc.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553541365-21755734-ab99-4162-812f-cfac3595272a.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/c36e9abc-a486-4460-942e-7a4190b81afe.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/121bbaa2-d9a0-40ab-9548-ec331d46ac67.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e435a69b-fc50-4226-a2a5-6efc7f248b57.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7f377c36-e45e-421c-a106-2ff499df8b69.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/121bbaa2-d9a0-40ab-9548-ec331d46ac67.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553539922-2e47dab2-92c0-40ac-8a1a-7356dec0815c.jpg",
+            "videoDuration": 5.52,
+            "gifURL": "https://cdn.viggle.ai/template/1730706287904-1433d04f-5f7d-4559-9972-b505f2a8e4d9.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706286955-f7b4aa10-01bd-431d-ae0b-5094c77f537b.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: dookie_rockz",
+            "referenceImageURL": "https://cdn.viggle.ai/template/72588b90-a727-4078-b923-894f5ca47463.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/bb77f6fc-7fc1-4d88-875d-f80210869141.jpg",
+            "referenceImageURLs": null,
+            "width": 1280,
+            "height": 720,
+            "isNew": false,
+            "user": {
+                "id": "f32ccdd1-7b52-4f72-8737-dcc14306f76f",
+                "nickname": "AvaSkye",
+                "avatar": "https://cdn.viggle.ai/template/0491d210-33cb-4260-8493-8201aa8d50fe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=_ElrFQX67XURKCfeWn5hleKTWw4="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "9c3da242-f633-4f01-b7e3-70147cc20f2a",
+            "command": "$bronny_james_clips",
+            "webCommand": "Bronny James clips",
+            "description": "Bronny James clips",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bronny James clips"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f013dbe2-8797-407f-b54d-8414cb6c55ec.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/d3f0db2f-640f-417f-9307-0ec8f5a772a0",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/2eea0a43-30bc-4d37-97fc-bd9b12fb2502.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e9fd20ef-1d6b-41ff-b312-ba661827d26b.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/d3f0db2f-640f-417f-9307-0ec8f5a772a0",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728634189669-7a66b001-fc16-4589-9b02-85dcd17e3658.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/250e5950-7d52-4bf5-829b-2197e4f5b9ed.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/792c6407-7083-43c4-8bcd-f8c5c1a968e6.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/e13c1b96-2aba-47d3-bfaf-b7962d439371.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/7516730e-c0cd-453a-97b6-e053f6a17cdf.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/d00f1a69-e2d1-4618-a2ca-3a57b8da6ee0.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1729063056160-9b890b4a-1834-4c04-adae-dbf439a40ad5.jpg",
+            "videoDuration": 5.92,
+            "gifURL": "https://cdn.viggle.ai/template/1730707663777-b25a7fef-c5cb-4a7e-ab66-a5f529f35d5d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707662948-4f425269-f7bd-46b9-844d-b215b7d8d10c.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/d92f52ef-4e02-474e-bf3b-8590678e7e62.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d92f52ef-4e02-474e-bf3b-8590678e7e62.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "2027fb33-ce9a-4a72-9e49-bf2833ee2471",
+                    "groupUuid": "2027fb33-ce9a-4a72-9e49-bf2833ee2471",
+                    "url": "https://cdn.viggle.ai/template/d92f52ef-4e02-474e-bf3b-8590678e7e62.png",
+                    "uploadedUrl": "",
+                    "name": "Brony",
+                    "startFrame": 0,
+                    "trackId": "2027fb33-ce9a-4a72-9e49-bf2833ee2471"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "182e5ea3-9ba1-4ede-abc4-7ddc99c54c82",
+            "command": "$ja_morant_shoot",
+            "webCommand": "Ja Morant shoot",
+            "description": "Ja Morant shoot",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Ja Morant shoot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/391d921c-1b51-470a-b396-c4c431cfc4c7.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/27f19c39-85af-4f6f-a5e2-d2cd515ef07e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/6bd44974-258e-465b-872e-02093c633236.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0403b887-863f-4c65-8bce-3f7f9f6883dc.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/7e2febe3-3729-4ac2-82c8-fb89574469eb",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728632079061-f3a3108b-6351-499e-b771-ceb29c223fa5.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/715590e9-875a-41e8-984f-fe115be01143.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/e9328d02-1238-4c0b-ac52-631592c7b855.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/85054fb4-db48-435e-85be-6201324d2c75.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d1f8781f-8b8b-47a8-a71f-62c494e7f88d.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/25d3e45d-9f19-4e93-882a-d64333717573",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728632078775-f2c1fa9a-94de-4f17-a1d7-5a5cd68571bb.jpg",
+            "videoDuration": 8.451995,
+            "gifURL": "https://cdn.viggle.ai/template/1730707672624-72ca9e2b-dae0-429f-8802-46fe154dd902.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707672003-de641ee1-ff95-4fc8-a490-8a833275df90.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/370d337e-1813-4b77-89c4-1f366fd5c895.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/370d337e-1813-4b77-89c4-1f366fd5c895.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "d679b94e-c8ca-4ae8-91e8-c9288fdf6244",
+                    "groupUuid": "d679b94e-c8ca-4ae8-91e8-c9288fdf6244",
+                    "url": "https://cdn.viggle.ai/template/370d337e-1813-4b77-89c4-1f366fd5c895.png",
+                    "uploadedUrl": "",
+                    "name": "Morant",
+                    "startFrame": 0,
+                    "trackId": "d679b94e-c8ca-4ae8-91e8-c9288fdf6244"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "1a0b5722-e974-4a29-9434-1472e79d6f9a",
+            "command": "$bronny_james_moments",
+            "webCommand": "Bronny James moments",
+            "description": "Bronny James moments",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bronny James moments"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/f721c5dc-7318-4be2-bc0b-801814db6e0c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/29e704c4-4a70-4292-9f68-1758045ed78e.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/7ca340be-508c-47f8-8f51-29b7a108280e.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/8134e358-e657-45f1-ab51-3b604a249277.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/623286d4-d3f5-4784-8fa7-9e50a847412b",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728634277888-353e4ba0-1f97-44c2-bc72-929642d053ab.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6c758a41-cb67-4381-907b-f075946c1dc2.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/c9d90914-c6aa-419a-ad86-46c0055ab6c4.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/5b061280-91d9-4bb1-95b4-0a8130ae1145.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/9f638f6a-37c8-4398-b862-2131de57dc54.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/7523de9d-38b7-40d1-a7bf-611a44b973e4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728634277612-c4cb95e5-24cf-4f46-a5a8-e6070ac2d12e.jpg",
+            "videoDuration": 5.2,
+            "gifURL": "https://cdn.viggle.ai/template/1730707661265-489930ec-8bd8-4b80-83f8-be2516d2c083.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707660547-0ac94780-4ff3-4296-80e8-0e61ee01b9bc.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/5235ee6e-a51b-4ebe-bd1e-385c72d84945.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/5235ee6e-a51b-4ebe-bd1e-385c72d84945.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "ee3cbeab-2bf6-4692-b84a-4412eb6897d7",
+                    "groupUuid": "ee3cbeab-2bf6-4692-b84a-4412eb6897d7",
+                    "url": "https://cdn.viggle.ai/template/5235ee6e-a51b-4ebe-bd1e-385c72d84945.png",
+                    "uploadedUrl": "",
+                    "name": "Brony",
+                    "startFrame": 0,
+                    "trackId": "ee3cbeab-2bf6-4692-b84a-4412eb6897d7"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "67fca4bb-40db-4d38-8629-6bf4a8c3d0cd",
+            "command": "$bronny_james_nba",
+            "webCommand": "Bronny James NBA",
+            "description": "Bronny James moments ",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Bronny James NBA"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/2b90b5d6-fb65-483d-ac16-74e5930a2107.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/7925d80e-ff70-4bb3-971d-864e79ac64ba.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/4b2162d7-10b5-4884-92d3-09ee7857a0fd.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/e3c12124-8799-4695-82f8-f108c1e9b645.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/c6f1822d-73ea-4153-9451-326f430e70d7",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728631650336-5c0d17e3-0116-40c8-b868-925083b3396c.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/6e5ae1e2-9018-4af8-9fbd-d2bd552c9bcf.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/7ac79c17-72d4-47e4-b98e-6ae1f7b76bc5.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/34179856-6f28-4d9d-8379-3d5f441903f9.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/e2e87cf8-01b9-47fa-8ff9-1d617ef89d07.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/5be4b4ac-f0ec-4f69-b4ad-b8e8897d68a3",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728631650041-cff6af4e-37f3-45bf-867b-87d00e5773e3.jpg",
+            "videoDuration": 10.491315,
+            "gifURL": "https://cdn.viggle.ai/template/1730707611854-1d4ca7a1-fd44-4b82-b217-cb0e2535a720.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707611182-ed16026b-0d01-4576-8511-7169d15c07ec.webp",
+            "rleBoundingData": null,
+            "source": "TikTok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/dc56a83b-813d-46a7-9f41-184c75b89417.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/dc56a83b-813d-46a7-9f41-184c75b89417.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "7fdef2c8-920b-40b3-b6b7-3fe4bb7167ba",
+                    "groupUuid": "7fdef2c8-920b-40b3-b6b7-3fe4bb7167ba",
+                    "url": "https://cdn.viggle.ai/template/dc56a83b-813d-46a7-9f41-184c75b89417.png",
+                    "uploadedUrl": "",
+                    "name": "Brony",
+                    "startFrame": 0,
+                    "trackId": "7fdef2c8-920b-40b3-b6b7-3fe4bb7167ba"
+                }
+            ],
+            "width": 576,
+            "height": 1024,
+            "isNew": false,
+            "user": {
+                "id": "2d44bb3f-780e-475f-839b-d471ea9b2232",
+                "nickname": "Kaito",
+                "avatar": "https://cdn.viggle.ai/template/5c73399b-9688-4870-ba73-5caa27861cfe.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=mKxUarzu_3TCOs5PLEqXgajUtsc="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "45966765-6aa8-4baf-b748-355b05604f5b",
+            "command": "$nba_slam_dunk_contest",
+            "webCommand": "Nba slam dunk contest",
+            "description": "Nba slam dunk contest",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Nba slam dunk contest"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/997aa266-7be9-4e8f-8d59-94f63f761394.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/77047c0b-b6be-4113-843b-8d77cc8709b5.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/7cf847cc-7901-4daf-809f-8c20dda5c0f0.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/0fabef42-803b-4821-bc82-6a5564547ec6.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/77047c0b-b6be-4113-843b-8d77cc8709b5.mp4",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1725553857830-56a7bbda-1881-415f-80d4-7efcee8dcdbe.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/b53de4a6-d305-4214-9045-3584bb6d261d.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/2cfb41ab-cbfb-4e0d-9e58-5d10aea76501.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/3c426827-55cf-4c72-97f9-bec832f54fce.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/6028db0f-402a-46c9-9e7c-789e67b04c45.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/2cfb41ab-cbfb-4e0d-9e58-5d10aea76501.mp4",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1725553856597-370fd0b6-8563-4b54-8c1f-1d3246d221e5.jpg",
+            "videoDuration": 3.96,
+            "gifURL": "https://cdn.viggle.ai/template/1730706460692-0fad706c-23c7-404c-a05b-351e6aa17d89.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730706459298-e02f5893-a77c-463e-acde-21d6af038093.webp",
+            "rleBoundingData": null,
+            "source": "YouTube: Universe of Highlights",
+            "referenceImageURL": "https://cdn.viggle.ai/template/735e0bc3-5a52-46b6-a041-8ab87152e2e4.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/d7ee73e2-0970-4f74-91b6-1d151b5d5d52.jpg",
+            "referenceImageURLs": null,
+            "width": 1072,
+            "height": 1076,
+            "isNew": false,
+            "user": {
+                "id": "1c907b0e-9153-44f4-97a5-e5c2a8ec3b6b",
+                "nickname": "MiaStar",
+                "avatar": "https://cdn.viggle.ai/template/0280bb2d-1055-4f96-8495-10f4dfa6170c.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=ty3A4fJ6c--Xv9xg6ht--2ei6os="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "c8975cda-d498-4ae1-a526-29ac4f347a97",
+                    "name": "Singing \u0026 Dancing",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        },
+        {
+            "id": "4a8b3123-a746-4f23-a15d-53d3eeca85f6",
+            "command": "$chet_holmgren_shoot",
+            "webCommand": "Chet Holmgren shoot",
+            "description": "Chetholmgren nba2",
+            "descParts": [
+                {
+                    "type": 0,
+                    "value": "Chet Holmgren shoot"
+                }
+            ],
+            "multiType": 0,
+            "webStatus": null,
+            "dcStatus": null,
+            "appStatus": null,
+            "dcUsername": "",
+            "ttCreatorName": "",
+            "processedMiniURL": "https://cdn.viggle.ai/template/465fbcc1-ed8c-40f9-af68-8a029201738c.mp4",
+            "processedURL": "https://cdn.viggle.ai/template/b3d3bd5a-7f87-4cf8-a2e2-ae8879b661aa.mp4",
+            "processedMiddleURL": "https://cdn.viggle.ai/template/0ac29382-7410-4843-88d7-e2be4089619c.mp4",
+            "processedLargeURL": "https://cdn.viggle.ai/template/dded9a25-358d-4ce3-9f66-872255d0a5fa.mp4",
+            "processedHdURL": "https://cdn.viggle.ai/template/1c813596-a155-41da-ad93-26f699a0d05c",
+            "processedCoverURL": "https://cdn.viggle.ai/template/1728618522299-f5585486-fd83-485e-854d-989067a38ed7.jpg",
+            "displayMiniURL": "https://cdn.viggle.ai/template/25f5c2eb-bccd-4cc7-ba91-265046f6bece.mp4",
+            "displayURL": "https://cdn.viggle.ai/template/3e2396f4-c7bd-4684-9e3e-446ca1c9af61.mp4",
+            "displayMiddleURL": "https://cdn.viggle.ai/template/24b69225-75a5-47cc-b673-53ab3235f742.mp4",
+            "displayLargeURL": "https://cdn.viggle.ai/template/d497c566-6d01-4d50-bcd7-07710ac24576.mp4",
+            "displayHdURLDown": "https://cdn.viggle.ai/template/c8b1f5e0-518c-434b-9ca7-5481ec74f84f",
+            "displayCoverURL": "https://cdn.viggle.ai/template/1728618522000-3251ee5b-a15d-42fc-9103-d29485cb68ed.jpg",
+            "videoDuration": 7.32,
+            "gifURL": "https://cdn.viggle.ai/template/1730707677456-db844acf-d54a-46e3-b43e-48740d750d4d.gif",
+            "webPURL": "https://cdn.viggle.ai/template/1730707676775-dbbfafe7-cae2-439a-a36a-5d9d89e8842d.webp",
+            "rleBoundingData": null,
+            "source": "Tiktok: jnglert",
+            "referenceImageURL": "https://cdn.viggle.ai/template/8a967e88-e7e4-4d74-942f-876d9be0b3be.png",
+            "referenceImageSdURL": "https://cdn.viggle.ai/template/8a967e88-e7e4-4d74-942f-876d9be0b3be.png",
+            "referenceImageURLs": [
+                {
+                    "uuid": "5a5a61ed-e9de-4a76-a297-0263cc46628f",
+                    "groupUuid": "5a5a61ed-e9de-4a76-a297-0263cc46628f",
+                    "url": "https://cdn.viggle.ai/template/8a967e88-e7e4-4d74-942f-876d9be0b3be.png",
+                    "uploadedUrl": "",
+                    "name": "Chet",
+                    "startFrame": 0,
+                    "trackId": "5a5a61ed-e9de-4a76-a297-0263cc46628f"
+                }
+            ],
+            "width": 720,
+            "height": 1280,
+            "isNew": false,
+            "user": {
+                "id": "d082666c-f5a4-492d-8726-3e2c667ba76f",
+                "nickname": "Shin",
+                "avatar": "https://cdn.viggle.ai/template/27eb48fd-9743-4835-a258-bdbc4d26c22e.png?Expires=1735188218\u0026KeyName=vigglecloudcdn2\u0026Signature=GQDecbDffh5huD1AznMTldFhj4Y="
+            },
+            "tags": [
+                {
+                    "id": "a25e8f9a-e932-46a0-9954-9bccb3015b4b",
+                    "name": "Discover",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "f8748bdc-e9df-4470-956a-bf57d6e5d324",
+                    "name": "Sports",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                },
+                {
+                    "id": "7a01f0ce-4b51-416b-a78a-6deed176f53d",
+                    "name": "NBA",
+                    "remixCount": 0,
+                    "single": null,
+                    "multiple": null
+                }
+            ]
+        }
+    ],
+    "total": 21
+}
